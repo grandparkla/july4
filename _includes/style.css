@@ -1,0 +1,493 @@
+
+  @charset "utf-8";
+
+  /*
+  Grand Park LA Style Sheet
+
+  Sections are grouped under headings with a “=” symbol,
+  to make searching easier.
+
+  When a style is used more than once, it sometimes has a “@keyword”
+  in a comment next to it (to help with search and replace).
+
+  For example…
+
+  16px  @font-size
+  24px  @line-height
+  32em  @page-max-width
+  */
+
+
+  /* =Colors
+  ----------------------------------------------- */
+  body {
+    background: rgb(252, 254, 252);
+
+    color: rgb(252, 239, 71); /* @yellow */
+    color: rgb(235, 12, 128); /* @pink */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    color: rgb(140, 197, 65); /* @green */
+    color: rgb(90, 150, 55); /* @mediumgreen */
+
+    color: rgb(76, 78, 76);
+  }
+
+  strong {
+    font-weight: inherit;
+    color: rgb(235, 12, 128); /* @pink */
+  }
+
+  h1, h2 {
+    color: rgb(235, 12, 128); /* @pink */
+  }
+
+  a {
+    color: inherit;
+    color: rgb(90, 150, 55); /* @mediumgreen */
+    transition: color 0.2s;
+    text-decoration: none;
+  }
+  a[href]:hover,
+  a[href]:active,
+  a[href]:focus {
+    color: rgb(235, 12, 128); /* @pink */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    text-decoration: underline;
+  }
+
+
+  /* =Fields
+  ----------------------------------------------- */
+  textarea {
+    margin: 0.725em 0 0 0;
+    font-size: inherit;
+    font-family: inherit;
+    padding: 0;
+    border: 2px solid rgb(242, 244, 242);
+    background: rgb(242, 244, 242);
+    padding: 0.725em 1.45em;
+    width: 100%;
+    box-sizing: border-box;
+    line-height: 1.45;
+    min-height: 4.35em;
+    text-align: center;
+  }
+
+
+  /* =Type
+  ----------------------------------------------- */
+  body {
+    font: 100%/1.45 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0 1.45em 0;
+  }
+
+  /* OPTIONAL: Increase the font size on big screens. */
+  @media screen and (min-width: 600px) and (min-height: 600px) {
+    html {
+      font-size: 112.5%;
+    }
+  }
+  @media screen and (min-width: 800px) and (min-height: 800px) {
+    html {
+      font-size: 125%;
+    }
+  }
+  @media screen and (min-width: 1000px) and (min-height: 1000px) {
+    html {
+      font-size: 137.5%;
+    }
+  }
+  @media screen and (min-width: 1200px) and (min-height: 1200px) {
+    html {
+      font-size: 150%;
+    }
+  }
+
+  /* SHIM: Siteleaf insists on adding paragraphs inside lists. */
+  li p {
+    margin: 0;
+  }
+
+  /* Limit line lengths, for readability. */
+  h1, h2, h3, h4, p, ol, ul, dl, .map, .video, figure {
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.725em;
+    margin-bottom: 0.725em;
+  }
+
+  dt {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 0.375em;
+  }
+  dd {
+    padding-bottom: 0.375em;
+  }
+  @media (min-width: 20em) {
+    dl:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    dt {
+      clear: both;
+      float: left;
+      width: 9em;
+      text-align: left;
+      padding-bottom: 0.375em;
+      box-sizing: border-box;
+      white-space: nowrap;
+    }
+    dt + dd {
+      border-top: 1px solid rgba(0, 0, 0, 0.1);
+      padding-top: 0.375em;
+    }
+    dd {
+      padding-left: 1.45em;
+      margin-left: 9em;
+    }
+  }
+
+
+  /* =Links
+  ----------------------------------------------- */
+  a img {
+    border-width: 0; /* For Explorer */
+  }
+
+
+  /* =Headlines
+  ----------------------------------------------- */
+  h1,
+  h2,
+  h3,
+  h4 {
+    margin-top: 1.45rem;
+    margin-bottom: 0.725rem;
+  }
+  h1,
+  h2 {
+    font-size: 1.75em;
+    line-height: 1.2428571429;
+    font-size: 1.375em;
+    line-height: 1.5818181818;
+    margin-top: 2.7rem;
+  }
+  h3 {
+    font-size: inherit;
+  }
+  h4 {
+    font-size: inherit;
+    font-weight: inherit;
+    font-style: italic;
+  }
+  h3 + h4 {
+    margin-top: 0;
+    margin-bottom: 1.45rem;
+  }
+  @media (min-width: 50em) {
+    h1,
+    h2 {
+      margin-top: 2.9rem;
+      padding-top: 2.8rem;
+    }
+    h3 {
+      margin-top: 1.45rem;
+    }
+  }
+
+
+  /* =Header
+  ----------------------------------------------- */
+  header h1 {
+    font-size: inherit;
+    background-color: rgb(14, 18, 31) !important;
+    color: white;
+    position: relative;
+    margin: 0 -1.45em;
+    padding-left: 1.45em;
+    padding-right: 1.45em;
+    padding-top: 0;
+    padding-bottom: 1.45em;
+    text-align: center;
+    position: relative;
+    max-width: none;
+    overflow-y: hidden;
+  }
+  header h1 img {
+    display: block !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+  }
+  header h1 svg {
+    display: block;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 500px;
+    height: 70vh;
+    margin-bottom: -1.45em;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    header h1 .portrait {
+      display: none;
+    }
+    header h1 .landscape {
+      display: block !important;
+    }
+  }
+
+
+  /* =Icon Button
+  ----------------------------------------------- */
+  a.has-icon {
+    display: block;
+    position: relative;
+    text-decoration: none
+  }
+  figure a.has-icon {
+    position: absolute;
+  }
+
+  .has-icon .icon {
+    position: absolute;
+    top: 0.725em;
+    right: 0.725em;
+    background: black;
+    background: rgba(0, 0, 0, 0.75);
+    padding: 0.35em 0.4em 0em 0.4em;
+    border-radius: 0.3125em;
+    color: white;
+    transition: background-color 0.2s;
+    font-size: 1.5em;
+  }
+  .has-icon .icon.play {
+    top: 50%;
+    left: 50%;
+    right: auto;
+    padding: 0.725em 1.45em 0.3625em 1.45em;
+    margin-top: -1.0875em; /* (line height + vertical padding) / 2    (1.45em + 1.45em) / 2  */
+    margin-left: -1.95em; /* (icon width + horizontal padding) / 2    (1em + 2.9em) / 2  */
+  }
+
+  .has-icon:hover .icon,
+  .has-icon:active .icon,
+  .has-icon:focus .icon {
+    background-color: black
+  }
+
+  .has-icon .icon {
+    vertical-align: middle
+  }
+
+  .has-icon svg {
+    width: 1em;
+    height: 1em
+  }
+
+  .has-icon svg polygon {
+    fill: currentColor
+  }
+
+
+
+
+  /* =Footer
+  ----------------------------------------------- */
+  body > h2:last-of-type,
+  body > p:last-of-type {
+    text-align: center;
+  }
+  body > h2:last-of-type {
+    max-width: none;
+    color: inherit;
+  }
+  body > h2:last-of-type a,
+  body > h2:last-of-type span {
+    display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
+  }
+  body > p:last-of-type {
+    margin: 2.9em auto;
+  }
+  body > ul:last-of-type {
+    margin-top: 1.45em;
+    margin-bottom: 1.45em;
+    max-width: none;
+    text-align: center;
+  }
+  @media (min-width: 45em) {
+    body > ul:last-of-type {
+      margin-top: 4.35em;
+      margin-bottom: 4.35em;
+    }
+    body > p:last-of-type {
+      margin-top: 4.35em;
+      margin-bottom: 5.8em;
+    }
+  }
+  body > ul:last-of-type,
+  body > ul:last-of-type li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  body > ul:last-of-type li {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 1.45em;
+  }
+  body > ul:last-of-type img {
+    width: auto;
+    height: 2.9em;
+  }
+  @media (min-width: 100em) {
+    body > ul:last-of-type li {
+      font-size: 1.5em;
+    }
+  }
+
+
+  /* =Images
+  ----------------------------------------------- */
+  @media (max-width: 40em) {
+    figure,
+    .video,
+    .map {
+      margin-left: -1.45em;
+      margin-right: -1.45em;
+    }
+  }
+  figure,
+  .map,
+  .video {
+    margin-top: 1.45em;
+    position: relative;
+  }
+  @media (min-width: 45em) {
+    .map,
+    figure,
+    .video {
+      margin-top: 2.9em;
+      margin-bottom: 2.9em;
+    }
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* OPTIONAL: Show a preview image while the real image is loading */
+  figure > div {
+    background: rgb(204, 206, 204);
+    position: relative;
+
+    /* KUDOS: http://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur#answer-23370117 */
+    overflow: hidden;
+
+    /* TRICKY: This causes iOS 7 & 8 to crash.
+    -webkit-transform: translate3d(0, 0, 0);
+    */
+  }
+  figure a,
+  figure img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 0;
+    min-height: 0;
+    max-width: none;
+  }
+  figure a {
+    height: 100%;
+  }
+  figure img.preview {
+    margin: calc(-3em);
+    width: calc(100% + 6em) !important;
+    -webkit-filter: blur(1.5em);
+            filter: blur(1.5em);
+  }
+
+
+  /* =Map
+  ----------------------------------------------- */
+  .map iframe {
+    width: 100%;
+    height: 500px;
+    max-height: 50vh;
+  }
+
+
+  /* =Video
+  ----------------------------------------------- */
+  .video div {
+    display: block;
+    position: relative;
+  }
+  .video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+
+  /* =Navigation
+  ----------------------------------------------- */
+  body > ul:first-of-type,
+  body > ul:first-of-type li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  body > ul:first-of-type {
+    margin-left: auto;
+    margin-top: 2.175em;
+    margin-bottom: 1.45em;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  @media (min-width: 50em) {
+    body > ul:first-of-type {
+      margin-top: 3.625em;
+      margin-bottom: 2.175em;
+    }
+  }
+  body > ul:first-of-type li {
+    display: inline-block;
+    margin-right: 0.25em;
+    margin-bottom: 0.25em;
+    flex-grow: 1;
+  }
+  body > ul:first-of-type a {
+    display: block;
+    text-align: center;
+    padding: 0.725em 1.45em;
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
+    color: white;
+    background-color: rgb(140, 197, 65); /* @green */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    text-decoration: none;
+    border-radius: 0.25em;
+    transition: background-color 0.2s, color 0.2s;
+    font-weight: bold;
+  }
+  body > ul:first-of-type a[href]:hover,
+  body > ul:first-of-type a[href]:active,
+  body > ul:first-of-type a[href]:focus {
+    background-color: rgb(235, 12, 128); /* @pink */
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
+    color: white;
+    text-decoration: none;
+  }
+
