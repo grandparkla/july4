@@ -1,11 +1,10 @@
 ---
 title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
-date: 2017-05-22 15:35:00 -08:00
-layout: default
 ---
 
 * [Safety](#safety)
 * [Schedule](#event-schedule)
+* [Kid’s Play Space](#play-space-for-kids)
 * [Transportation](#transportation)
 
 **Los Angeles! #Go4thDTLA**. Grand Park and The Music Center are where to celebrate together with music, food, and an incredible fireworks display launched from the civic center skyline. Grab the best friends, the whole family, and main squeezes and enjoy a bit of togetherness under the beautiful Angeleno sky. **Safety for everyone is número uno. Check back soon for more info on entrances, prohibited items, parking, etc.**
@@ -140,11 +139,11 @@ Hosted by: *Kristin Rand*
 8:00pm—9:00pm
 : *Rocky Dawuni* (L.A.'s own Grammy-nominated afro-roots and reggae sound)
 
-## Play Space for Children
+## Play Space for Kids
 
 There will be a dedicated play space on the event lawn for children ages 4-14.
 
-Got Game Sports leading tag, soccer and other games through 8:30pm. Tunes spun by DJ Francesca Harding, Ericalandia, and Chris Douridas.
+[Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 8:30pm. Tunes spun by DJ Francesca Harding, Ericalandia, and Chris Douridas.
 
 ## Transportation
 

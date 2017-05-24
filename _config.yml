@@ -1,11 +1,11 @@
 ---
 title: Grand Park LA, 4th of July
 timezone: America/Los_Angeles
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+
 permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
