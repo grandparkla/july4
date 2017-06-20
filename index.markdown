@@ -156,7 +156,7 @@ The event will take place at Grand Park + The Music Center:
 
 <figure style="cursor: pointer;" onclick="window.open('https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258605%2C-118.24870346470647&z=14')">
 <div style="padding-bottom: 75%; pointer-events: none;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-width: 0;" src="https://www.google.com/maps/d/embed?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="640" height="480"></iframe>
 </div>
 </figure>
 
