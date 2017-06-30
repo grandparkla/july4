@@ -171,7 +171,7 @@ The event will take place at Grand Park + The Music Center:
 
 ### Street Closure Info and Parking Details
 
-<p>Details on scheduled event street closures in the 4th of July Block Party Community Letter.</p>
+<p>Details on scheduled event street closures in the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf).</p>
 
 <figure style="cursor: pointer;" onclick="window.open('https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258605%2C-118.24870346470647&z=14')">
 <div style="padding-bottom: 75%; pointer-events: none;">
@@ -182,6 +182,7 @@ The event will take place at Grand Park + The Music Center:
 ### Parking
 
 Parking in lots surrounding Grand Park is recommended. **The Music Center lot and Lot 10 underneath Grand Park will not be available.**
+
 Note: The Music Center lot (Lot 14) will not be accessible after 8PM through approx. 10PM. Lot 10 underneath Grand Park will not be accessible due to street closures.
 
 ### Taking Rideshare Like Lyft Or Uber?
