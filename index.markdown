@@ -149,10 +149,18 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 **Event Lawn**
 
 2PM – 5:30PM
-: [Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 8:30pm. Tunes spun by DJ Francesca Harding, Ericalandia, and Chris Douridas.
+[Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 5:30PM.
 
-: **The Sandlot**
+**The Sandlot**
+
 2PM – 7PM
+Games: Hop on board one of the game trucks and play with your friends!
+
+Face Painting: Choose from designs made exclusively for 4th of July!
+
+The Love Bus:  Step aboard the bus and decorate it with whatever you love!
+
+Crafts: Creat your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love!
 
 
 
