@@ -118,7 +118,13 @@ Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 : *[Gingee](https://gingee.bandcamp.com/)* (A global mix of Bass, World Music and Hip-Hop)
 
 6PM — 9:30PM
-: *[Sean O](https://www.mixcloud.com/djseano/playlists/seano-mixes/)* (Taking you through the changeovers with a myriad of diverse styles including Disco, House and World Music)
+: *[Sean O](https://www.mixcloud.com/djseano/playlists/seano-mixes/)* (Taking you up to fireworks and beyond a with a touch of Disco, House and World Music.)
+
+6:15PM – 7:15PM
+: *[Inner City Youth Orchestra of Los Angeles](http://www.icyola.org/)* (American film classics and patriotic fanfare from the talent of tomorrow.)
+
+7:45PM – 8:45PM
+: *[Angel City All-Star Brass Band](http://toddsimonmusic.com/angel-city-all-star-brass-band/)* featuring speicial guest *[Diana Purim](https://www.facebook.com/EyedentityMusic/)* (Cumbia, Afrobeat and more from one funky big band.)
 
 ## Play Space for Kids
 
