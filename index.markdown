@@ -171,7 +171,7 @@ The event will take place at Grand Park + The Music Center:
 
 ### Street Closure Info and Parking Details
 
-<p>Details on scheduled event street closures in the *[4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf)*.</p>
+Details on scheduled event street closures in the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf).
 
 <figure style="cursor: pointer;" onclick="window.open('https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258605%2C-118.24870346470647&z=14')">
 <div style="padding-bottom: 75%; pointer-events: none;">
