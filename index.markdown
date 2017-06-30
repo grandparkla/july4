@@ -142,12 +142,19 @@ Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 8PM – 9:30PM
 : *[DJ Jedi](https://www.mixcloud.com/DJJedi/)* (Legendary Hip-Hop selector takes you up to Fireworks time.)
 
+## Kids' Play Zones
 
-## Play Space for Kids
+There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
-There will be a dedicated play space on the event lawn for children ages 4-14.
+# Event Lawn
 
+2PM – 5:30PM
 [Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 8:30pm. Tunes spun by DJ Francesca Harding, Ericalandia, and Chris Douridas.
+
+# The Sandlot
+
+2PM – 7PM
+
 
 ## Transportation
 
