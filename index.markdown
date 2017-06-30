@@ -146,12 +146,12 @@ Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
 There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
-**Event Lawn**
+**Event Lawn** (Between Spring St. & Broadway)
 
 2PM – 5:30PM
 [Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 5:30PM.
 
-**The Sandlot**
+**The Sandlot** (Between Spring St. & Broadway)
 
 2PM – 7PM
 Games: Hop on board one of the game trucks and play with your friends!
@@ -182,6 +182,7 @@ The event will take place at Grand Park + The Music Center:
 ### Parking
 
 Parking in lots surrounding Grand Park is recommended. **The Music Center lot and Lot 10 underneath Grand Park will not be available.**
+Note: The Music Center lot (Lot 14) will not be accessible after 8PM through approx. 10PM. Lot 10 underneath Grand Park will not be accessible due to street closures.
 
 ### Taking Rideshare Like Lyft Or Uber?
 
