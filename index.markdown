@@ -7,7 +7,7 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
 * [Kid’s Play Space](#play-space-for-kids)
 * [Transportation](#transportation)
 
-**Los Angeles! #Go4thDTLA**. Grand Park and The Music Center are where to celebrate together with music, food, and an incredible fireworks display launched from the civic center skyline. Grab the best friends, the whole family, and main squeezes and enjoy a bit of togetherness under the beautiful Angeleno sky. **Safety for everyone is número uno. Check back soon for more info on entrances, prohibited items, parking, etc.**
+**Los Angeles! #Go4thDTLA**.Grand Park and The Music Center are where to celebrate together with music, food, and an incredible fireworks display launched from the civic center skyline. Grab the best friends, the whole family, and main squeezes and enjoy a bit of togetherness under the beautiful Angeleno sky. **Safety for everyone is número uno. Check back soon for more info on entrances, prohibited items, parking, etc.**
 
 ### When
 
@@ -69,6 +69,7 @@ This is a space for unity – where Angelenos and visitors from all around the w
 * Rollerblading
 * Skateboarding
 * Smoking
+* Umbrellas
 * Staking Objects to Ground
 * Unauthorized Vending
 * Vaping
@@ -103,41 +104,21 @@ Doors open at 2pm. Fireworks show will create stunning backdrop for L.A.’s ico
 
 Experience *music* and *artists* that call L.A. home, at the two music stages:
 
-### Fireworks Stage
-
-#### on The Music Center Plaza
-
-Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
-
-2:15pm—3:15pm
-: *Kotolan* (Indie Pop meets global, sung in English, Spanish and Japanese)
-
-3:30pm—4:30pm
-: *108 Hill* (project debut by *Peter Madana*, *Aalok Mehta*, and *Anisha Nagarajan* exploring stories and sounds from Bombay to L.A.)
-
-5:00pm—6:00pm
-: *Jenny O.* (L.A. based pop Singer-Songwriter)
-
-6:30pm—7:30pm
-: *Dexter Story* (Soul, Funk, Jazz and Folk music with musical elements from East Africa)
-
-8:00pm—9:00pm
-: *The Echo Park Project* and the dancers from the *World Salsa Congress* (legendary Salsa sounds with a twist)
 
 ### Backyard Stage
 
-#### at Grand Park near Hill Street
+#### at Grand Park near between Spring St. & Broadway
 
-Hosted by: *Kristin Rand*
+Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
-3:00pm—4:30pm
-: *La Junta* (DJ collective spinning tropical sounds of Brazil, Colombia, Peru, Nigeria, Ethiopia, Democratic Republic of Congo, Cuba, Puerto Rico, India and Mexico)
+2PM — 4PM
+: *[DJ AkikoLUV](https://soundcloud.com/akikoluv)* (Expert turntable skills and eclectic beats)
 
-4:30pm—7:45pm
-: *Afro Funke’* with *DJ Jeremy Sole* and *DJ Glenn Red* (blends of African, Global, Hip-Hop, Jazz/Funk, Dub Reggae, Afro Beat and remixes)
+4PM — 6PM
+: *[Gingee](https://gingee.bandcamp.com/)* (A global mix of Bass, World Music and Hip-Hop)
 
-8:00pm—9:00pm
-: *Rocky Dawuni* (L.A.'s own Grammy-nominated afro-roots and reggae sound)
+6PM — 9:30PM
+: *[Sean O](https://www.mixcloud.com/djseano/playlists/seano-mixes/)* (Taking you through the changeovers with a myriad of diverse styles including Disco, House and World Music)
 
 ## Play Space for Kids
 
