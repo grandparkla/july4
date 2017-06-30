@@ -146,7 +146,7 @@ Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
 There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
-: **Event Lawn**
+**Event Lawn**
 
 2PM – 5:30PM
 : [Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 8:30pm. Tunes spun by DJ Francesca Harding, Ericalandia, and Chris Douridas.
