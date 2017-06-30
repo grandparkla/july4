@@ -260,11 +260,11 @@
     position: absolute;
     top: 0.725em;
     right: 0.725em;
-    background: black;
-    background: rgba(0, 0, 0, 0.75);
+    background: white;
+    background: rgba(255, 255, 255, 0.75);
     padding: 0.35em 0.4em 0em 0.4em;
     border-radius: 0.3125em;
-    color: white;
+    color: black;
     transition: background-color 0.2s;
     font-size: 1.5em;
   }
@@ -280,7 +280,7 @@
   .has-icon:hover .icon,
   .has-icon:active .icon,
   .has-icon:focus .icon {
-    background-color: black
+    background-color: white
   }
 
   .has-icon .icon {

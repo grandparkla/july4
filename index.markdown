@@ -3,8 +3,9 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
 ---
 
 * [Safety](#safety)
+* [Play](#kids-play-zones)
 * [Schedule](#event-schedule)
-* [Kids' Play Zones](#play-space-for-kids)
+* [Map](#event-map)
 * [Transportation](#transportation)
 
 **Los Angeles! #Go4thDTLA**.Grand Park and The Music Center are where to celebrate together with music, food, and an incredible fireworks display launched from the civic center skyline. Grab the best friends, the whole family, and main squeezes and enjoy a bit of togetherness under the beautiful Angeleno sky. **Safety for everyone is número uno. Check back soon for more info on entrances, prohibited items, parking, etc.**
@@ -98,6 +99,28 @@ The size of bags and backpacks/totes must be standard backpack size or smaller (
 
 This will be an alcohol-free, family-friendly event; no beer garden or point of purchase. No alcohol is permitted in the event space.
 
+
+## Kids' Play Zones
+
+There will be a dedicated play spaces on the event lawn for children ages 4-14.
+
+**Event Lawn** (Between Spring St. & Broadway)
+
+2PM – 5:30PM
+[Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 5:30PM.
+
+**The Sandlot** (Between Spring St. & Broadway)
+
+2PM – 7PM
+Games: Hop on board one of the game trucks and play with your friends!
+
+Face Painting: Choose from designs made exclusively for 4th of July!
+
+The Love Bus:  Step aboard the bus and decorate it with whatever you love!
+
+Crafts: Creat your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love!
+
+
 ## Event Schedule
 
 Doors open at 2PM. At 9PM Fireworks show will create stunning backdrop above the Civic Center skyline. Event ends at 9:30pm
@@ -142,26 +165,29 @@ Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 8PM – 9:30PM
 : *[DJ Jedi](https://www.mixcloud.com/DJJedi/)* (Legendary Hip-Hop selector takes you up to Fireworks time.)
 
-## Kids' Play Zones
 
-There will be a dedicated play spaces on the event lawn for children ages 4-14.
+## Event Map
 
-**Event Lawn** (Between Spring St. & Broadway)
+The event will take place at Grand Park \+ The Music Center:
+[200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
-2PM – 5:30PM
-[Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 5:30PM.
-
-**The Sandlot** (Between Spring St. & Broadway)
-
-2PM – 7PM
-Games: Hop on board one of the game trucks and play with your friends!
-
-Face Painting: Choose from designs made exclusively for 4th of July!
-
-The Love Bus:  Step aboard the bus and decorate it with whatever you love!
-
-Crafts: Creat your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love!
-
+<figure>
+<div style="padding-bottom: 153.34914049%">
+<a href="/images/july4-map-1687wide.png" target="_blank" class="has-icon">
+<img src="/images/july4-map-640wide.png" width="1000" height="1534" data-aspect-ratio="1687/2587" srcset="/images/july4-map-640wide.png 640w, /images/july4-map-1024wide.png 1024w, /images/july4-map-1687wide.png 1687w" sizes="100vw" alt="Event Map" />
+<span class="icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+</svg>
+</span>
+</a>
+</div>
+</figure>
 
 
 ## Transportation
@@ -173,9 +199,30 @@ The event will take place at Grand Park + The Music Center:
 
 Details on scheduled event street closures in the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf).
 
+<!--
 <figure style="cursor: pointer;" onclick="window.open('https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258605%2C-118.24870346470647&z=14')">
 <div style="padding-bottom: 75%; pointer-events: none;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-width: 0;"  src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="640" height="480"></iframe>
+</div>
+</figure>
+-->
+
+<figure>
+<div style="padding-bottom: 65.06493506%">
+<a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
+<img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABoZGSccJz4lJT5CLy8vQkc9Ozs9R0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0cBHCcnMyYzPSYmPUc9Mj1HR0dEREdHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR//AABEIACgAQAMBIgACEQEDEQH/xABsAAADAQADAAAAAAAAAAAAAAAAAQIDBAUGEAABAwMDAwQDAAAAAAAAAAABAAIRITFBAxJRImFxBFKB8BNCYgEBAQEAAAAAAAAAAAAAAAAAAAECEQEAAgIDAAAAAAAAAAAAAAAAASERMUFRYf/aAAwDAQACEQMRAD8A9Be6TqVAlE0lIOPBqoHMpOE2uqJrGVLgGwcj78pul0GwRIVVWbdVriSyq1CkdCanhUVLWxcyUZorACSLCUbtrZNFRNFm4e5JkW1oaFlrOIa7bTpPVmcQMrQEdyPv0ImMFIHXDXLQGNG0i7ZqT7Wnvd5/UXqubpav5G7vilicx/M2PZZavpW6gp0jtgZ28Odl3C3YzbDZEAAWGEanGPQ4AxXbBmhv55CbTUmQluG6OPCoQbBLYoAAeTlQ0OBvLQLZnmUIQpZPClrdpJBkuMoQpa0oPbynS4QhXgS0NkugScq6BCFUf//Z" alt="" />
+<img src="/images/street-closures.png" width="770" height="501" data-aspect-ratio="770/501" alt="Street Closure Map" />
+<span class="icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+</svg>
+</span>
+</a>
 </div>
 </figure>
 
@@ -219,7 +266,7 @@ Bike Valet available at Hill Street and 1st Street.
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <switch>
-<polygon fill="white" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
 <foreignobject>Play</foreignobject>
 </switch>
 </svg>
