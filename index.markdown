@@ -100,7 +100,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Event Schedule
 
-Doors open at 2pm. Fireworks show will create stunning backdrop for L.A.’s iconic City Hall. Event ends at 9:30pm
+Doors open at 2PM. At 9PM Fireworks show will create stunning backdrop above the Civic Center skyline. Event ends at 9:30pm
 
 Experience *music* and *artists* that call L.A. home, at the two music stages:
 
@@ -125,6 +125,23 @@ Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
 7:45PM – 8:45PM
 : *[Angel City All-Star Brass Band](http://toddsimonmusic.com/angel-city-all-star-brass-band/)* featuring speicial guest *[Diana Purim](https://www.facebook.com/EyedentityMusic/)* (Cumbia, Afrobeat and more from one funky big band.)
+
+### Frontyard Stage
+
+#### at Grand Park on Performance Lawn near Hill St.
+
+2PM – 4PM
+: *[Miles Tackett](https://www.facebook.com/milestackettmusic)* (Breakestra’s own maestro delivers an array of Funk, Soul and Jazz.)
+
+4PM – 6PM
+: *[Monalisa](https://www.mixcloud.com/discover/monalisa/)* (Hip-Hop, Soul and anything else with a groove.)
+
+6PM – 8PM
+: *[C-Minus](https://www.facebook.com/DJCMINUS/)* (West Coast mainstay with a unique approach to fusing Hip-Hop and Rock.)
+
+8PM – 9:30PM
+: *[DJ Jedi](https://www.mixcloud.com/DJJedi/)* (Legendary Hip-Hop selector takes you up to Fireworks time.)
+
 
 ## Play Space for Kids
 
