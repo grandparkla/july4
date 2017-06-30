@@ -4,7 +4,7 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
 
 * [Safety](#safety)
 * [Schedule](#event-schedule)
-* [Kid’s Play Space](#play-space-for-kids)
+* [Kids' Play Zones](#play-space-for-kids)
 * [Transportation](#transportation)
 
 **Los Angeles! #Go4thDTLA**.Grand Park and The Music Center are where to celebrate together with music, food, and an incredible fireworks display launched from the civic center skyline. Grab the best friends, the whole family, and main squeezes and enjoy a bit of togetherness under the beautiful Angeleno sky. **Safety for everyone is número uno. Check back soon for more info on entrances, prohibited items, parking, etc.**
