@@ -255,7 +255,7 @@ Plan your trip at [metro.net](https://www.metro.net/)
 
 ### Bicycle Parking
 
-Bike Valet available at Hill Street and 1st Street.
+[LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047). The valet service is **free**.
 
 ## Highlights from past events
 
