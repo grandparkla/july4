@@ -8,12 +8,20 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
 * [Map](#event-map)
 * [Transportation](#transportation)
 
+<!--
 **Los Angeles! #Go4thDTLA**.Grand Park and The Music Center are where to celebrate together with music, food, and an incredible fireworks display launched from the civic center skyline. Grab the best friends, the whole family, and main squeezes and enjoy a bit of togetherness under the beautiful Angeleno sky. **Safety for everyone is número uno. Check back soon for more info on entrances, prohibited items, parking, etc.**
+-->
+
+**Oh hey L.A.**, great to see you! In honor of the USA’s b-day it’s time to celebrate togetherness. Today is all about the sounds of America with an L.A. flavor, from Jazz to Classical and Funk to the Blues. Let’s play, splash, munch, dance and cap it all off with fireworks under the DTLA skyline.
+
+[Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park + The Music Center and get free Grand Park Sunglasses (while supplies last).
 
 ### When
 
 July 4, 2017<br />
 2:00pm—9:30pm
+
+**Fireworks at 9pm**
 
 ### Where
 
@@ -104,67 +112,92 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
-**Event Lawn** (Between Spring St. & Broadway)
+### Event Lawn
 
-2PM – 5:30PM
-[Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 5:30PM.
+#### Between Spring Street & Broadway
 
-**The Sandlot** (Between Spring St. & Broadway)
+2pm–5:30pm
 
-2PM – 7PM
-Games: Hop on board one of the game trucks and play with your friends!
+[Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games until 5:30pm.
 
-Face Painting: Choose from designs made exclusively for 4th of July!
+### The Sandlot
 
-The Love Bus:  Step aboard the bus and decorate it with whatever you love!
+#### Between Spring Street & Broadway
 
-Crafts: Creat your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love!
+2pm–7pm
+
+Games
+: Hop on board one of the game trucks and play with your friends!
+
+Face Painting
+: Choose from designs made exclusively for 4th of July!
+
+The Love Bus
+: Step aboard the bus and decorate it with whatever you love!
+
+Crafts
+: Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love!
 
 
 ## Event Schedule
 
-Doors open at 2PM. At 9PM Fireworks show will create stunning backdrop above the Civic Center skyline. Event ends at 9:30pm
+Doors open at 2pm. At 9pm the fireworks show will create stunning backdrop above the Civic Center skyline. The event ends at 9:30pm.
 
 Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 
+### Frontyard Stage
+
+#### Performance Lawn near Hill Street
+
+2pm–4pm
+: *[Miles Tackett](https://www.facebook.com/milestackettmusic)* (Breakestra’s own maestro delivers an array of Funk, Soul and Jazz.)
+
+4pm–6pm
+: *[Monalisa](https://www.mixcloud.com/discover/monalisa/)* (Hip-Hop, Soul and anything else with a groove.)
+
+6pm–8pm
+: *[C-Minus](https://www.facebook.com/DJCMINUS/)* (West Coast mainstay with a unique approach to fusing Hip-Hop and Rock.)
+
+8pm–9:30pm
+: *[DJ Jedi](https://www.mixcloud.com/DJJedi/)* (Legendary Hip-Hop selector takes you up to Fireworks time.)
+
+
 ### Backyard Stage
 
-#### at Grand Park near between Spring St. & Broadway
+#### Event Lawn near City Hall/Spring Street
 
 Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
-2PM — 4PM
+2pm—4pm
 : *[DJ AkikoLUV](https://soundcloud.com/akikoluv)* (Expert turntable skills and eclectic beats)
 
-4PM — 6PM
+4pm—6pm
 : *[Gingee](https://gingee.bandcamp.com/)* (A global mix of Bass, World Music and Hip-Hop)
 
-6PM — 9:30PM
+6pm—9:30pm
 : *[Sean O](https://www.mixcloud.com/djseano/playlists/seano-mixes/)* (Taking you up to fireworks and beyond a with a touch of Disco, House and World Music.)
 
-6:15PM – 7:15PM
+6:15pm–7:15pm
 : *[Inner City Youth Orchestra of Los Angeles](http://www.icyola.org/)* (American film classics and patriotic fanfare from the talent of tomorrow.)
 
-7:45PM – 8:45PM
-: *[Angel City All-Star Brass Band](http://toddsimonmusic.com/angel-city-all-star-brass-band/)* featuring speicial guest *[Diana Purim](https://www.facebook.com/EyedentityMusic/)* (Cumbia, Afrobeat and more from one funky big band.)
+7:45pm–8:45pm
+: *[Angel City All-Star Brass Band](http://toddsimonmusic.com/angel-city-all-star-brass-band/)* featuring special guest *[Diana Purim](https://www.facebook.com/EyedentityMusic/)* (Cumbia, Afrobeat and more from one funky big band.)
 
-### Frontyard Stage
 
-#### at Grand Park on Performance Lawn near Hill St.
+### Look Up!
 
-2PM – 4PM
-: *[Miles Tackett](https://www.facebook.com/milestackettmusic)* (Breakestra’s own maestro delivers an array of Funk, Soul and Jazz.)
+9pm
+: Fireworks light up the sky!
 
-4PM – 6PM
-: *[Monalisa](https://www.mixcloud.com/discover/monalisa/)* (Hip-Hop, Soul and anything else with a groove.)
 
-6PM – 8PM
-: *[C-Minus](https://www.facebook.com/DJCMINUS/)* (West Coast mainstay with a unique approach to fusing Hip-Hop and Rock.)
+### For the Kids
 
-8PM – 9:30PM
-: *[DJ Jedi](https://www.mixcloud.com/DJJedi/)* (Legendary Hip-Hop selector takes you up to Fireworks time.)
+2pm–5:30pm
+: [Got Game:](#event-lawn) kids games on the lawn.
 
+2pm–7pm
+: [The Sandlot:](#the-sandlot) crafts, games and more.
 
 ## Event Map
 
@@ -228,9 +261,9 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 ### Parking
 
-Parking in lots surrounding Grand Park is recommended. **The Music Center lot and Lot 10 underneath Grand Park will not be available.**
+Parking in lots surrounding Grand Park is recommended.
 
-Note: The Music Center lot (Lot 14) will not be accessible after 8PM through approx. 10PM. Lot 10 underneath Grand Park will not be accessible due to street closures.
+Due to street closures, **the parking area underneath Grand Park (Lot 10) will not be accessible** during the event. The Music Center parking area (Lot 14) will not be accessible from 8pm until approximately 10pm.
 
 ### Taking Rideshare Like Lyft Or Uber?
 
