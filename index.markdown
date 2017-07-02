@@ -219,11 +219,8 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
 2:00 to 7:00 p.m.
 : **Games:** Hop on board one of the game trucks and play with your friends!
-
 : **Face Painting:** Choose from designs made exclusively for 4th of July!
-
 : **The Love Bus:** Step aboard the bus and decorate it with whatever you love!
-
 : **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love!
 
 
