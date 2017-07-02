@@ -8,9 +8,9 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
 * [Map](#event-map)
 * [Transportation](#transportation)
 
-<!--
+{% comment %}
 **Los Angeles! #Go4thDTLA**.Grand Park and The Music Center are where to celebrate together with music, food, and an incredible fireworks display launched from the civic center skyline. Grab the best friends, the whole family, and main squeezes and enjoy a bit of togetherness under the beautiful Angeleno sky. **Safety for everyone is número uno. Check back soon for more info on entrances, prohibited items, parking, etc.**
--->
+{% endcomment %}
 
 **Oh hey L.A.**, great to see you! In honor of the USA’s b-day it’s time to celebrate togetherness. Today is all about the sounds of America with an L.A. flavor, from Jazz to Classical and Funk to the Blues. Let’s play, splash, munch, dance and cap it all off with fireworks under the DTLA skyline.
 
@@ -311,6 +311,18 @@ Plan your trip at [metro.net](https://www.metro.net/)
 </a>
 </div>
 </figure>
+
+## Summer Season
+
+<figure style="max-width: none; margin-left: -1.45em; margin-right: -1.45em;">
+<div style="padding-bottom: 24.21875%">
+<a href="http://grandparkla.org/summer/" target="_blank">
+<img src="/images/summer-640wide.png" width="1000" height="1534" data-aspect-ratio="1920/465" srcset="/images/summer-320wide.jpg 320w, /images/summer-640wide.jpg 640w, /images/summer-768wide.jpg 768w, /images/summer-1024wide.jpg 1024w, /images/summer-1536wide.jpg 1536w, /images/summer-1920wide.jpg 1920w" sizes="100vw" alt="Grand Park. Free to Play. Summer #5" />
+</a>
+</div>
+</figure>
+
+My oh my. Five years together – how awesome is that? Let’s continue to kick it in the _park for everyone_. **[View Summer Season](http://grandparkla.org/summer/)**
 
 ## [Grand Park](http://grandparkla.org) is an <span>LA County park</span> powered by [The Music Center](http://www.musiccenter.org/)
 
