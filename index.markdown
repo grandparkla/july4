@@ -211,6 +211,7 @@ The event will take place at Grand Park \+ The Music Center:
 <figure>
 <div style="padding-bottom: 153.34914049%">
 <a href="/images/july4-map-1687wide.png" target="_blank" class="has-icon">
+<img class="preview" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABiAQMAAADaw0egAAAABlBMVEUICxMAAAB8SPLCAAAAtElEQVR4AZWSAWYFQRBEX8aIxpJGDpCbZI+QI+3R/ski+SmjTG9DCvZtqerpYWj0ApPr9B+cz09iyWF3iu6Zj18n6VTGKCUYx7uASVHg1gUj5TyBAhhCYfaM+DgA62EM3S9hh0l1WE4kUfZMw1gQPqICpyKGaKDO0eR5UpX1FnZonVrv5RYXIOgc7LQDvfzbw68vBKr/QQhuO6/MINUa2+QjP7+/WHJGa7j1esvM/tUp+z/9AB6MFSgPSeOwAAAAAElFTkSuQmCC" alt="" />
 <img src="/images/july4-map-640wide.png" width="1000" height="1534" data-aspect-ratio="1687/2587" srcset="/images/july4-map-640wide.png 640w, /images/july4-map-1024wide.png 1024w, /images/july4-map-1687wide.png 1687w" sizes="100vw" alt="Event Map" />
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
@@ -236,13 +237,14 @@ The event will take place at Grand Park + The Music Center:
 
 Details on scheduled event street closures in the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf).
 
-<!--
+{% comment %}
+This code shows a live map
 <figure style="cursor: pointer;" onclick="window.open('https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258605%2C-118.24870346470647&z=14')">
 <div style="padding-bottom: 75%; pointer-events: none;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-width: 0;"  src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="640" height="480"></iframe>
 </div>
 </figure>
--->
+{% endcomment %}
 
 <figure>
 <div style="padding-bottom: 65.06493506%">
@@ -317,6 +319,7 @@ Plan your trip at [metro.net](https://www.metro.net/)
 <figure style="max-width: none; margin-left: -1.45em; margin-right: -1.45em;">
 <div style="padding-bottom: 24.21875%">
 <a href="http://grandparkla.org/summer/" target="_blank">
+<img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABQQEBkSGScXFycyJh8mMi4mJiYmLj41NTU1NT5EQUFBQUFBREREREREREREREREREREREREREREREREREREREQBFRkZIBwgJhgYJjYmICY2RDYrKzZERERCNUJERERERERERERERERERERERERERERERERERERERERERERERERERP/AABEIABAAQAMBIgACEQEDEQH/xABoAAEAAwEBAAAAAAAAAAAAAAACAAEDBAUQAAICAQMBCAMAAAAAAAAAAAERAAIhEjFBAwQTIlFhcZGhweHwAQEBAQEAAAAAAAAAAAAAAAABAAMEEQEBAQEAAAAAAAAAAAAAAAAAASEi/9oADAMBAAIRAxEAPwDzACDn9RUo7CtmODzCa6U0t0DKFiDjBmbgyOm3Z6NUZHqszC1CCUGHK1PEXek/3zE8iOnZo+5i6dM+JkDcSG43Czx9H5k1jZbyGF1DU4QAHA+/eY6vKaWLTwHx+YAOMQVf/9k=" alt="" />
 <img src="/images/summer-640wide.png" width="1000" height="1534" data-aspect-ratio="1920/465" srcset="/images/summer-320wide.jpg 320w, /images/summer-640wide.jpg 640w, /images/summer-768wide.jpg 768w, /images/summer-1024wide.jpg 1024w, /images/summer-1536wide.jpg 1536w, /images/summer-1920wide.jpg 1920w" sizes="100vw" alt="Grand Park. Free to Play. Summer #5" />
 </a>
 </div>
