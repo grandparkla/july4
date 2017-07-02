@@ -363,6 +363,17 @@
   }
 
 
+  .has-icon .credit {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: white;
+    background: rgba(255, 255, 255, 0.75);
+    color: black;
+    font-size: 0.75em;
+    padding: 0.25em 0.5em;
+  }
+
 
 
   /* =Footer
@@ -912,6 +923,15 @@
   @media (min-aspect-ratio: 1/1) {
     figure > div[data-aspect-ratio-landscape="1920/465"] {
       padding-bottom: 24.21875%;
+    }
+  }
+
+  figure > div[data-aspect-ratio-portrait="1/1"] {
+    padding-bottom: 100%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="2/1"] {
+      padding-bottom: 50%;
     }
   }
 
