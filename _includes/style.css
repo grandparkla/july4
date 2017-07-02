@@ -29,6 +29,7 @@
     color: rgb(140, 197, 65); /* @green */
     color: rgb(90, 150, 55); /* @mediumgreen */
 
+    color: rgb(2, 4, 2);
     color: rgb(76, 78, 76);
   }
 
@@ -112,6 +113,12 @@
     padding: 0 1.45em 0;
   }
 
+  @media (min-width: 40em) {
+    body {
+      padding: 0 2.9em 0;
+    }
+  }
+
   /* OPTIONAL: Increase the font size on big screens. */
   @media screen and (min-width: 600px) and (min-height: 600px) {
     html {
@@ -155,7 +162,7 @@
     */
   }
   dd a {
-    text-decoration: none;
+    font-style: italic;
   }
   dd a::after {
     content: ":";
@@ -262,6 +269,13 @@
     max-width: none;
     overflow-y: hidden;
   }
+  @media (min-width: 40em) {
+    header h1 {
+      margin: 0 -2.9em;
+      padding-left: 2.9em;
+      padding-right: 2.9em;
+    }
+  }
   header h1 img {
     display: block !important;
     position: absolute;
@@ -280,6 +294,11 @@
     height: 500px;
     height: 70vh;
     margin-bottom: -1.45em;
+  }
+  @media (min-width: 40em) {
+    header h1 svg {
+      margin-bottom: -2.9em;
+    }
   }
   @media (min-aspect-ratio: 1/1) {
     header h1 .portrait {
@@ -507,7 +526,7 @@
     display: flex;
     flex-wrap: wrap;
   }
-  @media (min-width: 50em) {
+  @media (min-width: 40em) {
     body > ul:first-of-type {
       margin-top: 3.625em;
       margin-bottom: 2.175em;
@@ -640,7 +659,7 @@
     background-color: transparent;
     color: rgb(252, 239, 71) !important; /* @yellow */
     background-color: transparent;
-    color: white !important; /* @pink */
+    color: white !important;
   }
 
 
@@ -683,9 +702,19 @@
     background-color: rgb(252, 239, 71); /* @yellow */
     background-color: rgb(235, 12, 128); /* @pink */
     color: rgb(252, 239, 71); /* @yellow */
-    padding: 1.45em;
+    margin-top: 0;
+    text-align: center;
+    padding: 2.9em 1.45em;
+    margin-bottom: 4.35em;
     margin-left: -1.45em;
     margin-right: -1.45em;
+  }
+  @media (min-width: 40em) {
+    footer {
+      padding: 2.9em;
+      margin-left: -2.9em;
+      margin-right: -2.9em;
+    }
   }
   footer h2 {
     color: rgb(252, 239, 71); /* @yellow */
@@ -748,17 +777,6 @@
     margin-left: 0;
     padding-left: 0;
   }
-  footer {
-    margin-top: 0;
-    text-align: center;
-    background-color: rgb(252, 239, 71); /* @yellow */
-    background-color: rgb(235, 12, 128); /* @pink */
-    color: rgb(252, 239, 71); /* @yellow */
-    padding: 3em 1.5em;
-    margin-bottom: 4.35em;
-    margin-left: -1.45em;
-    margin-right: -1.45em;
-  }
   main + footer {
     margin-top: 0;
   }
@@ -775,22 +793,6 @@
       flex-wrap: wrap;
       justify-content: center;
     }
-  }
-  footer .nav {
-    max-width: none;
-    margin-top: 0em;
-    margin-bottom: 0em;
-    padding-top: 0.725em;
-    padding-bottom: 0.725em;
-    margin-left: -1.45em;
-    margin-right: -1.45em;
-    font-family: "Unit", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 700;
-    background-color: transparent;
-    background-color: transparent;
-    display: table;
-    margin-left: auto;
-    margin-right: auto;
   }
   footer li a {
     display: inline-block;
@@ -891,22 +893,22 @@
   .entry-header .entry-title,
   h1, h2, h3, h4, h5, h6 {
     font-family: "Unit", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    /*
-    font-weight: 700;
-    */
     font-weight: normal;
+    font-weight: 600;
     font-style: italic;
     color: rgb(235, 12, 128); /* @pink */
   }
   .entry-header .entry-title,
   h1 {
     font-size: 2.5em;
+    font-size: 1.5em;
   }
   .entry-content h1,
   .entry-content h2,
   h2 {
     font-size: 2em;
     margin-top: 3em;
+    font-size: 1.5em;
   }
   .entry-content h3,
   h3 {
@@ -946,8 +948,9 @@
   h3,
   h4 {
     font-weight: normal;
+    font-weight: 600;
     font-style: italic;
-    color: black;
+    color: inherit;
     text-transform: none;
   }
   h3 {
@@ -966,5 +969,18 @@
   @media (min-aspect-ratio: 1/1) {
     figure > div[data-aspect-ratio-landscape="1920/465"] {
       padding-bottom: 24.21875%;
+    }
+  }
+
+  figure.feature {
+    max-width: none;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+  }
+  @media (min-width: 40em) {
+    figure.feature {
+      max-width: none;
+      margin-left: -2.9em;
+      margin-right: -2.9em;
     }
   }

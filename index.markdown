@@ -3,8 +3,8 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
 ---
 
 * [Safety](#safety)
-* [Play](#kids-play-zones)
 * [Schedule](#event-schedule)
+* [Play](#kids-play-zones)
 * [Map](#event-map)
 * [Transportation](#transportation)
 
@@ -37,7 +37,7 @@ Grand Park + The Music Center:<br />
 
 {% comment %}
 live map
-<figure style="cursor: pointer; max-width: none; margin-left: -1.45em; margin-right: -1.45em;" onclick="window.open('https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614')">
+<figure style="cursor: pointer;" class="feature" onclick="window.open('https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614')">
   <div style="padding-bottom: 56.25%; padding-bottom: 50vh; pointer-events: none;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-width: none; border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1652.7710729912565!2d-118.24613337399674!3d34.05561403154144!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c6520588a7f1%3A0x5ad46bbc252d202b!2s200+N+Grand+Ave%2C+Los+Angeles%2C+CA+90012!5e0!3m2!1sen!2sus!4v1492927621656')" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1652.7710729912565!2d-118.24613337399674!3d34.05561403154144!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c6520588a7f1%3A0x5ad46bbc252d202b!2s200+N+Grand+Ave%2C+Los+Angeles%2C+CA+90012!5e0!3m2!1sen!2sus!4v1492927621656" width="1000" height="563" frameborder="0" allowfullscreen></iframe>
   </div>
@@ -45,7 +45,7 @@ live map
 {% endcomment %}
 
 {% comment %}
-<figure style="max-width: none; margin-left: -1.45em; margin-right: -1.45em;">
+<figure class="feature">
 <div style="padding-bottom: 44.79665072%; padding-bottom: 50vh;">
 <a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
 <!--
@@ -103,7 +103,7 @@ This is a **free** event. There’s no cost to attend.
 
 ## Highlights from past events
 
-<figure style="max-width: none; margin-left: -1.45em; margin-right: -1.45em;">
+<figure class="feature">
 <div style="padding-bottom: 56.25%">
 <a href="https://vimeo.com/82051161" target="_blank" class="has-icon">
 <img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" height="563" data-aspect-ratio="1280/720" alt="Video of Grand Park and The Music Center’s 4th Of July Block Party">
@@ -202,28 +202,6 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 Food vendors will be onsite <small>(More updates to follow)</small>.
 
 
-## Kids' Play Zones
-
-There will be a dedicated play spaces on the event lawn for children ages 4-14.
-
-### Event Lawn
-
-#### Between Spring Street & Broadway
-
-2:00 to 5:30 p.m.
-: [Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games.
-
-### The Sandlot
-
-#### Between Spring Street & Broadway
-
-2:00 to 7:00 p.m.
-: **Games:** Hop on board one of the game trucks and play with your friends!
-: **Face Painting:** Choose from designs made exclusively for 4th of July!
-: **The Love Bus:** Step aboard the bus and decorate it with whatever you love!
-: **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love!
-
-
 ## Event Schedule
 
 Doors open at <span class="time">2 p.m.</span> At <span class="time">9 p.m.</span> the fireworks show will create stunning backdrop above the Civic Center skyline. The event ends at <span class="time">9:30 p.m.</span>
@@ -276,13 +254,26 @@ _Hosted by: [Mario Hernandez](http://eatmomovies.tumblr.com/)_
 : **Fireworks light up the sky!**
 
 
-### For the Kids
+## Kids' Play Zones
+
+There will be a dedicated play spaces on the event lawn for children ages 4-14.
+
+### Event Lawn
+
+#### Between Spring Street & Broadway
 
 2:00 to 5:30 p.m.
-: [Got Game](#event-lawn) Kids games on the lawn
+: [Got Game Sports](https://www.gotgamecamp.com) will be leading tag, soccer and other games.
+
+### The Sandlot
+
+#### Between Spring Street & Broadway
 
 2:00 to 7:00 p.m.
-: [The Sandlot](#the-sandlot) Crafts, games and more
+: **Games:** Hop on board one of the game trucks and play with your friends!
+: **Face Painting:** Choose from designs made exclusively for 4th of July!
+: **The Love Bus:** Step aboard the bus and decorate it with whatever you love!
+: **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love!
 
 ## Event Map
 
@@ -320,13 +311,13 @@ Details on scheduled event street closures in the [4th of July Block Party Commu
 
 {% comment %}
 This code shows a live map
-<figure style="cursor: pointer; max-width: none; margin-left: -1.45em; margin-right: -1.45em;" onclick="window.open('https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15')">
+<figure style="cursor: pointer;" class="feature" onclick="window.open('https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15')">
   <div style="padding-bottom: 56.25%; padding-bottom: 50vh; pointer-events: none;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-width: none; border: 0;" src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="1000" height="563" frameborder="0" allowfullscreen></iframe>
   </div>
 </figure>
 
-<figure style="cursor: pointer; max-width: none; margin-left: -1.45em; margin-right: -1.45em;" onclick="window.open('https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15')">
+<figure style="cursor: pointer;" class="feature" onclick="window.open('https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15')">
   <div style="padding-bottom: 50%; padding-bottom: 50vh; pointer-events: none;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-width: none; border: 0;" src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="640" height="480"></iframe>
   </div>
@@ -395,7 +386,7 @@ Plan your trip at [metro.net](https://www.metro.net/)
 
 My oh my. Five years together – how awesome is that? Let’s continue to kick it in the _park for everyone_. View the [Summer Season Calendar](http://grandparkla.org/summer/).
 
-<figure style="max-width: none; margin-left: -1.45em; margin-right: -1.45em; margin-bottom: 0;">
+<figure class="feature" style="margin-bottom: 0;">
 <div data-aspect-ratio-landscape="1920/465" data-aspect-ratio-portrait="600/300">
 <a href="http://grandparkla.org/summer/" target="_blank">
 <img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABQQEBkSGScXFycyJh8mMi4mJiYmLj41NTU1NT5EQUFBQUFBREREREREREREREREREREREREREREREREREREREQBFRkZIBwgJhgYJjYmICY2RDYrKzZERERCNUJERERERERERERERERERERERERERERERERERERERERERERERERERP/AABEIABAAQAMBIgACEQEDEQH/xABoAAEAAwEBAAAAAAAAAAAAAAACAAEDBAUQAAICAQMBCAMAAAAAAAAAAAERAAIhEjFBAwQTIlFhcZGhweHwAQEBAQEAAAAAAAAAAAAAAAABAAMEEQEBAQEAAAAAAAAAAAAAAAAAASEi/9oADAMBAAIRAxEAPwDzACDn9RUo7CtmODzCa6U0t0DKFiDjBmbgyOm3Z6NUZHqszC1CCUGHK1PEXek/3zE8iOnZo+5i6dM+JkDcSG43Czx9H5k1jZbyGF1DU4QAHA+/eY6vKaWLTwHx+YAOMQVf/9k=" alt="" />
