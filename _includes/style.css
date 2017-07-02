@@ -34,7 +34,12 @@
 
   strong {
     font-weight: inherit;
+    font-style: italic;
     color: rgb(235, 12, 128); /* @pink */
+  }
+
+  small {
+    font-style: italic;
   }
 
   h1, h2 {
@@ -45,7 +50,9 @@
     color: inherit;
     color: rgb(90, 150, 55); /* @mediumgreen */
     transition: color 0.2s;
+    /*
     text-decoration: none;
+    */
   }
   a[href]:hover,
   a[href]:active,
@@ -53,6 +60,28 @@
     color: rgb(235, 12, 128); /* @pink */
     color: rgb(41, 96, 46); /* @darkgreen */
     text-decoration: underline;
+  }
+
+  .action a {
+    display: inline-block;
+    text-align: center;
+    padding: 0.725em 1.45em;
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
+    color: white !important;
+    background-color: rgb(140, 197, 65); /* @green */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    text-decoration: none;
+    border-radius: 0.25em;
+    transition: background-color 0.2s, color 0.2s;
+    font-weight: bold;
+  }
+  .action a:hover,
+  .action a:active,
+  .action a:focus {
+    background-color: rgb(235, 12, 128); /* @pink */
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
+    color: white;
+    text-decoration: none;
   }
 
 
@@ -77,7 +106,8 @@
   /* =Type
   ----------------------------------------------- */
   body {
-    font: 100%/1.45 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 100%/1.45 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.714285714;
     margin: 0;
     padding: 0 1.45em 0;
   }
@@ -118,6 +148,19 @@
     margin-bottom: 0.725em;
   }
 
+  .time,
+  dt {
+    /*
+    color: rgb(57, 174, 215);
+    */
+  }
+  dd a {
+    text-decoration: none;
+  }
+  dd a::after {
+    content: ":";
+  }
+
   dt {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     padding-top: 0.375em;
@@ -125,7 +168,7 @@
   dd {
     padding-bottom: 0.375em;
   }
-  @media (min-width: 20em) {
+  @media (min-width: 40em) {
     dl:after {
       content: "";
       display: table;
@@ -181,7 +224,6 @@
   h4 {
     font-size: inherit;
     font-weight: inherit;
-    font-style: italic;
   }
   h3 + h4 {
     margin-top: 0;
@@ -301,54 +343,58 @@
 
   /* =Footer
   ----------------------------------------------- */
-  body > h2:last-of-type,
-  body > p:last-of-type {
+  .powered-by,
+  .legal,
+  .top {
     text-align: center;
   }
-  body > h2:last-of-type {
+  .powered-by {
     max-width: none;
     color: inherit;
   }
-  body > h2:last-of-type a,
-  body > h2:last-of-type span {
+  .powered-by a,
+  .powered-by span {
+    text-decoration: none;
     display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
   }
-  body > p:last-of-type {
+  .legal,
+  .top {
     margin: 2.9em auto;
   }
-  body > ul:last-of-type {
+  .logos {
     margin-top: 1.45em;
     margin-bottom: 1.45em;
     max-width: none;
     text-align: center;
   }
   @media (min-width: 45em) {
-    body > ul:last-of-type {
+    .logos {
       margin-top: 4.35em;
       margin-bottom: 4.35em;
     }
-    body > p:last-of-type {
+    .legal,
+    .top {
       margin-top: 4.35em;
       margin-bottom: 5.8em;
     }
   }
-  body > ul:last-of-type,
-  body > ul:last-of-type li {
+  .logos,
+  .logos li {
     list-style: none;
     margin-left: 0;
     padding-left: 0;
   }
-  body > ul:last-of-type li {
+  .logos li {
     display: inline-block;
     vertical-align: middle;
     margin: 1.45em;
   }
-  body > ul:last-of-type img {
+  .logos img {
     width: auto;
     height: 2.9em;
   }
   @media (min-width: 100em) {
-    body > ul:last-of-type li {
+    .logos li {
       font-size: 1.5em;
     }
   }
@@ -491,3 +537,424 @@
     text-decoration: none;
   }
 
+
+  /* =Header
+  ----------------------------------------------- */
+  .header {
+    position: absolute;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+  }
+  .header .logo,
+  .tagline {
+    max-width: none;
+  }
+  .logo {
+    margin-top: 0;
+    margin-bottom: 0.725em;
+    font-size: inherit;
+    padding-top: 1.45em;
+    color: rgb(235, 12, 128); /* @pink */
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+  .header .logo {
+    border-top: 0.3625em solid;
+
+    padding-top: 2.375em;
+    /*
+    margin-left: -1.5em;
+    margin-right: -1.5em;
+    */
+  }
+  footer .logo {
+    text-align: center;
+    margin-bottom: 2.175em;
+    color: inherit;
+  }
+  footer .logo svg {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .logo a,
+  .logo a[href]:hover,
+  .logo a[href]:active,
+  .logo a[href]:focus {
+    color: inherit;
+  }
+  .header svg * {
+    fill: currentColor;
+  }
+  .header svg {
+    display: block;
+    height: 1em; /* 1.45*1.5 */
+  }
+  .tagline {
+    margin-top: 0.725em;
+    margin-bottom: 0.725em;
+    /*
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+    */
+    background-color: rgb(140, 197, 65); /* @green */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    padding: 0.3625em 1.45em;
+    font-family: "Unit", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    background-color: transparent;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .nav-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 1.25em;
+    /*
+    right: -1.45em;
+    */
+  }
+  .nav-link a {
+    display: inline-block;
+    text-align: center;
+    padding: 1.45em 1.45em;
+    background-color: rgb(235, 12, 128); /* @pink */
+    color: white;
+    background-color: rgb(252, 239, 71); /* @yellow */
+    color: inherit;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+    font-family: "Unit", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    color: rgb(235, 12, 128) !important; /* @pink */
+
+    background-color: rgb(235, 12, 128); /* @pink */
+    background-color: transparent;
+    color: rgb(252, 239, 71) !important; /* @yellow */
+    background-color: transparent;
+    color: white !important; /* @pink */
+  }
+
+
+  /* =Footer
+  ----------------------------------------------- */
+  footer .logo {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 2.175em;
+    color: inherit;
+  }
+  footer .logo svg {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .logo a {
+    color: inherit;
+  }
+  .logo a[href]:hover,
+  .logo a[href]:active,
+  .logo a[href]:focus {
+    color: inherit;
+  }
+  .logo svg * {
+    fill: currentColor;
+  }
+  .logo svg {
+    display: block;
+    height: 2.175em; /* 1.45*1.5 */
+  }
+  footer ul,
+  footer li {
+    max-width: none;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  footer {
+    text-align: center;
+    background-color: rgb(252, 239, 71); /* @yellow */
+    background-color: rgb(235, 12, 128); /* @pink */
+    color: rgb(252, 239, 71); /* @yellow */
+    padding: 1.45em;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+  }
+  footer h2 {
+    color: rgb(252, 239, 71); /* @yellow */
+  }
+  footer .nav {
+    max-width: none;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    padding-top: 0.725em;
+    padding-bottom: 0.725em;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+    font-family: "Unit", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    background-color: transparent;
+    background-color: transparent;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  footer li a {
+    display: inline-block;
+    padding: 0.3625em 1.45em;
+    color: inherit;
+  }
+  footer li a:hover,
+  footer li a:active,
+  footer li a:focus {
+    color: inherit !important;
+  }
+  .social,
+  .social li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .social li {
+    display: inline-block;
+    margin: 0.725em;
+  }
+  .social a {
+    display: inline-block;
+    border-radius: 50%;
+    padding: 0.54375em;
+  }
+  .social svg {
+    display: block;
+    width: 1.45em;
+    height: 1.45em;
+  }
+  .social svg path {
+    fill: currentColor;
+  }
+
+
+  footer ul,
+  footer li {
+    max-width: none;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  footer {
+    margin-top: 0;
+    text-align: center;
+    background-color: rgb(252, 239, 71); /* @yellow */
+    background-color: rgb(235, 12, 128); /* @pink */
+    color: rgb(252, 239, 71); /* @yellow */
+    padding: 3em 1.5em;
+    margin-bottom: 4.35em;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+  }
+  main + footer {
+    margin-top: 0;
+  }
+  footer h2 {
+    color: rgb(252, 239, 71); /* @yellow */
+  }
+  footer .navigation-lists {
+    margin-top: 2.25em;
+    font-size: 1.25em;
+  }
+  @media (min-width: 40em) { /* @medium */
+    footer .navigation-lists {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  footer .nav {
+    max-width: none;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    padding-top: 0.725em;
+    padding-bottom: 0.725em;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+    font-family: "Unit", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    background-color: transparent;
+    background-color: transparent;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  footer li a {
+    display: inline-block;
+    padding: 0.3625em 1.45em;
+    color: inherit;
+    text-decoration: none;
+  }
+
+
+  .social-links,
+  .social-links li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .social-links {
+    margin-top: 3em !important;
+    font-size: 2rem;
+    max-width: none;
+  }
+  .social-links {
+    display: flex;
+    justify-content: center;
+  }
+  .social-links li {
+    margin: 0 0.5em;
+  }
+  .social-links li a {
+    text-decoration: none;
+  }
+  .social-links svg {
+    width: 1.5em;
+    height: 1.5em;
+  }
+
+
+  /* =Type
+  ----------------------------------------------- */
+  @import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=cc6a41bd-0f58-40ee-969c-b51a067cfbc0");
+
+  @font-face{
+      font-family:"Unit";
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/62ee022e-d24c-42af-a5bd-bcfebdf08011.eot?#iefix");
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/62ee022e-d24c-42af-a5bd-bcfebdf08011.eot?#iefix") format("eot"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/26b417f7-bc34-4753-b339-e4d5b6d2dacd.woff2") format("woff2"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/a6c91dda-d4ae-4d51-be05-1da4055b3900.woff") format("woff"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/1927e516-44e1-45eb-ac75-ecd7966d5c84.ttf") format("truetype"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/eac6988e-9a03-4b59-9e0c-ca323a876518.svg#eac6988e-9a03-4b59-9e0c-ca323a876518") format("svg");
+      font-weight: normal;
+      font-style: normal;
+  }
+  @font-face{
+      font-family:"Unit";
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/6c433ff1-3c87-4f67-af48-55c42576c0eb.eot?#iefix");
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/6c433ff1-3c87-4f67-af48-55c42576c0eb.eot?#iefix") format("eot"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/bc191fca-ec38-4626-9316-7f3f6a6275a7.woff2") format("woff2"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/1a590379-0a82-4e00-8004-8331e30ed71b.woff") format("woff"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/e8116f3e-d43e-431b-81ce-99c62ea27008.ttf") format("truetype"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/69a8855c-21a7-4382-8c88-157885f95d76.svg#69a8855c-21a7-4382-8c88-157885f95d76") format("svg");
+      font-weight: normal;
+      font-style: italic;
+  }
+  @font-face{
+      font-family:"Unit";
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/9f993023-6989-456c-b306-cb6ca3662071.eot?#iefix");
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/9f993023-6989-456c-b306-cb6ca3662071.eot?#iefix") format("eot"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/a8bdc4b5-08e3-4e40-9810-79d70377e4aa.woff2") format("woff2"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/051dfbb7-243c-48e4-b7f5-d698e93c6310.woff") format("woff"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/5e030e7f-e949-41a8-a36d-0d0968a531d5.ttf") format("truetype"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/6ac45c9f-03fa-467a-bc9a-5e00cd4c88b0.svg#6ac45c9f-03fa-467a-bc9a-5e00cd4c88b0") format("svg");
+      font-weight: bold;
+      font-style: normal;
+  }
+  @font-face{
+      font-family:"Unit";
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/fde153bf-9f0c-4222-bf04-2576787e393f.eot?#iefix");
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/fde153bf-9f0c-4222-bf04-2576787e393f.eot?#iefix") format("eot"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/795d41f5-43c2-4d90-8dee-31943554bc22.woff2") format("woff2"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/194b5b2b-7fdd-4417-a00f-4401f52f5925.woff") format("woff"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/f8a821ce-0424-4a03-85ca-5109962304fb.ttf") format("truetype"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/3a21b0fd-a439-48bc-9a1b-177d0baf3c5c.svg#3a21b0fd-a439-48bc-9a1b-177d0baf3c5c") format("svg");
+      font-weight: bold;
+      font-style: italic;
+  }
+  @font-face{
+      font-family:"Unit";
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/4f8a7b97-ff37-4654-8eab-2cf4b3f93ea1.eot?#iefix");
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/4f8a7b97-ff37-4654-8eab-2cf4b3f93ea1.eot?#iefix") format("eot"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/d35d4892-e32e-46f3-9f1d-6d6d0ea96c89.woff2") format("woff2"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/c5596913-60d4-4df9-b878-25d795cec847.woff") format("woff"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/b4b2102e-b173-4cae-b7cf-f0f42324a19d.ttf") format("truetype"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/4e0702c0-2902-4703-9671-e42a0d34b05e.svg#4e0702c0-2902-4703-9671-e42a0d34b05e") format("svg");
+      font-weight: 800;
+      font-style: normal;
+  }
+  @font-face{
+      font-family:"Unit";
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/86b89772-21b8-4096-b8a4-5f287631c1a7.eot?#iefix");
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/86b89772-21b8-4096-b8a4-5f287631c1a7.eot?#iefix") format("eot"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/37871b4c-bc0f-4580-904f-ed033b86eee7.woff2") format("woff2"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/f8686d3c-c62a-40a1-b1e5-2bf4045c8e87.woff") format("woff"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/882bc8c6-e95b-4efe-82ae-200859b00460.ttf") format("truetype"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/7e1aadc9-1d48-437b-8ce0-75be7c135d8f.svg#7e1aadc9-1d48-437b-8ce0-75be7c135d8f") format("svg");
+      font-weight: 800;
+      font-style: italic;
+  }
+  @font-face{
+      font-family:"Unit";
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/9ab36eb3-fd0f-4917-b0be-5a2ba6de2cec.eot?#iefix");
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/9ab36eb3-fd0f-4917-b0be-5a2ba6de2cec.eot?#iefix") format("eot"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/164c45fb-5d86-41d9-8ed1-cc3f7a8da166.woff2") format("woff2"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/0cba0a94-f249-4dd4-9fb5-52d58d15a705.woff") format("woff"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/1bd1d93c-2792-405c-a84a-881ca27d6395.ttf") format("truetype"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/d1d93de7-ddc9-4c9c-9ec1-bcc1bacba465.svg#d1d93de7-ddc9-4c9c-9ec1-bcc1bacba465") format("svg");
+      font-weight: 900;
+      font-style: normal;
+  }
+  @font-face{
+      font-family:"Unit";
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/b8867016-68a5-42c4-8172-9b4270bc7590.eot?#iefix");
+      src:url("https://jimthoburn.com/fonts-temp-for-grandparkla/b8867016-68a5-42c4-8172-9b4270bc7590.eot?#iefix") format("eot"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/43e3d30d-cadb-41bb-9a71-ac24e33b604b.woff2") format("woff2"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/6a07f36d-3068-4545-999e-e0ddd60b5c32.woff") format("woff"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/d26219a6-ef78-428c-9d51-2be47cbc3f87.ttf") format("truetype"),url("https://jimthoburn.com/fonts-temp-for-grandparkla/f302945c-c7eb-4762-be97-f9f2c8f8a806.svg#f302945c-c7eb-4762-be97-f9f2c8f8a806") format("svg");
+      font-weight: 900;
+      font-style: italic;
+  }
+
+  .entry-header .entry-title,
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Unit", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    color: rgb(235, 12, 128); /* @pink */
+  }
+  .entry-header .entry-title,
+  h1 {
+    font-size: 2.5em;
+  }
+  .entry-content h1,
+  .entry-content h2,
+  h2 {
+    font-size: 2em;
+    margin-top: 3em;
+  }
+  .entry-content h3,
+  h3 {
+    font-size: 1.5em;
+  }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: inherit !important;
+  }
+  h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
+    font-weight: inherit;
+  }
+
+
+  h2.powered-by {
+    max-width: none;
+    color: inherit;
+    font-family: inherit;
+    font-style: inherit;
+    text-transform: inherit;
+    font-size: 1.45em;
+    line-height: 1.5818181818; /* (1.45 / 1.375) x 1.5 */
+    margin-bottom: 4.35em;
+  }
+  h2.powered-by a,
+  h2.powered-by span {
+    display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
+  }
+  h2.powered-by a[href] {
+    color: rgb(90, 150, 55) !important; /* @mediumgreen */
+  }
+  h2.powered-by a[href]:hover,
+  h2.powered-by a[href]:active,
+  h2.powered-by a[href]:focus {
+    color: rgb(41, 96, 46) !important; /* @darkgreen */
+  }
+
+  h3,
+  h4 {
+    font-weight: 700;
+    color: inherit;
+    text-transform: none;
+  }
+  h3 {
+    margin-top: 2.9rem;
+    font-size: 1.25em;
+  }
+  h4 {
+    font-size: 1em;
+  }
+
+
+  figure > div[data-aspect-ratio-portrait="600/300"] {
+    padding-bottom: 50%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1920/465"] {
+      padding-bottom: 24.21875%;
+    }
+  }
