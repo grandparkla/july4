@@ -107,6 +107,10 @@ The size of bags and backpacks/totes must be standard backpack size or smaller (
 
 This will be an alcohol-free, family-friendly event; no beer garden or point of purchase. No alcohol is permitted in the event space.
 
+### Food for Sale
+
+Food vendors will be onsite. (More updates to follow)
+
 
 ## Kids' Play Zones
 
