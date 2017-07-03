@@ -824,10 +824,11 @@
     max-width: none;
   }
   .social-links {
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    max-width: none;
   }
   .social-links li {
+    display: inline;
     margin: 0 0.5em;
   }
   .social-links li a {
