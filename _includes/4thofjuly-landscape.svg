@@ -121,7 +121,7 @@
 		fill:#FFF8B9;
 	}
 	.st9 {
-		font-family:'UnitOffc-Bold';
+		font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	}
 	.st10 {
 		font-size:31.858px;
