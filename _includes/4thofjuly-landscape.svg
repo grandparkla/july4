@@ -139,6 +139,10 @@
 		fill:none;stroke:#FFF8B9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
 	}
 </style>
+
+<switch>
+<g class="all-elements-container">
+
 <path class="st0" d="M70,694.8l-15.8-59l8.3-159.2l72.3-19.4l-8.1,162.6l35.3-9.4l-19.3-72l65.2-30.2l22.5,83.8l13.3-3.6l14.9,55.8
 	l-13.3,3.6l12.1,45.3L189,711.5l-12.1-45.3L70,694.8z"/>
 <g>
@@ -704,4 +708,7 @@
 		C345.4,662.3,346.3,662.3,347.3,662z"/>
 	<path class="st14" d="M360.8,620.2l26.1-7l3,11.2l-12.6,3.4l1.6,5.8l9.7-2.6l2.9,10.6l-9.6,2.6l4.8,17.9l-13.6,3.6L360.8,620.2z"/>
 </g>
+
+</g><!-- /all-elements-container -->
+<foreignobject><span style="display: block; padding: 4.5em 0;">Grand Park and the Music Center, Fourth of July Block Party</span></foreignobject>
 </svg>
