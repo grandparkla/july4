@@ -1,0 +1,32 @@
+CACHE MANIFEST
+# Version: 0.010
+
+# A list of explicit URLs to request and store
+# Or… Resources that are best served from the cache
+# (These will be prefetched and are generally small, static files)
+# CACHE:
+/css/style.css
+/images/map.png
+/images/logos/grandpark-musiccenter.png
+/images/logos/hildal.png
+/images/logos/huizar.png
+/images/logos/los-angeles.png
+/images/logos/metro.png
+
+
+# What to do when an offline user attempts to access an uncached file
+FALLBACK:
+# / offline.html
+
+
+# A list of URLs that are okay to load within a cached page (i.e. use the online version if online, and use the cached version if offline)
+# Or… Resources that are best served from the network
+# (These are generally dynamic, or large/numerous sets of static files)
+NETWORK:
+*
+
+
+# KUDOS: http://appcachefacts.info
+SETTINGS:
+# prefer-online
+# fast (default)

@@ -40,9 +40,9 @@ Grand Park + The Music Center:<br />
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" target="_blank" class="has-icon">
 <!-- Jim’s Google Maps API key -->
 <picture>
-<source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4" media="(min-aspect-ratio: 1/1)"/>
-<source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"/>
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4" width="1000" alt="Grand Park on Google Maps" />
+<source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" media="(min-aspect-ratio: 1/1)"/>
+<source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w"/>
+<img src="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4" width="1000" alt="Grand Park on Google Maps" />
 </picture>
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
@@ -241,7 +241,7 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
 <figure class="feature map">
 <div style="padding-bottom: 153.33333333%; background: transparent;">
-<img src="/images/map.svg" width="1000" height="1534" data-aspect-ratio="1687/2587" alt="Event Map" />
+<img src="/images/map.png" width="1000" height="1534" data-aspect-ratio="1687/2587" alt="Event Map" />
 </div>
 </figure>
 
@@ -319,8 +319,8 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
 
 <picture>
 <source srcset="/images/summer-320wide.jpg 320w, /images/summer-640wide.jpg 640w, /images/summer-768wide.jpg 768w, /images/summer-1024wide.jpg 1024w, /images/summer-1536wide.jpg 1536w, /images/summer-1920wide.jpg 1920w" media="(min-aspect-ratio: 1/1)"/>
-<source srcset="/images/summer-600x300.png"/>
-<img src="/images/summer-640wide.png" width="1000" height="1534"  alt="Grand Park. Free to Play. Summer #5" />
+<source srcset="/images/summer-600x300.jpg"/>
+<img src="/images/summer-640wide.jpg" width="1000" height="1534"  alt="Grand Park. Free to Play. Summer #5" />
 </picture>
 </a>
 </div>
