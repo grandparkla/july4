@@ -35,52 +35,9 @@ Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 
-{% comment %}
-live map
-<figure style="cursor: pointer;" class="feature" onclick="window.open('https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614')">
-  <div style="padding-bottom: 56.25%; padding-bottom: 50vh; pointer-events: none;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-width: none; border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1652.7710729912565!2d-118.24613337399674!3d34.05561403154144!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c6520588a7f1%3A0x5ad46bbc252d202b!2s200+N+Grand+Ave%2C+Los+Angeles%2C+CA+90012!5e0!3m2!1sen!2sus!4v1492927621656')" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1652.7710729912565!2d-118.24613337399674!3d34.05561403154144!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c6520588a7f1%3A0x5ad46bbc252d202b!2s200+N+Grand+Ave%2C+Los+Angeles%2C+CA+90012!5e0!3m2!1sen!2sus!4v1492927621656" width="1000" height="563" frameborder="0" allowfullscreen></iframe>
-  </div>
-</figure>
-{% endcomment %}
-
-{% comment %}
-<figure class="feature">
-<div style="padding-bottom: 44.79665072%; padding-bottom: 50vh;">
-<a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
-<!--
-<img class="preview" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAiAQMAAADVm03MAAAABlBMVEXl4tu1gZRWwFt1AAAAT0lEQVR4AWPAD1gEMIQcYIwGKM0IZXAww2TYDsC0wxUzMbBA5WAivTD9txWg5mxOgKhktIHpz29ggDhAGqZLGKaLjYEUADVGAU2Ug4F0AAD3awh9LijsWAAAAABJRU5ErkJggg==" alt="" />
-<img src="/images/street-closures-640wide.png" width="1000" data-aspect-ratio="1617/864" srcset="/images/street-closures-320wide.png 320w, /images/street-closures-640wide.png 640w, /images/street-closures-768wide.png 768w, /images/street-closures-1024wide.png 1024w, /images/street-closures-1617wide.png 1617w" sizes="100vw" alt="Street Closure Map" />
--->
-<img src="/images/google-map-1672wide.png" width="1000" alt="Grand Park on Google Maps" style="object-fit: cover; object-position: center; height: 100%;" />
-<span class="icon">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
-<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
-L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
-c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
-<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
-c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
-C9.3,11.7,9.3,11.2,9.1,10.9z"/>
-</svg>
-</span>
-</a>
-</div>
-</figure>
-
-{% endcomment %}
-
-
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio-portrait="1/1">
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" target="_blank" class="has-icon">
-<!--
-<img class="preview" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAiAQMAAADVm03MAAAABlBMVEXl4tu1gZRWwFt1AAAAT0lEQVR4AWPAD1gEMIQcYIwGKM0IZXAww2TYDsC0wxUzMbBA5WAivTD9txWg5mxOgKhktIHpz29ggDhAGqZLGKaLjYEUADVGAU2Ug4F0AAD3awh9LijsWAAAAABJRU5ErkJggg==" alt="" />
-<img src="/images/street-closures-640wide.png" width="1000" data-aspect-ratio="1617/864" srcset="/images/street-closures-320wide.png 320w, /images/street-closures-640wide.png 640w, /images/street-closures-768wide.png 768w, /images/street-closures-1024wide.png 1024w, /images/street-closures-1617wide.png 1617w" sizes="100vw" alt="Street Closure Map" />
--->
-{% comment %}
-<img src="/images/google-map-1672wide.png" width="1000" alt="Grand Park on Google Maps" style="object-fit: cover; object-position: center; height: 100%;" />
-<span class="credit">Google Map</span>
-{% endcomment %}
 <!-- Jim’s Google Maps API key -->
 <picture>
 <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4" media="(min-aspect-ratio: 1/1)"/>
@@ -282,25 +239,9 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
 ## Event Map
 
-The event will take place at Grand Park + The Music Center:<br />
-[200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
-
-<figure>
-<div style="padding-bottom: 153.34914049%">
-<a href="/images/july4-map-1687wide.png" target="_blank" class="has-icon">
-<img class="preview" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABiAQMAAADaw0egAAAABlBMVEUICxMAAAB8SPLCAAAAtElEQVR4AZWSAWYFQRBEX8aIxpJGDpCbZI+QI+3R/ski+SmjTG9DCvZtqerpYWj0ApPr9B+cz09iyWF3iu6Zj18n6VTGKCUYx7uASVHg1gUj5TyBAhhCYfaM+DgA62EM3S9hh0l1WE4kUfZMw1gQPqICpyKGaKDO0eR5UpX1FnZonVrv5RYXIOgc7LQDvfzbw68vBKr/QQhuO6/MINUa2+QjP7+/WHJGa7j1esvM/tUp+z/9AB6MFSgPSeOwAAAAAElFTkSuQmCC" alt="" />
-<img src="/images/july4-map-640wide.png" width="1000" height="1534" data-aspect-ratio="1687/2587" srcset="/images/july4-map-640wide.png 640w, /images/july4-map-1024wide.png 1024w, /images/july4-map-1687wide.png 1687w" sizes="100vw" alt="Event Map" />
-<span class="icon">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
-<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
-L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
-c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
-<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
-c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
-C9.3,11.7,9.3,11.2,9.1,10.9z"/>
-</svg>
-</span>
-</a>
+<figure class="feature map">
+<div style="padding-bottom: 153.33333333%; background: transparent;">
+<img src="/images/map.svg" width="1000" height="1534" data-aspect-ratio="1687/2587" alt="Event Map" />
 </div>
 </figure>
 
@@ -313,27 +254,6 @@ The event will take place at Grand Park + The Music Center:<br />
 ### Street Closure Info and Parking Details
 
 Details on scheduled event street closures in the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf).
-
-{% comment %}
-This code shows a live map
-<figure style="cursor: pointer;" class="feature" onclick="window.open('https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15')">
-  <div style="padding-bottom: 56.25%; padding-bottom: 50vh; pointer-events: none;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-width: none; border: 0;" src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="1000" height="563" frameborder="0" allowfullscreen></iframe>
-  </div>
-</figure>
-
-<figure style="cursor: pointer;" class="feature" onclick="window.open('https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15')">
-  <div style="padding-bottom: 50%; padding-bottom: 50vh; pointer-events: none;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-width: none; border: 0;" src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="640" height="480"></iframe>
-  </div>
-</figure>
-
-<figure style="cursor: pointer;" onclick="window.open('https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15')">
-  <div style="padding-bottom: 50%; padding-bottom: 50vh; pointer-events: none;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-width: none; border: 0;" src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="640" height="480"></iframe>
-  </div>
-</figure>
-{% endcomment %}
 
 <figure style="">
 <div style="padding-bottom: 53.432282%">
@@ -350,7 +270,7 @@ c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-
 C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </svg>
 </span>
-<span class="credit">Google Map of Grand Park + The Music Center's 4th of July Street Closures</span>
+<span class="credit">Google Map of Street Closures and Parking</span>
 </a>
 </div>
 </figure>
@@ -456,40 +376,6 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
     </ul>
   </div>
 
-  <!--
-  <ul class="social">
-    <li>
-      <a href="https://www.facebook.com/grandparklosangeles">
-        <svg class="icon" viewBox="0 0 24 24" width="24" height="24">
-          <switch>
-            <path d="M14.5,2c-1.4,0-2.5,0.4-3.3,1.2s-1.2,2-1.2,3.5v2.6H6.8v3.6h3.1V22h3.7v-9.1h3.1l0.5-3.6h-3.5V7 c0-0.6,0.1-1,0.4-1.3c0.2-0.3,0.7-0.4,1.4-0.4h1.9V2.1C16.5,2,15.6,2,14.5,2z"></path>
-            <foreignobject>Facebook</foreignobject>
-          </switch>
-        </svg>
-      </a>
-    </li>
-    <li>
-      <a href="https://twitter.com/grandpark_la">
-        <svg class="icon" viewBox="0 0 24 24" width="24" height="24">
-          <switch>
-            <path class="circle-top" d="M19.2,6.7c0.8-0.5,1.4-1.2,1.7-2.1c-0.8,0.5-1.6,0.8-2.5,0.9c-0.8-0.8-1.7-1.2-2.8-1.2c-1.1,0-2,0.4-2.7,1.1 s-1.1,1.7-1.1,2.7c0,0.3,0,0.6,0.1,0.9C10.3,9,8.8,8.6,7.4,7.9C6,7.2,4.8,6.2,3.9,5C3.5,5.6,3.3,6.3,3.3,7c0,0.7,0.2,1.3,0.5,1.9 c0.3,0.6,0.7,1,1.3,1.4c-0.6,0-1.2-0.2-1.8-0.5v0c0,0.9,0.3,1.8,0.9,2.5s1.3,1.2,2.2,1.3c-0.3,0.1-0.7,0.1-1,0.1 c-0.2,0-0.5,0-0.7-0.1c0.2,0.8,0.7,1.4,1.4,1.9s1.4,0.8,2.3,0.8c-1.4,1.1-3,1.7-4.8,1.7c-0.3,0-0.7,0-0.9,0c1.8,1.2,3.8,1.7,6,1.7 c1.4,0,2.7-0.2,3.9-0.7s2.2-1,3.1-1.8c0.9-0.7,1.6-1.6,2.2-2.5c0.6-1,1.1-1.9,1.4-3s0.5-2.1,0.5-3.1c0-0.2,0-0.4,0-0.5 c0.8-0.6,1.4-1.2,1.9-2C20.7,6.5,20,6.7,19.2,6.7z"></path>
-            <foreignobject>Twitter</foreignobject>
-          </switch>
-        </svg>
-      </a>
-    </li>
-    <li>
-      <a href="https://instagram.com/grandpark_la">
-        <svg class="icon" viewBox="0 0 24 24" width="24" height="24">
-          <switch>
-            <path d="M22,19.4c0,1.4-1.2,2.6-2.6,2.6H4.6C3.2,22,2,20.8,2,19.4V4.6C2,3.2,3.2,2,4.6,2h14.9C20.8,2,22,3.2,22,4.6 V19.4z M19.7,10.5H18c0.2,0.5,0.3,1.1,0.3,1.7c0,3.3-2.8,6-6.2,6c-3.4,0-6.2-2.7-6.2-6c0-0.6,0.1-1.2,0.3-1.7H4.2v8.4 c0,0.4,0.4,0.8,0.8,0.8h13.9c0.4,0,0.8-0.4,0.8-0.8V10.5z M12,8.1c-2.2,0-4,1.7-4,3.9c0,2.1,1.8,3.9,4,3.9c2.2,0,4-1.7,4-3.9 C16,9.8,14.2,8.1,12,8.1z M19.7,5.1c0-0.5-0.4-0.9-0.9-0.9h-2.3c-0.5,0-0.9,0.4-0.9,0.9v2.1c0,0.5,0.4,0.9,0.9,0.9h2.3 c0.5,0,0.9-0.4,0.9-0.9L19.7,5.1L19.7,5.1z"></path>
-            <foreignobject>Instagram</foreignobject>
-          </switch>
-        </svg>
-      </a>
-    </li>
-  </ul>
-  -->
 </footer>
 
 <h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>

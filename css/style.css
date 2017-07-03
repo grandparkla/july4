@@ -947,3 +947,60 @@
       margin-right: -2.9em;
     }
   }
+
+  header h1,
+  .map.feature {
+    background: black;
+    background-image: url(/images/stars-1024wide.jpg);
+    background-size: 100% auto;
+    color: rgb(252, 248, 187); /* @lightyellow */
+    color: white;
+  }
+
+  @media (max-width: 40em) {
+    header h1 {
+      background-size: auto 100%;
+    }
+  }
+
+  @media (min-width: 384px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-1536wide.jpg);
+    }
+  }
+
+  @media (min-width: 512px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-2048wide.jpg);
+    }
+  }
+
+  @media (min-width: 768px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-3072wide.jpg);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-4096wide.jpg);
+    }
+  }
+
+  @media (min-width: 1536px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-5120wide.jpg);
+    }
+  }
+
+  @media (min-width: 2048px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-6720wide.jpg);
+    }
+  }
