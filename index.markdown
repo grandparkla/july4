@@ -54,6 +54,7 @@ c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-
 C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </svg>
 </span>
+<span class="credit">Grand Park on Google Maps</span>
 </a>
 </div>
 </figure>
@@ -255,11 +256,18 @@ The event will take place at Grand Park + The Music Center:<br />
 
 Details on scheduled event street closures in the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf).
 
-<figure style="">
-<div style="padding-bottom: 53.432282%">
+<figure>
+<div data-aspect-ratio-landscape="1678/940" data-aspect-ratio-portrait="853/940">
 <a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
+{% comment %}
 <img class="preview" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAiAQMAAADVm03MAAAABlBMVEXl4tu1gZRWwFt1AAAAT0lEQVR4AWPAD1gEMIQcYIwGKM0IZXAww2TYDsC0wxUzMbBA5WAivTD9txWg5mxOgKhktIHpz29ggDhAGqZLGKaLjYEUADVGAU2Ug4F0AAD3awh9LijsWAAAAABJRU5ErkJggg==" alt="" />
 <img src="/images/street-closures-640wide.png" width="1000" data-aspect-ratio="1617/864" srcset="/images/street-closures-320wide.png 320w, /images/street-closures-640wide.png 640w, /images/street-closures-768wide.png 768w, /images/street-closures-1024wide.png 1024w, /images/street-closures-1617wide.png 1617w" sizes="100vw" alt="Street Closure Map" />
+{% endcomment %}
+<picture>
+<source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
+<source srcset="/images/street-closures-portrait.png" sizes="100vw" />
+<img src="/images/street-closures-portrait.png" width="1000" alt="Google Map of Street Closures and Parking" />
+</picture>
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
 <path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
@@ -270,7 +278,7 @@ c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-
 C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </svg>
 </span>
-<span class="credit">Google Map of Street Closures and Parking</span>
+<span class="credit">Street Closures and Parking on Google Maps</span>
 </a>
 </div>
 </figure>

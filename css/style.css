@@ -365,7 +365,7 @@
 
   .has-icon .credit {
     position: absolute;
-    bottom: 0;
+    top: 0;
     left: 0;
     background: white;
     background: rgba(255, 255, 255, 0.75);
@@ -916,6 +916,14 @@
     font-weight: inherit;
   }
 
+  figure > div[data-aspect-ratio-portrait="853/940"] {
+    padding-bottom: 110.1992966%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1678/940"] {
+      padding-bottom: 56.01907032%;
+    }
+  }
 
   figure > div[data-aspect-ratio-portrait="600/300"] {
     padding-bottom: 50%;
