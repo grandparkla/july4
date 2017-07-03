@@ -1,21 +1,143 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1945.5 1098.8" width="244" height="140" style="enable-background:new 0 0 1945.5 1098.8;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFF8B9;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#EC0E69;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st3{fill:none;stroke:#00B8F1;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st4{fill:none;stroke:#FFF8B9;stroke-width:1.4321;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#EC0E69;stroke-width:2.1519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#FFFFFF;stroke-width:2.1519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st7{fill:none;stroke:#00B8F1;stroke-width:2.1519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st8{fill:#FFF8B9;}
-	.st9{font-family:'UnitOffc-Bold';}
-	.st10{font-size:31.858px;}
-	.st11{letter-spacing:1;}
-	.st12{fill:none;stroke:#FFF8B9;stroke-width:0.9932;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st13{fill:#FFFFFF;}
-	.st14{fill:none;stroke:#FFF8B9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	@keyframes july4-pulse {
+		0% {
+			opacity: 1;
+		}
+		20% {
+			opacity: 0;
+		}
+		40% {
+			opacity: 0;
+		}
+		60% {
+			opacity: 1;
+		}
+		80% {
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+
+	/*
+	4th of July Block Party
+	.st0{
+	}
+	.st14 {
+	}
+	*/
+
+
+	/* Grand Park and the Music Center
+	.st13{
+	}
+	 */
+
+
+	/*
+	#Go4thDTLA
+	.st8 {
+	}
+	.st9 {
+	}
+	.st10 {
+	}
+	.st11 {
+	}
+	*/
+
+	/* Pink Arrows */
+	.st2 {
+		animation: july4-pulse 18s 1s steps(1, end) infinite both;
+	}
+	/* Pink Beams */
+	.st5 {
+		animation: july4-pulse 18s 13s steps(1, end) infinite both;
+	}
+
+	/* White Arrows */
+	.st1 {
+		animation: july4-pulse 18s 2s steps(1, end) infinite both;
+	}
+	
+	/* White Beams */
+	.st6 {
+		animation: july4-pulse 18s 14s steps(1, end) infinite both;
+	}
+
+	/* Blue Arrows */
+	.st3 {
+		animation: july4-pulse 18s 3s steps(1, end) infinite both;
+	}
+	/* Blue Beams */
+	.st7 {
+	}
+
+	/* Yellow Beams */
+	.st4 {
+		animation: july4-pulse 18s 15s steps(1, end) infinite both;
+	}
+	.st12{
+		animation: july4-pulse 18s 15s steps(1, end) infinite both;
+	}
+
+	
+
+	
+
+
+
+
+
+
+	.st0{
+		fill:none;stroke:#FFF8B9;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
+	.st1 {
+		fill:none;stroke:#FFFFFF;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
+	.st2 {
+		fill:none;stroke:#EC0E69;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
+	.st3 {
+		fill:none;stroke:#00B8F1;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
+	.st4 {
+		fill:none;stroke:#FFF8B9;stroke-width:1.4321;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
+	.st5 {
+		fill:none;stroke:#EC0E69;stroke-width:2.1519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
+	.st6 {
+		fill:none;stroke:#FFFFFF;stroke-width:2.1519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
+	.st7 {
+		fill:none;stroke:#00B8F1;stroke-width:2.1519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
+	.st8 {
+		fill:#FFF8B9;
+	}
+	.st9 {
+		font-family:'UnitOffc-Bold';
+	}
+	.st10 {
+		font-size:31.858px;
+	}
+	.st11 {
+		letter-spacing:1;
+	}
+	.st12{
+		fill:none;stroke:#FFF8B9;stroke-width:0.9932;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
+	.st13{
+		fill:#FFFFFF;
+	}
+	.st14 {
+		fill:none;stroke:#FFF8B9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;
+	}
 </style>
 <path class="st0" d="M70,694.8l-15.8-59l8.3-159.2l72.3-19.4l-8.1,162.6l35.3-9.4l-19.3-72l65.2-30.2l22.5,83.8l13.3-3.6l14.9,55.8
 	l-13.3,3.6l12.1,45.3L189,711.5l-12.1-45.3L70,694.8z"/>

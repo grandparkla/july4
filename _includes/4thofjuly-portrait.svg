@@ -16,6 +16,87 @@
 	.st-portrait-12{fill:none;stroke:#00B8F1;stroke-width:2.254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st-portrait-13{fill:none;stroke:#FFF8B9;stroke-width:1.0403;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st-portrait-14{fill:#FFFFFF;}
+
+
+	@keyframes july4-pulse-portrait {
+		0% {
+			opacity: 1;
+		}
+		20% {
+			opacity: 0;
+		}
+		40% {
+			opacity: 0;
+		}
+		60% {
+			opacity: 1;
+		}
+		80% {
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+
+	/*
+	4th of July Block Party
+	*/
+	.st-portrait-5 {
+	}
+	.st-portrait-6 {
+		opacity: 0;
+	}
+
+
+	/* Grand Park and the Music Center
+	.st-portrait-14 {
+	}
+	 */
+
+
+	/*
+	#Go4thDTLA
+	.st-portrait-1 {
+	}
+	*/
+
+	/* Pink Arrows */
+	.st-portrait-8 {
+		animation: july4-pulse-portrait 18s 1s steps(1, end) infinite both;
+	}
+	/* Pink Beams */
+	.st-portrait-10 {
+		animation: july4-pulse-portrait 18s 13s steps(1, end) infinite both;
+	}
+
+	/* White Arrows */
+	.st-portrait-7 {
+		animation: july4-pulse-portrait 18s 2s steps(1, end) infinite both;
+	}
+	
+	/* White Beams */
+	.st-portrait-11 {
+		animation: july4-pulse-portrait 18s 14s steps(1, end) infinite both;
+	}
+
+	/* Blue Arrows */
+	.st-portrait-9 {
+		animation: july4-pulse-portrait 18s 3s steps(1, end) infinite both;
+	}
+	/* Blue Beams */
+	.st-portrait-12 {
+	}
+
+	/* Yellow Beams */
+	.st-portrait-0 {
+		animation: july4-pulse-portrait 18s 15s steps(1, end) infinite both;
+	}
+	.st-portrait-13 {
+		animation: july4-pulse-portrait 18s 15s steps(1, end) infinite both;
+	}
+
+	
 </style>
 <line class="st-portrait-0" x1="531.3" y1="-113.4" x2="606.2" y2="160.5"/>
 <line class="st-portrait-0" x1="425.3" y1="-71.9" x2="568.5" y2="173.3"/>
