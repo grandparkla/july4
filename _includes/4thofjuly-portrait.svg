@@ -100,7 +100,7 @@
 
 
 
-	@keyframes fireworks-landscape {
+	@keyframes disabled-fireworks-portrait {
 		0% {
 			opacity: 1;
 		}
@@ -166,32 +166,47 @@
 		}
 	}
 
+	@keyframes fireworks-portrait {
+		0% {
+			opacity: 1;
+		}
+		33.333% {
+			opacity: 1;
+		}
+		66.666% {
+			opacity: 0.25;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+
 	/* Pink Arrows */
 	.st-portrait-8 {
-		animation: fireworks-landscape;
-		animation-duration: 21s;
+		animation: fireworks-portrait;
+		animation-duration: 16.18s;
 		animation-timing-function: steps(1, start);
-		animation-delay: 11s;
+		animation-delay: 0s;
 		animation-iteration-count: infinite;
 		animation-fill-mode: both;
 	}
 
 	/* White Arrows */
 	.st-portrait-7 {
-		animation: fireworks-landscape;
-		animation-duration: 21s;
+		animation: fireworks-portrait;
+		animation-duration: 16.18s;
 		animation-timing-function: steps(1, start);
-		animation-delay: 12s;
+		animation-delay: 1s;
 		animation-iteration-count: infinite;
 		animation-fill-mode: both;
 	}
 
 	/* Blue Arrows */
 	.st-portrait-9 {
-		animation: fireworks-landscape;
-		animation-duration: 21s;
+		animation: fireworks-portrait;
+		animation-duration: 16.18s;
 		animation-timing-function: steps(1, start);
-		animation-delay: 13s;
+		animation-delay: 2s;
 		animation-iteration-count: infinite;
 		animation-fill-mode: both;
 	}
@@ -201,30 +216,30 @@
 
 	/* Pink Beams */
 	.st-portrait-10 {
-		animation: fireworks-landscape;
-		animation-duration: 21s;
+		animation: fireworks-portrait;
+		animation-duration: 16.18s;
 		animation-timing-function: steps(1, start);
-		animation-delay: 21s;
+		animation-delay: 3s;
 		animation-iteration-count: infinite;
 		animation-fill-mode: both;
 	}
 	
 	/* White Beams */
 	.st-portrait-11 {
-		animation: fireworks-landscape;
-		animation-duration: 21s;
+		animation: fireworks-portrait;
+		animation-duration: 16.18s;
 		animation-timing-function: steps(1, start);
-		animation-delay: 22s;
+		animation-delay: 4s;
 		animation-iteration-count: infinite;
 		animation-fill-mode: both;
 	}
 
 	/* Blue Beams */
 	.st-portrait-12 {
-		animation: fireworks-landscape;
-		animation-duration: 21s;
+		animation: fireworks-portrait;
+		animation-duration: 16.18s;
 		animation-timing-function: steps(1, start);
-		animation-delay: 23s;
+		animation-delay: 5s;
 		animation-iteration-count: infinite;
 		animation-fill-mode: both;
 	}
@@ -232,10 +247,10 @@
 	/* Yellow Beams */
 	.st-portrait-0,
 	.st-portrait-13  {
-		animation: fireworks-landscape;
-		animation-duration: 21s;
+		animation: fireworks-portrait;
+		animation-duration: 16.18s;
 		animation-timing-function: steps(1, start);
-		animation-delay: 24s;
+		animation-delay: 6s;
 		animation-iteration-count: infinite;
 		animation-fill-mode: both;
 	}
