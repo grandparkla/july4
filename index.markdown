@@ -141,7 +141,6 @@ This is a space for unity – where Angelenos and visitors from all around the w
 
 * Snacks
 * Food
-* Handheld Umbrellas
 * Sealed Juice Boxes
 * Small Bags
 * Smiling Faces
