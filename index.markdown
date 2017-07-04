@@ -321,7 +321,7 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
 <picture>
 <source srcset="/images/summer-320wide.jpg 320w, /images/summer-640wide.jpg 640w, /images/summer-768wide.jpg 768w, /images/summer-1024wide.jpg 1024w, /images/summer-1536wide.jpg 1536w, /images/summer-1920wide.jpg 1920w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="/images/summer-600x300.jpg" sizes="100vw" />
-<img src="/images/summer-640wide.jpg" width="1000" alt="Grand Park. Free to Play. Summer #5" />
+<img src="/images/summer-600x300.jpg" width="1000" alt="Grand Park. Free to Play. Summer #5" />
 </picture>
 </a>
 </div>
@@ -333,7 +333,7 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
 
   <h2 class="logo">
     <a href="http://grandparkla.org">
-      <svg viewBox="0 0 157.1 35.9" width="158" height="36">
+      <svg viewBox="0 0 157.1 35.9" width="158" height="36" class="grand-park">
         <switch>
           <g>
             <path d="M13.5,11.3V5.8c0-2.8-0.4-5.6-4.9-5.8v0H4.9v0C0.4,0.2,0,3,0,5.8v23.7c0,4.7,1.2,6.1,4.9,6.2v0l3.6,0v0 c3.7,0,4.9-1.5,4.9-6.2V16.7H8.8H6.4v4.3h2.4v8.2c0,1.2-0.1,2-1.5,2H6.2c-1.3,0-1.5-0.8-1.5-2V6.8c0-1.4,0-2.5,1.9-2.5h0.3 c1.8,0,1.9,1.1,1.9,2.5v4.4H13.5z"/>

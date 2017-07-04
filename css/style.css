@@ -691,30 +691,20 @@
     position: absolute;
     top: 0;
     right: 0;
-    font-size: 1.25em;
     /*
     right: -1.45em;
     */
   }
   .nav-link a {
+    font-size: 0.75em;
     display: inline-block;
     text-align: center;
-    padding: 1.45em 1.45em;
-    background-color: rgb(235, 12, 128); /* @pink */
-    color: white;
-    background-color: rgb(252, 239, 71); /* @yellow */
-    color: inherit;
+    padding: 1.9333333333em; /* 1.45 / 0.75em */
     text-decoration: none;
     transition: background-color 0.2s, color 0.2s;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
-    color: rgb(235, 12, 128) !important; /* @pink */
-
-    background-color: rgb(235, 12, 128); /* @pink */
-    background-color: transparent;
-    color: rgb(252, 239, 71) !important; /* @yellow */
-    background-color: transparent;
-    color: white !important;
+    color: white;
   }
 
 
@@ -741,9 +731,10 @@
   .logo svg * {
     fill: currentColor;
   }
-  .logo svg {
+  svg.grand-park {
     display: block;
-    height: 2.175em; /* 1.45*1.5 */
+    height: 2.175em; /* 1.45 * 1.5 */
+    width: 9.5458333333em; /* 158/36 * 2.175em */
   }
   footer ul,
   footer li {
@@ -776,17 +767,11 @@
   }
   footer .nav {
     max-width: none;
-    margin-top: 0em;
-    margin-bottom: 0em;
+    margin: 0;
     padding-top: 0.725em;
     padding-bottom: 0.725em;
-    margin-left: -1.45em;
-    margin-right: -1.45em;
     background-color: transparent;
-    background-color: transparent;
-    display: table;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
   }
   footer li a {
     display: inline-block;
@@ -842,9 +827,10 @@
   }
   @media (min-width: 40em) { /* @medium */
     footer .navigation-lists {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, calc(33.3333% - 2.1666666667rem));
+      grid-gap: 3.25rem;
+      align-items: center;
     }
   }
   footer li a {
