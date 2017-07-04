@@ -318,7 +318,7 @@
     position: relative;
     text-decoration: none
   }
-  figure a.has-icon {
+  figure > div[data-aspect-ratio] a.has-icon {
     position: absolute;
   }
 
@@ -461,7 +461,6 @@
   }
 
   img {
-    display: block;
     max-width: 100%;
     height: auto;
   }
@@ -470,6 +469,7 @@
   figure > div {
     background: rgb(204, 206, 204);
     position: relative;
+    text-align: center;
 
     /* KUDOS: http://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur#answer-23370117 */
     overflow: hidden;
@@ -478,8 +478,12 @@
     -webkit-transform: translate3d(0, 0, 0);
     */
   }
-  figure a,
-  figure img {
+  figure > div img {
+    display: block;
+    width: 100%;
+  }
+  figure > div[data-aspect-ratio] a,
+  figure > div[data-aspect-ratio] img {
     position: absolute;
     top: 0;
     left: 0;
@@ -488,14 +492,53 @@
     min-height: 0;
     max-width: none;
   }
-  figure a {
+  figure > div[data-aspect-ratio] a {
     height: 100%;
   }
-  figure img.preview {
+  figure > div img {
+    position: relative;
+  }
+  figure > div img.preview {
+    position: absolute;
     margin: calc(-3em);
     width: calc(100% + 6em) !important;
     -webkit-filter: blur(1.5em);
             filter: blur(1.5em);
+  }
+
+  figure > div[data-aspect-ratio="1280/720"] {
+    padding-bottom: 56.25%;
+  }
+
+  figure > div[data-aspect-ratio="1687/2587"] {
+    padding-bottom: 153.33333333%; 
+  }
+
+  figure > div[data-aspect-ratio="853/940"] {
+    padding-bottom: 110.1992966%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1678/940"] {
+      padding-bottom: 56.01907032%;
+    }
+  }
+
+  figure > div[data-aspect-ratio="600/300"] {
+    padding-bottom: 50%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1920/465"] {
+      padding-bottom: 24.21875%;
+    }
+  }
+
+  figure > div[data-aspect-ratio="1/1"] {
+    padding-bottom: 100%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="2/1"] {
+      padding-bottom: 50%;
+    }
   }
 
 
@@ -915,33 +958,6 @@
     font-size: 1em;
     font-family: inherit;
     font-weight: inherit;
-  }
-
-  figure > div[data-aspect-ratio-portrait="853/940"] {
-    padding-bottom: 110.1992966%;
-  }
-  @media (min-aspect-ratio: 1/1) {
-    figure > div[data-aspect-ratio-landscape="1678/940"] {
-      padding-bottom: 56.01907032%;
-    }
-  }
-
-  figure > div[data-aspect-ratio-portrait="600/300"] {
-    padding-bottom: 50%;
-  }
-  @media (min-aspect-ratio: 1/1) {
-    figure > div[data-aspect-ratio-landscape="1920/465"] {
-      padding-bottom: 24.21875%;
-    }
-  }
-
-  figure > div[data-aspect-ratio-portrait="1/1"] {
-    padding-bottom: 100%;
-  }
-  @media (min-aspect-ratio: 1/1) {
-    figure > div[data-aspect-ratio-landscape="2/1"] {
-      padding-bottom: 50%;
-    }
   }
 
   figure.feature {

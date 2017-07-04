@@ -8,10 +8,6 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
 * [Map](#event-map)
 * [Transportation](#transportation)
 
-{% comment %}
-**Los Angeles! #Go4thDTLA**.Grand Park and The Music Center are where to celebrate together with music, food, and an incredible fireworks display launched from the civic center skyline. Grab the best friends, the whole family, and main squeezes and enjoy a bit of togetherness under the beautiful Angeleno sky. **Safety for everyone is número uno. Check back soon for more info on entrances, prohibited items, parking, etc.**
-{% endcomment %}
-
 **Oh hey L.A.**, great to see you! In honor of the USA’s b-day it’s time to celebrate togetherness. Today is all about the sounds of America with an L.A. flavor, from Jazz to Classical and Funk to the Blues. Let’s play, splash, munch, dance and cap it all off with fireworks under the DTLA skyline.
 
 [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park + The Music Center and get **free** Grand Park Sunglasses <em>(while supplies last)</em>.
@@ -36,7 +32,7 @@ Grand Park + The Music Center:<br />
 
 
 <figure>
-<div data-aspect-ratio-landscape="2/1" data-aspect-ratio-portrait="1/1">
+<div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" target="_blank" class="has-icon">
 <!-- Jim’s Google Maps API key -->
 <picture>
@@ -67,9 +63,9 @@ This is a **free** event. There’s no cost to attend.
 ## Highlights from past events
 
 <figure class="feature">
-<div style="padding-bottom: 56.25%">
+<div data-aspect-ratio="1280/720">
 <a href="https://vimeo.com/82051161" target="_blank" class="has-icon">
-<img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" height="563" data-aspect-ratio="1280/720" alt="Video of Grand Park and The Music Center’s 4th Of July Block Party">
+<img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="Video of Grand Park and The Music Center’s 4th Of July Block Party">
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <switch>
@@ -242,8 +238,8 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 [Downloadable Map](/july4-map.pdf) _(PDF file, 4.3MB)_
 
 <figure class="feature map">
-<div style="padding-bottom: 153.33333333%; background-color: black; color: white;">
-<img src="/images/map.png" width="1000" height="1534" data-aspect-ratio="1687/2587" alt="Event Map" />
+<div data-aspect-ratio="1687/2587" style="background-color: black; color: white;">
+<img src="/images/map.png" width="1000" alt="Event Map" />
 </div>
 </figure>
 
@@ -258,12 +254,8 @@ The event will take place at Grand Park + The Music Center:<br />
 Details on scheduled event street closures in the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf).
 
 <figure>
-<div data-aspect-ratio-landscape="1678/940" data-aspect-ratio-portrait="853/940">
+<div data-aspect-ratio-landscape="1678/940" data-aspect-ratio="853/940">
 <a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
-{% comment %}
-<img class="preview" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAiAQMAAADVm03MAAAABlBMVEXl4tu1gZRWwFt1AAAAT0lEQVR4AWPAD1gEMIQcYIwGKM0IZXAww2TYDsC0wxUzMbBA5WAivTD9txWg5mxOgKhktIHpz29ggDhAGqZLGKaLjYEUADVGAU2Ug4F0AAD3awh9LijsWAAAAABJRU5ErkJggg==" alt="" />
-<img src="/images/street-closures-640wide.png" width="1000" data-aspect-ratio="1617/864" srcset="/images/street-closures-320wide.png 320w, /images/street-closures-640wide.png 640w, /images/street-closures-768wide.png 768w, /images/street-closures-1024wide.png 1024w, /images/street-closures-1617wide.png 1617w" sizes="100vw" alt="Street Closure Map" />
-{% endcomment %}
 <picture>
 <source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="/images/street-closures-portrait.png" sizes="100vw" />
@@ -322,14 +314,14 @@ Plan your trip at [metro.net](https://www.metro.net/)
 My oh my. Five years together – how awesome is that? Let’s continue to kick it in the _park for everyone_. View the [Summer Season Calendar](http://grandparkla.org/summer/).
 
 <figure class="feature" style="margin-bottom: 0;">
-<div data-aspect-ratio-landscape="1920/465" data-aspect-ratio-portrait="600/300">
+<div data-aspect-ratio-landscape="1920/465" data-aspect-ratio="600/300">
 <a href="http://grandparkla.org/summer/" target="_blank">
 <img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABQQEBkSGScXFycyJh8mMi4mJiYmLj41NTU1NT5EQUFBQUFBREREREREREREREREREREREREREREREREREREREQBFRkZIBwgJhgYJjYmICY2RDYrKzZERERCNUJERERERERERERERERERERERERERERERERERERERERERERERERERP/AABEIABAAQAMBIgACEQEDEQH/xABoAAEAAwEBAAAAAAAAAAAAAAACAAEDBAUQAAICAQMBCAMAAAAAAAAAAAERAAIhEjFBAwQTIlFhcZGhweHwAQEBAQEAAAAAAAAAAAAAAAABAAMEEQEBAQEAAAAAAAAAAAAAAAAAASEi/9oADAMBAAIRAxEAPwDzACDn9RUo7CtmODzCa6U0t0DKFiDjBmbgyOm3Z6NUZHqszC1CCUGHK1PEXek/3zE8iOnZo+5i6dM+JkDcSG43Czx9H5k1jZbyGF1DU4QAHA+/eY6vKaWLTwHx+YAOMQVf/9k=" alt="" />
 
 <picture>
 <source srcset="/images/summer-320wide.jpg 320w, /images/summer-640wide.jpg 640w, /images/summer-768wide.jpg 768w, /images/summer-1024wide.jpg 1024w, /images/summer-1536wide.jpg 1536w, /images/summer-1920wide.jpg 1920w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="/images/summer-600x300.jpg" sizes="100vw" />
-<img src="/images/summer-640wide.jpg" width="1000" height="1534"  alt="Grand Park. Free to Play. Summer #5" />
+<img src="/images/summer-640wide.jpg" width="1000" alt="Grand Park. Free to Play. Summer #5" />
 </picture>
 </a>
 </div>
@@ -341,7 +333,7 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
 
   <h2 class="logo">
     <a href="http://grandparkla.org">
-      <svg viewBox="0 0 157.1 35.9">
+      <svg viewBox="0 0 157.1 35.9" width="158" height="36">
         <switch>
           <g>
             <path d="M13.5,11.3V5.8c0-2.8-0.4-5.6-4.9-5.8v0H4.9v0C0.4,0.2,0,3,0,5.8v23.7c0,4.7,1.2,6.1,4.9,6.2v0l3.6,0v0 c3.7,0,4.9-1.5,4.9-6.2V16.7H8.8H6.4v4.3h2.4v8.2c0,1.2-0.1,2-1.5,2H6.2c-1.3,0-1.5-0.8-1.5-2V6.8c0-1.4,0-2.5,1.9-2.5h0.3 c1.8,0,1.9,1.1,1.9,2.5v4.4H13.5z"/>
