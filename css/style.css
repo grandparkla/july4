@@ -821,7 +821,6 @@
       display: grid;
       grid-template-columns: repeat(auto-fill, calc(33.3333% - 2.1666666667rem));
       grid-gap: 3.25rem;
-      align-items: center;
     }
   }
   footer li a {
