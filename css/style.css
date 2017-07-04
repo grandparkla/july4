@@ -165,7 +165,7 @@
   dd a {
     font-style: italic;
   }
-  dd a::after {
+  dd a:first-child::after {
     content: ":";
   }
 
@@ -705,6 +705,12 @@
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
     color: white;
+  }
+  .nav-link a:hover,
+  .nav-link a:active,
+  .nav-link a:focus {
+    color: rgb(39, 183, 234); /* @skyblue */
+    color: rgb(252, 248, 187); /* @lightyellow */
   }
 
 
