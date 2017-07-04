@@ -281,24 +281,24 @@ See the [4th of July Block Party Community Letter](http://grandparkla.org/wp-con
 Due to street closures, **the parking area underneath Grand Park (Lot 10) will not be accessible during the event**.
 
 [The Music Center Garage](https://www.musiccenter.org/visit/Getting-Here-and-Around/Parking/)
-: aka Lot 14 located at 135 North Grand Avenue. Enter via Southbound Grand Aveenue from Temple Street
+: aka Lot 14 located at 135 North Grand Avenue. Enter via Southbound Grand Avenue from Temple Street
 : **The Music Center Garage will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
 
 [Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
-: aka Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue
+: aka Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
 
 County Courthouse Garage
-: aka Lot 17, located at 131 South Olive Street. Enter on Olive Street
+: aka Lot 17, located at 131 South Olive Street. Enter on Olive Street.
 : _(limited spaces available)_
 
 Health Services Garage
-: aka Lot 29, located at 313 North Figueroa Street. Enter on Freemont Street
+: aka Lot 29, located at 313 North Figueroa Street. Enter on Fremont Avenue.
 
 Chinatown Garage
-: aka Lot 45, located at 725 North Spring street. Enter on Spring Street
+: aka Lot 45, located at 725 North Spring street. Enter on Spring Street.
 
 [FIGat7th](http://www.figat7th.com/directions-parking-2/)
-: located at South Figueroa Street and 7th Street. Enter on 7th Street. PARK & PLAY for $5 at FIGat7th with retail store or eatery validation. The structure is open 24 hours and parking validation is valid for up to 12 hours
+: located at South Figueroa Street and 7th Street. Enter on 7th Street. PARK & PLAY for $5 at FIGat7th with retail store or eatery validation. The structure is open 24 hours and parking validation is valid for up to 12 hours.
 
 ### Bicycle Parking
 
