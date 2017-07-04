@@ -958,7 +958,7 @@
   }
 
   header h1,
-  .map.feature {
+  .map.feature div {
     background: black;
     background-image: url(/images/stars-1024wide.jpg);
     background-size: 100% auto;
