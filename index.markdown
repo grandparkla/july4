@@ -145,7 +145,7 @@ This is a space for unity – where Angelenos and visitors from all around the w
 * Small Bags
 * Smiling Faces
 * Strollers
-* Empty Reusable Non-Glass Water Containers.
+* Empty Reusable Non-Glass Water Containers
 
 ### Food & Drink Policy
 
@@ -239,7 +239,7 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
 ## Event Map
 
-[Downloadable PDF](/july4-map.pdf) _(4.3MB)_
+[Downloadable Map](/july4-map.pdf) _(PDF file, 4.3MB)_
 
 <figure class="feature map">
 <div style="padding-bottom: 153.33333333%; background-color: black; color: white;">
