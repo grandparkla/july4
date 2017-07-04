@@ -249,10 +249,6 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 The event will take place at Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
-### Street Closure Info and Parking Details
-
-Details on scheduled event street closures in the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf).
-
 <figure>
 <div data-aspect-ratio-landscape="1678/940" data-aspect-ratio="853/940">
 <a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
@@ -276,11 +272,33 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </div>
 </figure>
 
+### Street Closures
+
+See the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf) for details about streets that will be closed during the event.
+
 ### Parking
 
-Parking in lots surrounding Grand Park is recommended.
+Due to street closures, **the parking area underneath Grand Park (Lot 10) will not be accessible during the event**.
 
-Due to street closures, **the parking area underneath Grand Park (Lot 10) will not be accessible** during the event. The Music Center parking area (Lot 14) will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>
+[The Music Center Garage](https://www.musiccenter.org/visit/Getting-Here-and-Around/Parking/)
+: aka Lot 14 located at 135 North Grand Avenue<br />Enter via Southbound Grand Aveenue from Temple Street
+: **The Music Center Garage will not be accessible<br />from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
+
+[Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
+: aka Lot 16, located at 111 South Grand Avenue<br />Enter on 2nd Street or Lower Grand Avenue
+
+County Courthouse Garage
+: aka Lot 17, located at 131 South Olive Street<br />Enter on Olive Street
+: _(limited spaces available)_
+
+Health Services Garage
+: aka Lot 29, located at 313 North Figueroa Street<br />Enter on Freemont Street
+
+Chinatown Garage
+: aka Lot 45, located at 725 North Spring street<br />Enter on Spring Street
+
+[FIGat7th](http://www.figat7th.com/directions-parking-2/)
+: located at South Figueroa Street and 7th Street<br />Enter on 7th Street<br />PARK & PLAY for $5 at FIGat7th with retail store or eatery validation<br />The structure is open 24 hours and parking validation is valid for up to 12 hours
 
 ### Bicycle Parking
 
@@ -305,7 +323,7 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 
 Take the Metro Red/Purple Line to the *Civic Center/Grand Park Station*. **Please use the 1st Street exit.** The Temple Street exit is only open for ADA/elevator access.
 
-Or take the Gold Line to the *Little Tokyo/Arts District Station*, then 7-12 minute walk towards The Music Center.
+Or take the Gold Line to *Union Station* or the *Little Tokyo/Arts District Station*, then 7-12 minute walk towards The Music Center.
 
 Plan your trip at [metro.net](https://www.metro.net/)
 
