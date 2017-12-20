@@ -38,7 +38,7 @@ Grand Park + The Music Center:<br />
 <picture>
 <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" />
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4" width="1000" alt="Grand Park on Google Maps" />
+<img src="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4" width="1000" alt="" />
 </picture>
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
@@ -65,12 +65,16 @@ This is a **free** event. There’s no cost to attend.
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
 <a href="https://vimeo.com/82051161" target="_blank" class="has-icon">
-<img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="Video of Grand Park and The Music Center’s 4th Of July Block Party">
+<!--
+<img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="" />
+-->
+<img src="/images/highlights-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
+<title>Video of Grand Park and The Music Center’s 4th Of July Block Party</title>
 <switch>
 <polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
-<foreignobject>Play</foreignobject>
+<foreignobject>Video of Grand Park and The Music Center’s 4th Of July Block Party</foreignobject>
 </switch>
 </svg>
 </span>
@@ -255,7 +259,7 @@ The event will take place at Grand Park + The Music Center:<br />
 <picture>
 <source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="/images/street-closures-portrait.png" sizes="100vw" />
-<img src="/images/street-closures-portrait.png" width="1000" alt="Google Map of Street Closures and Parking" />
+<img src="/images/street-closures-portrait.png" width="1000" alt="" />
 </picture>
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
@@ -281,21 +285,21 @@ See the [4th of July Block Party Community Letter](http://grandparkla.org/wp-con
 Due to street closures, **the parking area underneath Grand Park (Lot 10) will not be accessible during the event**.
 
 [The Music Center Garage](https://www.musiccenter.org/visit/Getting-Here-and-Around/Parking/)
-: aka Lot 14 located at 135 North Grand Avenue. Enter via Southbound Grand Avenue from Temple Street
+: <abbr title="also known as">aka</abbr> Lot 14, located at 135 North Grand Avenue. Enter via Southbound Grand Avenue from Temple Street.
 : **The Music Center Garage will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
 
 [Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
-: aka Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
+: <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
 
 County Courthouse Garage
-: aka Lot 17, located at 131 South Olive Street. Enter on Olive Street.
+: <abbr title="also known as">aka</abbr> Lot 17, located at 131 South Olive Street. Enter on Olive Street.
 : _(limited spaces available)_
 
 Health Services Garage
-: aka Lot 29, located at 313 North Figueroa Street. Enter on Fremont Avenue.
+: <abbr title="also known as">aka</abbr> Lot 29, located at 313 North Figueroa Street. Enter on Fremont Avenue.
 
 Chinatown Garage
-: aka Lot 45, located at 725 North Spring street. Enter on Spring Street.
+: <abbr title="also known as">aka</abbr> Lot 45, located at 725 North Spring street. Enter on Spring Street.
 
 [FIGat7th](http://www.figat7th.com/directions-parking-2/)
 : located at South Figueroa Street and 7th Street. Enter on 7th Street. PARK & PLAY for $5 at FIGat7th with retail store or eatery validation. The structure is open 24 hours and parking validation is valid for up to 12 hours.
@@ -348,10 +352,10 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
 <p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="http://grandparkla.org/calendar/">Full Calendar</a></p>
 
 <footer id="navigation">
-
   <h2 class="logo">
     <a href="http://grandparkla.org">
       <svg viewBox="0 0 157.1 35.9" width="158" height="36" class="grand-park">
+		<title>Grand Park</title>
         <switch>
           <g>
             <path d="M13.5,11.3V5.8c0-2.8-0.4-5.6-4.9-5.8v0H4.9v0C0.4,0.2,0,3,0,5.8v23.7c0,4.7,1.2,6.1,4.9,6.2v0l3.6,0v0 c3.7,0,4.9-1.5,4.9-6.2V16.7H8.8H6.4v4.3h2.4v8.2c0,1.2-0.1,2-1.5,2H6.2c-1.3,0-1.5-0.8-1.5-2V6.8c0-1.4,0-2.5,1.9-2.5h0.3 c1.8,0,1.9,1.1,1.9,2.5v4.4H13.5z"/>
@@ -370,14 +374,12 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
       </svg>
     </a>
   </h2>
-
   <div class="navigation-lists">
     <ul class="nav">
       <li><a href="http://grandparkla.org/calendar/">Events</a></li>
       <li><a href="http://grandparkla.org/getting-here/">Directions</a></li>
       <li><a href="http://grandparkla.org/faqs/">FAQs</a></li>
     </ul>
-
     <ul class="nav">
       <li><a href="http://grandparkla.org/meet-the-staff/">Staff</a></li>
       <li><a href="http://grandparkla.org/category/blog/">Blog</a></li>
@@ -385,7 +387,6 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
       <li><a href="http://grandparkla.org/media/">Press</a></li>
       <li><a href="http://grandparkla.org/video/">Videos</a></li>
     </ul>
-
     <ul class="nav">
       <li><a href="http://grandparkla.org/contact/">Contact</a></li>
       <li><a href="http://grandparkla.org/contact/">Rentals</a></li>
@@ -394,7 +395,6 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
       <li><a href="http://grandparkla.org/donate/">Donate</a></li>
     </ul>
   </div>
-
 </footer>
 
 <h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
@@ -413,6 +413,7 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
   <li>
     <a href="https://www.facebook.com/grandparklosangeles">
       <svg class="facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="40" height="40">
+		<title>Facebook</title>
         <switch>
           <g>
             <path class="circle" d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" fill="#3B5998"></path>
@@ -426,6 +427,7 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
   <li>
     <a href="https://twitter.com/GrandPark_LA">
       <svg class="twitter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="40" height="40">
+		<title>Twitter</title>
         <switch>
           <g>
             <path class="circle" d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" fill="#55ACEE"></path>
@@ -439,6 +441,7 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
   <li>
     <a href="https://instagram.com/grandpark_la">
       <svg class="instagram" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="40" height="40">
+		<title>Instagram</title>
         <switch>
           <g>
             <path class="circle" d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" fill="#E4384E"></path>
