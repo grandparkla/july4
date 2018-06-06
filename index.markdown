@@ -8,9 +8,10 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2018 #Go4thDTLA'
 * [Map](#event-map)
 * [Transportation](#transportation)
 
-**Oh hey L.A.**, great to see you! In honor of the USA’s b-day it’s time to celebrate togetherness. Today is all about the sounds of America with an L.A. flavor, from Jazz to Classical and Funk to the Blues. Let’s play, splash, munch, dance and cap it all off with fireworks under the DTLA skyline.
+**Hey Los Angeles!**, we look forward to seeing you this July 4th for the USA’s b-day, where we will make wishes and celebrate our dreams. Let’s enjoy the beautiful day, chill, munch, dance, splash, play, and top it off with fireworks under the DTLA skyline.
 
-[Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park + The Music Center and get **free** Grand Park Sunglasses <em>(while supplies last)</em>.
+[Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park + The Music Center 
+<!-- and get **free** Grand Park Sunglasses <em>(while supplies last)</em>. --!>
 
 ### When
 
