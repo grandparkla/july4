@@ -198,7 +198,7 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 : [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
 
 9:15 to 9:30 p.m.
-: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe]
+: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
 
 
 
