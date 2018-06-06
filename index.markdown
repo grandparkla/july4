@@ -1,5 +1,5 @@
 ---
-title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
+title: 'Grand Park + The Music Center. 4th Of July Block Party, 2018 #Go4thDTLA'
 ---
 
 * [Safety](#safety)
@@ -208,7 +208,8 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 : **Fireworks light up the sky!**
 
 
-<!-- ## Kids' Play Zones
+<!--
+## Kids' Play Zones
 
 There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
@@ -228,25 +229,28 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 : **Face Painting:** Choose from designs made exclusively for 4th of July!
 : **The Love Bus:** Step aboard the bus and decorate it with whatever you love!
 : **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love! 
---!>
+-->
 
 ## Event Map
 
 Coming soon!
-<!-- [Downloadable Map](/july4-map.pdf) _(PDF file, 4.3MB)_
+
+<!--
+[Downloadable Map](/july4-map.pdf) _(PDF file, 4.3MB)_
 
 <figure class="feature map">
 <div data-aspect-ratio="1687/2587" style="background-color: black; color: white;">
 <img src="/images/map.png" width="1000" alt="Event Map" />
 </div>
 </figure>
---!>
+-->
 
 
 ## Transportation
 
 The event will take place at Grand Park + The Music Center:<br />
-[200 North Grand Avenue<br />Los Angeles, California 90012]
+200 North Grand Avenue<br />Los Angeles, California 90012
+
 <!-- (https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 <figure>
@@ -271,11 +275,11 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
---!>
+-->
 
 ### Street Closures
 
-<!-- See the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf) for details about streets that will be closed during the event. --!>
+<!-- See the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf) for details about streets that will be closed during the event. -->
 
 Coming soon!
 
@@ -288,8 +292,12 @@ Due to street closures, **the parking area underneath Grand Park (Lot 10) will n
 : **The Music Center Garage will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
 
 County Courthouse Garage
-: <abbr title="also known as">aka</abbr> Lot 17, located at 131 South Olive Street, will be closed to public parking. <!-- Enter on Olive Street.
-: _(limited spaces available)_ --!>
+: <abbr title="also known as">aka</abbr> Lot 17, located at 131 South Olive Street, will be closed to public parking.
+
+<!--
+Enter on Olive Street.
+: _(limited spaces available)_
+-->
 
 [Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
@@ -454,4 +462,4 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
     </a>
   </li>
 </ul>
---!>
+-->
