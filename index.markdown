@@ -14,9 +14,9 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2017 #Go4thDTLA'
 
 ### When
 
-July 4, 2017
+July 4, 2018
 
-2:00 p.m.
+3:00 p.m.
 : Doors Open
 
 **9:00 p.m.**
@@ -104,6 +104,8 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 * Generators
 * Glass
 * Identity-Covering Costumes
+* Lighters
+* Matches
 * Narcotics
 * Sealed or Open Beverage Bottles with Liquid Including Water (Fountains and Water for Purchase Will Be Available)
 * Projection Devices
@@ -119,7 +121,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 
 ### A Note for Beautiful Los Angeles
 
-This is a space for unity – where Angelenos and visitors from all around the world can celebrate together. Any bullying, discrimination, or hateful acts are not allowed in this space.  **If you are an attendee, and you see something, say something.**
+This is a space for unity – where Angelenos and visitors from all around the world can celebrate together. Any bullying, discrimination, or hateful acts are not allowed in this space.  **If you are an attendee, and you see something, please alert security.**
 
 ### The Following is Also Prohibited at This Event
 
@@ -166,7 +168,7 @@ Food vendors will be onsite. <em>(More updates to follow.)</em>
 
 ## Event Schedule
 
-Doors open at <span class="time">2 p.m.</span> At <span class="time">9 p.m.</span> the fireworks show will create stunning backdrop above the Civic Center skyline. The event ends at <span class="time">9:30 p.m.</span>
+Doors open at <span class="time"32 p.m.</span> At <span class="time">9 p.m.</span> the fireworks show will create stunning backdrop above the Civic Center skyline. The event ends at <span class="time">9:30 p.m.</span>
 
 Experience *music* and *artists* that call L.A. home, at the two music stages:
 
@@ -175,39 +177,34 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 #### Performance Lawn near Hill Street
 
-2:00 to 4:00 p.m.
-: [Miles Tackett](https://www.facebook.com/milestackettmusic) Breakestra’s own maestro delivers an array of Funk, Soul and Jazz.
+3:00 to 5:00 p.m.
+: [DJ Puffs](https://soundcloud.com/kristine-puffs-ono) 
 
-4:00 to 6:00 p.m.
-: [Monalisa](https://www.mixcloud.com/discover/monalisa/) Hip-Hop, Soul and anything else with a groove.
+5:00 to 6:00 p.m.
+: [Computer JAY and the Weird Science](https://twitter.com/computerjay) 
 
 6:00 to 8:00 p.m.
-: [C-Minus](https://www.facebook.com/DJCMINUS/) West Coast mainstay with a unique approach to fusing Hip-Hop and Rock.
+: [Rhettmatic](https://soundcloud.com/rhettmatic) 
 
-8:00 to 9:30 p.m.
-: [DJ Jedi](https://www.mixcloud.com/DJJedi/) Legendary Hip-Hop selector takes you up to Fireworks time.
+8:00 to 9:00 p.m.
+: [QUITAPENAS](http://quitapenasmusic.com/)
 
 
 ### Backyard Stage
 
 #### Event Lawn near City Hall/Spring Street
 
-_Hosted by: [Mario Hernandez](http://eatmomovies.tumblr.com/)_
+<!--_Hosted by: [Mario Hernandez](http://eatmomovies.tumblr.com/)_ --!>
 
-2:00 to 4:00 p.m.
-: [DJ AkikoLUV](https://soundcloud.com/akikoluv) Expert turntable skills and eclectic beats
+3:00 to 9:00 p.m.
+: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
 
-4:00 to 6:00 p.m.
-: [Gingee](https://gingee.bandcamp.com/) A global mix of Bass, World Music and Hip-Hop
+9:00 to 9:15 p.m.
+: [Fireworks]
 
-6:00 to 9:30 p.m.
-: [Sean O](https://www.mixcloud.com/djseano/playlists/seano-mixes/) Taking you up to fireworks and beyond a with a touch of Disco, House and World Music.
+9:15 to 9:30 p.m.
+: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe]
 
-6:15 to 7:15 p.m.
-: [Inner City Youth Orchestra of Los Angeles](http://www.icyola.org/) American film classics and patriotic fanfare from the talent of tomorrow.
-
-7:45 to 8:45 p.m.
-: [Angel City All-Star Brass Band](http://toddsimonmusic.com/angel-city-all-star-brass-band/) featuring special guest [Diana Purim](https://www.facebook.com/EyedentityMusic/) Cumbia, Afrobeat and more from one funky big band.
 
 
 ### Look Up!
@@ -216,7 +213,7 @@ _Hosted by: [Mario Hernandez](http://eatmomovies.tumblr.com/)_
 : **Fireworks light up the sky!**
 
 
-## Kids' Play Zones
+<!-- ## Kids' Play Zones
 
 There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
@@ -235,18 +232,19 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 : **Games:** Hop on board one of the game trucks and play with your friends!
 : **Face Painting:** Choose from designs made exclusively for 4th of July!
 : **The Love Bus:** Step aboard the bus and decorate it with whatever you love!
-: **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love!
+: **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love! --!>
 
 ## Event Map
 
-[Downloadable Map](/july4-map.pdf) _(PDF file, 4.3MB)_
+<!--[Downloadable Map](/july4-map.pdf) _(PDF file, 4.3MB)_
 
 <figure class="feature map">
 <div data-aspect-ratio="1687/2587" style="background-color: black; color: white;">
 <img src="/images/map.png" width="1000" alt="Event Map" />
 </div>
 </figure>
-
+--!>
+Coming soon!
 
 ## Transportation
 
@@ -278,7 +276,9 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 ### Street Closures
 
-See the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf) for details about streets that will be closed during the event.
+<!-- See the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf) for details about streets that will be closed during the event. --!>
+
+Coming soon!
 
 ### Parking
 
@@ -288,12 +288,12 @@ Due to street closures, **the parking area underneath Grand Park (Lot 10) will n
 : <abbr title="also known as">aka</abbr> Lot 14, located at 135 North Grand Avenue. Enter via Southbound Grand Avenue from Temple Street.
 : **The Music Center Garage will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
 
+County Courthouse Garage
+: <abbr title="also known as">aka</abbr> Lot 17, located at 131 South Olive Street, will be closed to public parking. <!-- Enter on Olive Street.
+: _(limited spaces available)_ --!>
+
 [Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
-
-County Courthouse Garage
-: <abbr title="also known as">aka</abbr> Lot 17, located at 131 South Olive Street. Enter on Olive Street.
-: _(limited spaces available)_
 
 Health Services Garage
 : <abbr title="also known as">aka</abbr> Lot 29, located at 313 North Figueroa Street. Enter on Fremont Avenue.
@@ -331,6 +331,7 @@ Or take the Gold Line to *Union Station* or the *Little Tokyo/Arts District Sta
 
 Plan your trip at [metro.net](https://www.metro.net/)
 
+<!-- 
 ## Summer Season
 
 My oh my. Five years together – how awesome is that? Let’s continue to kick it in the _park for everyone_. View the [Summer Season Calendar](http://grandparkla.org/summer/).
@@ -454,3 +455,4 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
     </a>
   </li>
 </ul>
+--!>
