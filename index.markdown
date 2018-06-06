@@ -168,7 +168,7 @@ Food vendors will be onsite. <em>(More updates to follow.)</em>
 
 ## Event Schedule
 
-Doors open at <span class="time"32 p.m.</span> At <span class="time">9 p.m.</span> the fireworks show will create stunning backdrop above the Civic Center skyline. The event ends at <span class="time">9:30 p.m.</span>
+Doors open at <span class="time">3 p.m.</span> At <span class="time">9 p.m.</span> the fireworks show will create stunning backdrop above the Civic Center skyline. The event ends at <span class="time">9:30 p.m.</span>
 
 Experience *music* and *artists* that call L.A. home, at the two music stages:
 
@@ -199,8 +199,6 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 3:00 to 9:00 p.m.
 : [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
 
-9:00 to 9:15 p.m.
-: [Fireworks]
 
 9:15 to 9:30 p.m.
 : [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe]
@@ -232,7 +230,8 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 : **Games:** Hop on board one of the game trucks and play with your friends!
 : **Face Painting:** Choose from designs made exclusively for 4th of July!
 : **The Love Bus:** Step aboard the bus and decorate it with whatever you love!
-: **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love! --!>
+: **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love! 
+--!>
 
 ## Event Map
 
