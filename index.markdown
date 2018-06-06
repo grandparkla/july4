@@ -194,11 +194,8 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 #### Event Lawn near City Hall/Spring Street
 
-<!--_Hosted by: [Mario Hernandez](http://eatmomovies.tumblr.com/)_ --!>
-
 3:00 to 9:00 p.m.
 : [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
-
 
 9:15 to 9:30 p.m.
 : [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe]
@@ -235,7 +232,8 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
 ## Event Map
 
-<!--[Downloadable Map](/july4-map.pdf) _(PDF file, 4.3MB)_
+Coming soon!
+<!-- [Downloadable Map](/july4-map.pdf) _(PDF file, 4.3MB)_
 
 <figure class="feature map">
 <div data-aspect-ratio="1687/2587" style="background-color: black; color: white;">
@@ -243,12 +241,13 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 </div>
 </figure>
 --!>
-Coming soon!
+
 
 ## Transportation
 
 The event will take place at Grand Park + The Music Center:<br />
-[200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
+[200 North Grand Avenue<br />Los Angeles, California 90012]
+<!-- (https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 <figure>
 <div data-aspect-ratio-landscape="1678/940" data-aspect-ratio="853/940">
@@ -272,6 +271,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
+--!>
 
 ### Street Closures
 
