@@ -176,7 +176,7 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 ### Frontyard Stage
 
-#### Performance Lawn near Hill Street
+#### Event Lawn near City Hall/Spring Street 
 
 3:00 to 5:00 p.m.
 : [DJ Puffs](https://soundcloud.com/kristine-puffs-ono) 
@@ -193,7 +193,7 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 ### Backyard Stage
 
-#### Event Lawn near City Hall/Spring Street
+#### Performance Lawn near Hill Street
 
 3:00 to 9:00 p.m.
 : [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
