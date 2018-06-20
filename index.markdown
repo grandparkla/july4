@@ -120,9 +120,9 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 * Unleashed Animals
 * Weapons
 
-### A Note for Beautiful Los Angeles
+### Party in harmony, LA!
 
-This is a space for unity – where Angelenos and visitors from all around the world can celebrate together. Any bullying, discrimination, or hateful acts are not allowed in this space.  **If you are an attendee, and you see something, please alert security.**
+This is a space for unity – where Angelenos and visitors from all around the world can celebrate safely together. Any bullying, discrimination, hateful acts or unsafe behaviors are not allowed in this space.   If you see something suspicious, reach out to security or staff (they will be wearing pink vests or shirts) for assistance. Let’s take care of each other, LA fam. 
 
 ### The Following is Also Prohibited at This Event
 
@@ -174,7 +174,18 @@ Doors open at <span class="time">3 p.m.</span> At <span class="time">9 p.m.</spa
 Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 
-### Frontyard Stage
+### Frontyard Stage 
+
+#### Performance Lawn near Hill Street
+
+3:00 to 9:00 p.m.
+: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
+
+9:15 to 9:30 p.m.
+: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
+
+
+### Backyard Stage
 
 #### Event Lawn near City Hall/Spring Street 
 
@@ -189,17 +200,6 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 8:00 to 9:00 p.m.
 : [QUITAPENAS](http://quitapenasmusic.com/)
-
-
-### Backyard Stage
-
-#### Performance Lawn near Hill Street
-
-3:00 to 9:00 p.m.
-: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
-
-9:15 to 9:30 p.m.
-: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
 
 
 
