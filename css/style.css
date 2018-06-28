@@ -227,7 +227,9 @@
     margin-top: 0;
   }
   @media (min-width: 50em) {
-    h1,
+    h1 {
+      margin-top: 2.9rem;
+    }
     h2 {
       margin-top: 2.9rem;
       padding-top: 2.8rem;
@@ -450,6 +452,11 @@
     }
   }
 
+  /* Artist images */
+  h3 + figure {
+    margin-top: 0;
+  }
+
   img {
     max-width: 100%;
     height: auto;
@@ -496,20 +503,45 @@
             filter: blur(1.5em);
   }
 
+  figure > div[data-aspect-ratio] iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
   figure > div[data-aspect-ratio="1280/720"] {
     padding-bottom: 56.25%;
   }
 
+  /* July 4th Map */
   figure > div[data-aspect-ratio="1687/2587"] {
     padding-bottom: 153.33333333%; 
   }
 
+  /* NYELA Map */
+  figure > div[data-aspect-ratio="2048/2506"] {
+    padding-bottom: 122.36328125%; 
+  }
+
+  /* July 4th Road Closures */
   figure > div[data-aspect-ratio="853/940"] {
     padding-bottom: 110.1992966%;
   }
   @media (min-aspect-ratio: 1/1) {
     figure > div[data-aspect-ratio-landscape="1678/940"] {
       padding-bottom: 56.01907032%;
+    }
+  }
+
+  /* NYELA Road Closures */
+  figure > div[data-aspect-ratio="850/942"] {
+    padding-bottom: 110.82352941%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1680/942"] {
+      padding-bottom: 56.07142857%;
     }
   }
 
@@ -531,6 +563,33 @@
     }
   }
 
+  /* NYELA Artist images */
+  figure > div[data-aspect-ratio="2/3"] {
+    padding-bottom: 150%;
+  }
+  figure > div[data-aspect-ratio="1/2"] {
+    padding-bottom: 200%;
+  }
+  @supports (object-fit: cover) {
+    .featured-artists figure > div[data-aspect-ratio="1/1"] img,
+    .featured-artists figure > div[data-aspect-ratio="3/2"] img,
+    .featured-artists figure > div[data-aspect-ratio="2/3"] img,
+    .featured-artists figure > div[data-aspect-ratio="1/2"] img, {
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  figure > div[data-aspect-ratio="5/3"] {
+    padding-bottom: 60%;
+  }
+  figure > div[data-aspect-ratio="3/2"],
+  figure > div[data-aspect-ratio="1000/667"] {
+    padding-bottom: 66.7%;
+  }
+  figure > div[data-aspect-ratio="5312/2988"] {
+    padding-bottom: 56.25%;
+  }
+
 
   /* =Map
   ----------------------------------------------- */
@@ -538,6 +597,7 @@
     width: 100%;
     height: 500px;
     max-height: 50vh;
+    border-width: 0;
   }
 
 
@@ -681,12 +741,13 @@
     position: absolute;
     top: 0;
     right: 0;
+    width: 100%;
     /*
     right: -1.45em;
     */
   }
   .nav-link a {
-    font-size: 0.75em;
+    font-size: 1.125em;
     display: inline-block;
     text-align: center;
     padding: 1.9333333333em; /* 1.45 / 0.75em */
@@ -695,6 +756,8 @@
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
     color: white;
+    display: block;
+    opacity: 0;
   }
   .nav-link a:hover,
   .nav-link a:active,
@@ -747,7 +810,6 @@
     margin-top: 0;
     text-align: center;
     padding: 2.9em 1.45em;
-    margin-bottom: 4.35em;
     margin-left: -1.45em;
     margin-right: -1.45em;
   }
@@ -821,7 +883,7 @@
     margin-top: 2.25em;
     font-size: 1.25em;
   }
-  @media (min-width: 40em) { /* @medium */
+  @media (min-width: 50em) {
     footer .navigation-lists {
       display: grid;
       grid-template-columns: repeat(auto-fill, calc(33.3333% - 2.1666666667rem));
@@ -843,7 +905,8 @@
     padding-left: 0;
   }
   .social-links {
-    margin-top: 3em !important;
+    margin-top: 3em;
+    margin-bottom: 3em;
     font-size: 2rem;
     max-width: none;
   }
@@ -957,8 +1020,11 @@
   header h1,
   .map.feature div {
     background: black;
+    background-image: linear-gradient(to top right, rgb(195, 0, 122), rgb(6, 0, 38));
+    /*
     background-image: url(/images/stars-1024wide.jpg);
     background-size: 100% auto;
+    */
     color: rgb(252, 248, 187); /* @lightyellow */
     color: white;
   }
@@ -969,6 +1035,7 @@
     }
   }
 
+  /*
   @media (min-width: 384px) {
     header h1,
     .map.feature {
@@ -1010,3 +1077,114 @@
       background-image: url(/images/stars-6720wide.jpg);
     }
   }
+  */
+
+
+  /* =Featured Artists
+  ----------------------------------------------- */
+
+  /* SHIM: Make artist images a little smaller */
+  .featured-artists ul,
+  .featured-artists li {
+    list-style: none;
+    padding-left: 0;
+  }
+  .featured-artists img {
+    display: block;
+    width: 100%;
+  }
+  .featured-artists li {
+    max-width: 25em;
+  }
+
+  @media (min-width: 45.8em) {
+    .all-star-band {
+      width: 40em;
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .all-star-band:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    .all-star-band figure:nth-child(1) {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    .all-star-band figure:nth-child(2),
+    .all-star-band figure:nth-child(3),
+    .all-star-band figure:nth-child(4),
+    .all-star-band figure:nth-child(5) {
+      width: 50%;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+
+    .beat-junkies {
+      width: 40em;
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .beat-junkies figure:nth-child(1),
+    .beat-junkies figure:nth-child(2) {
+      width: 50%;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    .beat-junkies figure:nth-child(3) {
+      clear: both;
+    }
+
+
+    .soulection {
+      width: 40em;
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .soulection figure:nth-child(1),
+    .soulection figure:nth-child(2),
+    .soulection figure:nth-child(3) {
+      width: 50%;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    .soulection::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    .soulection figure:nth-child(2) {
+      float: right;
+    }
+
+    .featured-artists ul {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .featured-artists li {
+      flex-basis: 100%;
+    }
+
+    /* In general, items are half of the available width */
+    .featured-artists li:nth-child(n) {
+      flex-basis: 50%;
+    }
+
+    .featured-artists li:nth-child(1):nth-last-child(5) {
+      flex-basis: 100%;
+      max-width: none;
+    }
+    .featured-artists img[src*="babu"] {
+      width: 40em;
+      max-width: none;
+    }
+  }
+
+

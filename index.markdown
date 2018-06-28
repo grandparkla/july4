@@ -4,7 +4,7 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2018 #Go4thDTLA'
 
 * [Safety](#safety)
 * [Schedule](#event-schedule)
-* [Play](#kids-play-zones)
+* [Artists](#featured-artists)
 * [Map](#event-map)
 * [Transportation](#transportation)
 
@@ -165,6 +165,64 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 ### Food for Sale
 
 Food vendors will be onsite. <em>(More updates to follow.)</em>
+
+
+## Featured Artists
+
+
+### Quitapenas
+
+<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/quitapenas.jpg" alt="" /></div></figure>
+
+### Rhettmatic
+
+<figure><div data-aspect-ratio="3/2"><img src="/images/music-artists/rhettmatic.jpg" alt="" /></div></figure>
+
+### Soulection DJs
+
+featuring Joe Kay, Andre Power, and Andres Uribe
+
+<div class="soulection">
+<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/andre-power.jpg" alt="" /></div></figure>
+
+<figure><div data-aspect-ratio="1/2"><img src="/images/music-artists/andres-uribe.jpg" alt="" /></div></figure>
+
+<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/joe-kay.jpg" alt="" /></div></figure>
+</div>
+
+### Computer Jay and the Weird Science
+
+<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/computer-jay-and-the-weird-science.jpg" alt="" /></div></figure>
+
+### DJ Puffs
+
+<figure><div data-aspect-ratio="3/2"><img src="/images/music-artists/dj-puffs.jpg" alt="" /></div></figure>
+
+
+
+### Cassie Zhang
+
+<figure><div data-aspect-ratio="3/2"><img src="/images/visual-artists/cassie-zhang.png" alt="" /></div></figure>
+
+
+### Cassy Carrillo
+
+<figure><div data-aspect-ratio="3/2"><img src="/images/visual-artists/cassy-carrillo.jpg" alt="" /></div></figure>
+
+
+### H Plus
+
+<figure><div data-aspect-ratio="1/1"><img src="/images/visual-artists/h-plus.jpg" alt="" /></div></figure>
+
+
+### Jim Swill
+
+<figure><div data-aspect-ratio="1/1"><img src="/images/visual-artists/jim-swill.jpg" alt="" /></div></figure>
+
+
+### Now Art LA / James Peterson
+
+<figure><div data-aspect-ratio="5/3"><img src="/images/visual-artists/now-art-la.jpg" alt="" /></div></figure>
 
 
 ## Event Schedule
@@ -360,53 +418,9 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
 </div>
 </figure>
 
-<p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="http://grandparkla.org/calendar/">Full Calendar</a></p>
 
-<footer id="navigation">
-  <h2 class="logo">
-    <a href="http://grandparkla.org">
-      <svg viewBox="0 0 157.1 35.9" width="158" height="36" class="grand-park">
-		<title>Grand Park</title>
-        <switch>
-          <g>
-            <path d="M13.5,11.3V5.8c0-2.8-0.4-5.6-4.9-5.8v0H4.9v0C0.4,0.2,0,3,0,5.8v23.7c0,4.7,1.2,6.1,4.9,6.2v0l3.6,0v0 c3.7,0,4.9-1.5,4.9-6.2V16.7H8.8H6.4v4.3h2.4v8.2c0,1.2-0.1,2-1.5,2H6.2c-1.3,0-1.5-0.8-1.5-2V6.8c0-1.4,0-2.5,1.9-2.5h0.3 c1.8,0,1.9,1.1,1.9,2.5v4.4H13.5z"/>
-            <path d="M136.3,28.6v-3.9c0-4.6-0.4-6.6-3.5-7c-0.1,0-0.1-0.2,0-0.2c3.5-0.1,3.7-2.7,3.7-8.8c0-7.1-0.6-8.6-6.3-8.6 h-7.6v35.7l4.7,0v-0.1h-0.1V4.3h0.1l2.4,0c2,0,2.2,0.1,2.2,4c0,5.9-0.1,7-2.4,7h-0.3v3.9c1.3,0,1.4,0.1,1.9,1.1 c0.5,1.2,0.6,4,0.6,5.4v5c0,6,5.6,5,5.6,5C136.4,33.6,136.3,32.9,136.3,28.6"/>
-            <path d="M30.1,28.6v-3.9c0-4.6-0.4-6.6-3.5-7c-0.1,0-0.1-0.2,0-0.2c3.5-0.1,3.7-2.7,3.7-8.8c0-7.1-0.6-8.6-6.3-8.6 l-7.6,0v35.7l4.7,0v-0.1H21V4.3h0.1l2.4,0c2,0,2.2,0.1,2.2,4c0,5.9-0.1,7-2.4,7h-0.3v3.9c1.3,0,1.4,0.1,1.9,1.1 c0.5,1.2,0.6,4,0.6,5.4v5c0,6,5.6,5,5.6,5C30.2,33.6,30.1,32.9,30.1,28.6"/>
-            <path d="M78,0h-8.5v35.7l4.6,0V4.3l2.8,0c1.8,0,1.9,1.1,1.9,2.5v22.5c0,1.2-0.1,2-1.5,2H76v4.4h2.3c3.8,0,5-1.5,5-6.2 V5.8C83.3,2.9,82.9,0,78,0"/>
-            <polygon points="43.7,0 38.1,0 32.7,35.7 37.2,35.7 38.1,29.9 40.9,29.9 40.9,25.4 38.7,25.4 40.9,10.3 44.6,35.7 49.2,35.7 "/>
-            <polygon points="109.8,0 104.4,35.7 108.9,35.7 109.8,29.9 112.6,29.9 112.6,25.4 110.4,25.4 112.6,10.3 116.3,35.7 120.9,35.7 115.4,0 "/>
-            <path d="M61.5,0L61.5,0L61.5,0l0,23.5c0-0.2-5.4-23.5-5.4-23.5l-5,0v35.7h3.6v0l1,0V12.5c1.4,6.3,5,23.2,5,23.2l5.1,0 V0H61.5z"/>
-            <path d="M100.4,10.3c0,3.9-0.3,5-2.3,5h-0.6v4l1.1,0c5.5,0,6.4-2.2,6.4-8.6v-2c0-7.1-0.7-8.6-6.3-8.6h-7.6v35.7h4.7 v-0.1l-0.1,0V4.4h0.1h2.4c2,0,2.2,0.1,2.2,4V10.3z"/>
-            <rect x="139.8" y="0.1" width="4.5" height="35.7"/>
-            <polygon points="151.5,0.2 145.2,17.6 151.8,35.9 157.1,35.9 149.8,17 156.5,0.2 "/>
-          </g>
-          <foreignobject>Grand Park</foreignobject>
-        </switch>
-      </svg>
-    </a>
-  </h2>
-  <div class="navigation-lists">
-    <ul class="nav">
-      <li><a href="http://grandparkla.org/calendar/">Events</a></li>
-      <li><a href="http://grandparkla.org/getting-here/">Directions</a></li>
-      <li><a href="http://grandparkla.org/faqs/">FAQs</a></li>
-    </ul>
-    <ul class="nav">
-      <li><a href="http://grandparkla.org/meet-the-staff/">Staff</a></li>
-      <li><a href="http://grandparkla.org/category/blog/">Blog</a></li>
-      <li><a href="http://grandparkla.org/sign-up/">Newsletter</a></li>
-      <li><a href="http://grandparkla.org/media/">Press</a></li>
-      <li><a href="http://grandparkla.org/video/">Videos</a></li>
-    </ul>
-    <ul class="nav">
-      <li><a href="http://grandparkla.org/contact/">Contact</a></li>
-      <li><a href="http://grandparkla.org/contact/">Rentals</a></li>
-      <li><a href="http://grandparkla.org/contact/">Sponsorships</a></li>
-      <li><a href="http://grandparkla.org/media-contact/">Media</a></li>
-      <li><a href="http://grandparkla.org/donate/">Donate</a></li>
-    </ul>
-  </div>
-</footer>
+<p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="http://grandparkla.org/calendar/">Full Calendar</a></p>
+-->
 
 <h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
 
@@ -414,8 +428,13 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
   <li><img src="/images/logos/los-angeles.png" alt="County of Los Angeles" /></li>
   <li><img src="/images/logos/grandpark-musiccenter.png" alt="Grand Park + The Music Center" /></li>
   <li><img src="/images/logos/hildal.png" alt="Supervisor Hilda L. Solis" /></li>
-  <li><img src="/images/logos/huizar.png" alt="Councilmember Jose Huizar" /></li>
+  <li><img src="/images/logos/2018/huizar.png" alt="Team Huizar, Council District 14" /></li>
+  <!--
   <li><img src="/images/logos/metro.png" alt="Metro" /></li>
+  <li><img src="/images/logos/kaiser.png" alt="Kasier Permanente" /></li>
+	-->
+  <li><img src="/images/logos/2018/macys.png" alt="Macy’s Gives" /></li>
+  <li><img src="/images/logos/2018/metro-pcs.png" alt="Metro PCS" style="height: 1.45em" /></li>
 </ul>
 
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
@@ -465,4 +484,49 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
     </a>
   </li>
 </ul>
--->
+
+<footer id="navigation">
+  <h2 class="logo">
+    <a href="http://grandparkla.org">
+      <svg viewBox="0 0 157.1 35.9" width="158" height="36" class="grand-park">
+		<title>Grand Park</title>
+        <switch>
+          <g>
+            <path d="M13.5,11.3V5.8c0-2.8-0.4-5.6-4.9-5.8v0H4.9v0C0.4,0.2,0,3,0,5.8v23.7c0,4.7,1.2,6.1,4.9,6.2v0l3.6,0v0 c3.7,0,4.9-1.5,4.9-6.2V16.7H8.8H6.4v4.3h2.4v8.2c0,1.2-0.1,2-1.5,2H6.2c-1.3,0-1.5-0.8-1.5-2V6.8c0-1.4,0-2.5,1.9-2.5h0.3 c1.8,0,1.9,1.1,1.9,2.5v4.4H13.5z"/>
+            <path d="M136.3,28.6v-3.9c0-4.6-0.4-6.6-3.5-7c-0.1,0-0.1-0.2,0-0.2c3.5-0.1,3.7-2.7,3.7-8.8c0-7.1-0.6-8.6-6.3-8.6 h-7.6v35.7l4.7,0v-0.1h-0.1V4.3h0.1l2.4,0c2,0,2.2,0.1,2.2,4c0,5.9-0.1,7-2.4,7h-0.3v3.9c1.3,0,1.4,0.1,1.9,1.1 c0.5,1.2,0.6,4,0.6,5.4v5c0,6,5.6,5,5.6,5C136.4,33.6,136.3,32.9,136.3,28.6"/>
+            <path d="M30.1,28.6v-3.9c0-4.6-0.4-6.6-3.5-7c-0.1,0-0.1-0.2,0-0.2c3.5-0.1,3.7-2.7,3.7-8.8c0-7.1-0.6-8.6-6.3-8.6 l-7.6,0v35.7l4.7,0v-0.1H21V4.3h0.1l2.4,0c2,0,2.2,0.1,2.2,4c0,5.9-0.1,7-2.4,7h-0.3v3.9c1.3,0,1.4,0.1,1.9,1.1 c0.5,1.2,0.6,4,0.6,5.4v5c0,6,5.6,5,5.6,5C30.2,33.6,30.1,32.9,30.1,28.6"/>
+            <path d="M78,0h-8.5v35.7l4.6,0V4.3l2.8,0c1.8,0,1.9,1.1,1.9,2.5v22.5c0,1.2-0.1,2-1.5,2H76v4.4h2.3c3.8,0,5-1.5,5-6.2 V5.8C83.3,2.9,82.9,0,78,0"/>
+            <polygon points="43.7,0 38.1,0 32.7,35.7 37.2,35.7 38.1,29.9 40.9,29.9 40.9,25.4 38.7,25.4 40.9,10.3 44.6,35.7 49.2,35.7 "/>
+            <polygon points="109.8,0 104.4,35.7 108.9,35.7 109.8,29.9 112.6,29.9 112.6,25.4 110.4,25.4 112.6,10.3 116.3,35.7 120.9,35.7 115.4,0 "/>
+            <path d="M61.5,0L61.5,0L61.5,0l0,23.5c0-0.2-5.4-23.5-5.4-23.5l-5,0v35.7h3.6v0l1,0V12.5c1.4,6.3,5,23.2,5,23.2l5.1,0 V0H61.5z"/>
+            <path d="M100.4,10.3c0,3.9-0.3,5-2.3,5h-0.6v4l1.1,0c5.5,0,6.4-2.2,6.4-8.6v-2c0-7.1-0.7-8.6-6.3-8.6h-7.6v35.7h4.7 v-0.1l-0.1,0V4.4h0.1h2.4c2,0,2.2,0.1,2.2,4V10.3z"/>
+            <rect x="139.8" y="0.1" width="4.5" height="35.7"/>
+            <polygon points="151.5,0.2 145.2,17.6 151.8,35.9 157.1,35.9 149.8,17 156.5,0.2 "/>
+          </g>
+          <foreignobject>Grand Park</foreignobject>
+        </switch>
+      </svg>
+    </a>
+  </h2>
+  <div class="navigation-lists">
+    <ul class="nav">
+      <li><a href="http://grandparkla.org/calendar/">Events</a></li>
+      <li><a href="http://grandparkla.org/getting-here/">Directions</a></li>
+      <li><a href="http://grandparkla.org/faqs/">FAQs</a></li>
+    </ul>
+    <ul class="nav">
+      <li><a href="http://grandparkla.org/meet-the-staff/">Staff</a></li>
+      <li><a href="http://grandparkla.org/category/blog/">Blog</a></li>
+      <li><a href="http://grandparkla.org/sign-up/">Newsletter</a></li>
+      <li><a href="http://grandparkla.org/media/">Press</a></li>
+      <li><a href="http://grandparkla.org/video/">Videos</a></li>
+    </ul>
+    <ul class="nav">
+      <li><a href="http://grandparkla.org/contact/">Contact</a></li>
+      <li><a href="http://grandparkla.org/contact/">Rentals</a></li>
+      <li><a href="http://grandparkla.org/contact/">Sponsorships</a></li>
+      <li><a href="http://grandparkla.org/media-contact/">Media</a></li>
+      <li><a href="http://grandparkla.org/donate/">Donate</a></li>
+    </ul>
+  </div>
+</footer>
