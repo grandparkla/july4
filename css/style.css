@@ -244,24 +244,24 @@
   ----------------------------------------------- */
   header h1 {
     font-size: inherit;
-    background-color: rgb(14, 18, 31) !important;
+    /*background-color: rgb(14, 18, 31) !important;*/
     color: white;
     position: relative;
     margin: 0 -1.45em;
-    padding-left: 1.45em;
+    /*padding-left: 1.45em;
     padding-right: 1.45em;
     padding-top: 0;
-    padding-bottom: 1.45em;
+    padding-bottom: 1.45em;*/
     text-align: center;
     position: relative;
     max-width: none;
-    overflow-y: hidden;
+    /*overflow-y: hidden;*/
   }
   @media (min-width: 40em) {
     header h1 {
       margin: 0 -2.9em;
-      padding-left: 2.9em;
-      padding-right: 2.9em;
+      /*padding-left: 2.9em;
+      padding-right: 2.9em;*/
     }
   }
   /*
@@ -282,12 +282,12 @@
     z-index: 1;
     width: 100%;
     height: 500px;
-    height: 50vh;
-    margin-bottom: -1.45em;
+    height: 124.7689464vw;
+    /*margin-bottom: -1.45em;*/
   }
   @media (min-width: 40em) {
     header h1 svg {
-      margin-bottom: -2.9em;
+     /* margin-bottom: -2.9em;*/
     }
   }
   @media (min-aspect-ratio: 1/1) {
@@ -298,7 +298,7 @@
       display: block !important;
     }
     header h1 svg {
-      height: 70vh;
+      height: 55.55555556vw;
     }
   }
 
