@@ -172,57 +172,57 @@ Food vendors will be onsite. <em>(More updates to follow.)</em>
 
 ### Quitapenas
 
-<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/quitapenas.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/quitapenas.jpg" alt="Quitapenas" /></div></figure>
 
 ### Rhettmatic
 
-<figure><div data-aspect-ratio="3/2"><img src="/images/music-artists/rhettmatic.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="3/2"><img src="/images/music-artists/rhettmatic.jpg" alt="Rhettmatic" /></div></figure>
 
 ### Soulection DJs
 
 featuring Joe Kay, Andre Power, and Andres Uribe
 
 <div class="soulection">
-<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/andre-power.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="738/983"><img src="/images/music-artists/andre-power.jpg" alt="Andre Power" /></div></figure>
 
-<figure><div data-aspect-ratio="1/2"><img src="/images/music-artists/andres-uribe.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="461/821"><img src="/images/music-artists/andres-uribe.jpg" alt="Andres Uribe" /></div></figure>
 
-<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/joe-kay.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="747/900"><img src="/images/music-artists/joe-kay.jpg" alt="Joe Kay" /></div></figure>
 </div>
 
 ### Computer Jay and the Weird Science
 
-<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/computer-jay-and-the-weird-science.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="864/853"><img src="/images/music-artists/computer-jay-and-the-weird-science.jpg" alt="Computer Jay and the Weird Science" /></div></figure>
 
 ### DJ Puffs
 
-<figure><div data-aspect-ratio="3/2"><img src="/images/music-artists/dj-puffs.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="1117/660"><img src="/images/music-artists/dj-puffs.jpg" alt="DJ Puffs" /></div></figure>
 
 
 
 ### Cassie Zhang
 
-<figure><div data-aspect-ratio="3/2"><img src="/images/visual-artists/cassie-zhang.png" alt="" /></div></figure>
+<figure><div data-aspect-ratio="1065/863"><img src="/images/visual-artists/cassie-zhang.png" alt="Casse Zhang" /></div></figure>
 
 
 ### Cassy Carrillo
 
-<figure><div data-aspect-ratio="3/2"><img src="/images/visual-artists/cassy-carrillo.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="907/605"><img src="/images/visual-artists/cassy-carrillo.jpg" alt="Cassy Carrillo" /></div></figure>
 
 
 ### H Plus
 
-<figure><div data-aspect-ratio="1/1"><img src="/images/visual-artists/h-plus.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="700/956"><img src="/images/visual-artists/h-plus.jpg" alt="H Plus" /></div></figure>
 
 
 ### Jim Swill
 
-<figure><div data-aspect-ratio="1/1"><img src="/images/visual-artists/jim-swill.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="1435/2135"><img src="/images/visual-artists/jim-swill.jpg" alt="Jim Swill" /></div></figure>
 
 
 ### Now Art LA / James Peterson
 
-<figure><div data-aspect-ratio="5/3"><img src="/images/visual-artists/now-art-la.jpg" alt="" /></div></figure>
+<figure><div data-aspect-ratio="1244/606"><img src="/images/visual-artists/now-art-la.jpg" alt="Now Art LA" /></div></figure>
 
 
 ## Event Schedule
