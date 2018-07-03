@@ -292,17 +292,15 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
 ## Event Map
 
-Coming soon!
-
 <!--
 [Downloadable Map](/july4-map.pdf) _(PDF file, 4.3MB)_
+-->
 
 <figure class="feature map">
 <div data-aspect-ratio="1687/2587" style="background-color: black; color: white;">
 <img src="/images/map.png" width="1000" alt="Event Map" />
 </div>
 </figure>
--->
 
 
 ## Transportation
