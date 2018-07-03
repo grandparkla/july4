@@ -334,7 +334,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 ### Street Closures
 
-<!-- See the [4th of July Block Party Community Letter](http://grandparkla.org/wp-content/uploads/2015/05/Grand-Park-The-Music-Center-4th-of-July-Block-Party-Official-Community-Letter_Final-PDF-V3.pdf) for details about streets that will be closed during the event. -->
+See the [4th of July Block Party Community Letter](/july4-community-letter.pdf) for details about streets that will be closed during the event.
 
 <figure>
 <div data-aspect-ratio="3/2">
