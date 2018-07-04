@@ -529,9 +529,15 @@
   figure > div[data-aspect-ratio="853/940"] {
     padding-bottom: 110.1992966%;
   }
+  figure > div[data-aspect-ratio="987/987"] {
+    padding-bottom: 100%;
+  }
   @media (min-aspect-ratio: 1/1) {
     figure > div[data-aspect-ratio-landscape="1678/940"] {
       padding-bottom: 56.01907032%;
+    }
+    figure > div[data-aspect-ratio-landscape="1676/987"] {
+      padding-bottom: 58.8902148%;
     }
   }
 

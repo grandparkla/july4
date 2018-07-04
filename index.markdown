@@ -306,11 +306,25 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 The event will take place at Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
-<!-- (https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
+### Street Closures
+
+See the [4th of July Block Party Community Letter](/july4-community-letter.pdf) for details about streets that will be closed during the event.
+
+<!-- 
+<figure>
+<div data-aspect-ratio="3/2">
+<iframe src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="640" height="480"></iframe>
+</div>
+</figure>
+-->
+
+<!--
+(https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
+-->
 
 <figure>
-<div data-aspect-ratio-landscape="1678/940" data-aspect-ratio="853/940">
-<a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
+<div data-aspect-ratio-landscape="1676/987" data-aspect-ratio="987/987">
+<a href="https://www.google.com/maps/d/viewer?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054321657258626%2C-118.24870346470647&z=16" target="_blank" class="has-icon">
 <picture>
 <source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="/images/street-closures-portrait.png" sizes="100vw" />
@@ -328,17 +342,6 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </span>
 <span class="credit">Street Closures and Parking on Google Maps</span>
 </a>
-</div>
-</figure>
--->
-
-### Street Closures
-
-See the [4th of July Block Party Community Letter](/july4-community-letter.pdf) for details about streets that will be closed during the event.
-
-<figure>
-<div data-aspect-ratio="3/2">
-<iframe src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="640" height="480"></iframe>
 </div>
 </figure>
 
