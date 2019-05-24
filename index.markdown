@@ -1,12 +1,16 @@
 ---
-title: 'Grand Park + The Music Center. 4th Of July Block Party, 2018 #Go4thDTLA'
+title: 'Grand Park + The Music Center. 4th Of July Block Party, 2019 #Go4thDTLA'
 ---
 
+<ul></ul>
+
+{% comment %}
 * [Safety](#safety)
 * [Schedule](#event-schedule)
 * [Artists](#featured-artists)
 * [Map](#event-map)
 * [Transportation](#transportation)
+{% endcomment %}
 
 **Hey Los Angeles!**, we look forward to seeing you this July 4th for the USA’s b-day, where we will make wishes and celebrate our dreams. Let’s enjoy the beautiful day, chill, munch, dance, splash, play, and top it off with fireworks under the DTLA skyline.
 
@@ -15,7 +19,7 @@ title: 'Grand Park + The Music Center. 4th Of July Block Party, 2018 #Go4thDTLA'
 
 ### When
 
-July 4, 2018
+July 4, 2019
 
 3:00 p.m.
 : Doors Open
@@ -138,7 +142,9 @@ This is a space for unity – where Angelenos and visitors from all around the w
 * Vaping
 * Bicycles
 
+{% comment %}
 [Valet parking for bicycles](#bicycle-parking) will be available at Hill Street and West 2nd Street.
+{% endcomment %}
 
 ### Items You Can Bring
 
@@ -164,11 +170,15 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ### Food for Sale
 
-Food vendors will be onsite. <em>(More updates to follow.)</em>
+Food vendors will be onsite. _(More updates to follow.)_
 
 
 ## Featured Artists
 
+_To be announced_
+
+
+{% comment %}
 
 ### Quitapenas
 
@@ -224,6 +234,10 @@ featuring Joe Kay, Andre Power, and Andres Uribe
 
 <figure><div data-aspect-ratio="1244/606"><img src="/images/visual-artists/compressed/now-art-la.jpg" alt="Now Art LA" /></div></figure>
 
+{% endcomment %}
+
+
+{% comment %}
 
 ## Event Schedule
 
@@ -266,6 +280,8 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 **9:00 p.m.**
 : **Fireworks light up the sky!**
 
+{% endcomment %}
+
 
 <!--
 ## Kids' Play Zones
@@ -290,6 +306,8 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 : **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love! 
 -->
 
+{% comment %}
+
 ## Event Map
 
 [Downloadable Map](/july4-map.pdf) _(PDF file, 376KB)_
@@ -306,9 +324,15 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 The event will take place at Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
+{% endcomment %}
+
+
+{% comment %}
+
 ### Street Closures
 
 See the [4th of July Block Party Community Letter](/july4-community-letter.pdf) for details about streets that will be closed during the event.
+
 
 <!-- 
 <figure>
@@ -345,6 +369,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </div>
 </figure>
 
+
 ### Parking
 
 Due to street closures, **the parking area underneath Grand Park (Lot 10) will not be accessible during the event**.
@@ -356,10 +381,15 @@ Due to street closures, **the parking area underneath Grand Park (Lot 10) will n
 County Courthouse Garage
 : <abbr title="also known as">aka</abbr> Lot 17, located at 131 South Olive Street, will be closed to public parking.
 
+{% endcomment %}
+
 <!--
 Enter on Olive Street.
 : _(limited spaces available)_
 -->
+
+
+{% comment %}
 
 [Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
@@ -400,6 +430,8 @@ Or take the Gold Line to *Union Station* or the *Little Tokyo/Arts District Sta
 
 Plan your trip at [metro.net](https://www.metro.net/)
 
+{% endcomment %}
+
 <!-- 
 ## Summer Season
 
@@ -425,18 +457,23 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
 
 <h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
 
+
+{% comment %}
+
 <ul class="logos">
   <li><img src="/images/logos/los-angeles.png" alt="County of Los Angeles" /></li>
   <li><img src="/images/logos/grandpark-musiccenter.png" alt="Grand Park + The Music Center" /></li>
   <li><img src="/images/logos/hildal.png" alt="Supervisor Hilda L. Solis" /></li>
-  <li><img src="/images/logos/2018/huizar.png" alt="Team Huizar, Council District 14" /></li>
+  <li><img src="/images/logos/2019/huizar.png" alt="Team Huizar, Council District 14" /></li>
   <!--
   <li><img src="/images/logos/metro.png" alt="Metro" /></li>
   <li><img src="/images/logos/kaiser.png" alt="Kasier Permanente" /></li>
 	-->
-  <li><img src="/images/logos/2018/macys.png" alt="Macy’s Gives" /></li>
-  <li><img src="/images/logos/2018/metro-pcs.png" alt="Metro PCS" style="height: 1.45em" /></li>
+  <li><img src="/images/logos/2019/macys.png" alt="Macy’s Gives" /></li>
+  <li><img src="/images/logos/2019/metro-pcs.png" alt="Metro PCS" style="height: 1.45em" /></li>
 </ul>
+
+{% endcomment %}
 
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
 
