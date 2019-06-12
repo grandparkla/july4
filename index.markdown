@@ -175,12 +175,9 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 ## Featured Artists
 
-_To be announced_
-
-
 {% comment %}
 
-### Quitapenas
+### Boogaloo Assassins
 
 <figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/compressed/quitapenas.jpg" alt="Quitapenas" /></div></figure>
 
