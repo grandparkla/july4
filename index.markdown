@@ -194,6 +194,7 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 ### Victoria La Mala
 
+<figure><img src="/images/music-artists/compressed/Victoria La Mala.jpg" alt="Victoria La Mala"/></div></figure>
 
 ## *The Front Yard Stage*
 
