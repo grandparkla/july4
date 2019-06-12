@@ -177,7 +177,7 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 {% comment %}
 
-### *The Backyard Stage*
+## *The Backyard Stage*
 
 ### Boogaloo Assassins
 
@@ -195,14 +195,13 @@ Food vendors will be onsite. _(More updates to follow.)_
 ### Victoria La Mala
 
 
-### *The Front Yard Stage*
+## *The Front Yard Stage*
 
 ### South Soul Spinners 
 
 
 ### Blaq Pages
 
-<figure><div data-aspect-ratio="1117/660"><img src="/images/music-artists/compressed/dj-puffs.jpg" alt="DJ Puffs" /></div></figure>
 
 ### foreigner
 
