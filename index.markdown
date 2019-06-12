@@ -175,64 +175,40 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 ## Featured Artists
 
-_To be announced_
-
-
 {% comment %}
 
-### Quitapenas
+## *The Backyard Stage*
 
-<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/compressed/quitapenas.jpg" alt="Quitapenas" /></div></figure>
-
-### Rhettmatic
-
-<figure><div data-aspect-ratio="3/2"><img src="/images/music-artists/compressed/rhettmatic.jpg" alt="Rhettmatic" /></div></figure>
-
-### Soulection DJs
-
-featuring Joe Kay, Andre Power, and Andres Uribe
-
-<div class="soulection">
-<figure><div data-aspect-ratio="738/983"><img src="/images/music-artists/compressed/andre-power.jpg" alt="Andre Power" /></div></figure>
-
-<figure><div data-aspect-ratio="461/821"><img src="/images/music-artists/compressed/andres-uribe.jpg" alt="Andres Uribe" /></div></figure>
-
-<figure><div data-aspect-ratio="747/900"><img src="/images/music-artists/compressed/joe-kay.jpg" alt="Joe Kay" /></div></figure>
-</div>
-
-### Computer Jay and the Weird Science
-
-<figure><div data-aspect-ratio="864/853"><img src="/images/music-artists/compressed/computer-jay-and-the-weird-science.jpg" alt="Computer Jay and the Weird Science" /></div></figure>
-
-### DJ Puffs
-
-<figure><div data-aspect-ratio="1117/660"><img src="/images/music-artists/compressed/dj-puffs.jpg" alt="DJ Puffs" /></div></figure>
+### Boogaloo Assassins
 
 
+### DJ Linafornia
 
-### Cassie Zhang
+<figure><img src="/images/music-artists/compressed/linafornia.jpg" alt="linafornia" /></div></figure>
 
-<figure><div data-aspect-ratio="1065/863"><img src="/images/visual-artists/compressed/cassie-zhang.jpg" alt="Cassie Zhang" /></div></figure>
-
-
-### Cassy Carrillo
-
-<figure><div data-aspect-ratio="907/605"><img src="/images/visual-artists/compressed/cassy-carrillo.jpg" alt="Cassy Carrillo" /></div></figure>
+### The Delirians
 
 
-### H Plus
-
-<figure><div data-aspect-ratio="700/956"><img src="/images/visual-artists/compressed/h-plus.jpg" alt="H Plus" /></div></figure>
+### Earth Arrow 
 
 
-### Jim Swill
+### Victoria La Mala
 
-<figure><div data-aspect-ratio="1435/2135"><img src="/images/visual-artists/compressed/jim-swill.jpg" alt="Jim Swill" /></div></figure>
+<figure><img src="/images/music-artists/compressed/Victoria La Mala.jpg" alt="Victoria La Mala"/></div></figure>
+
+## *The Front Yard Stage*
+
+### South Soul Spinners 
 
 
-### Now Art LA / James Peterson
+### Blaq Pages
 
-<figure><div data-aspect-ratio="1244/606"><img src="/images/visual-artists/compressed/now-art-la.jpg" alt="Now Art LA" /></div></figure>
+
+### foreigner
+
+
+### DJ Lez Lee
+
 
 {% endcomment %}
 
