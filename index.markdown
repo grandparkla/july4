@@ -179,6 +179,7 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 ### Boogaloo Assassins
 
+<figure><img src="/images/music-artists/compressed/computer-jay-and-the-weird-science.jpg" alt="Computer Jay and the Weird Science" /></div></figure>
 
 ### DJ Linafornia
 
