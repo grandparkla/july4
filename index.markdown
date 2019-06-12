@@ -179,15 +179,18 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 ### Boogaloo Assassins
 
-<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/compressed/quitapenas.jpg" alt="Quitapenas" /></div></figure>
 
-### Rhettmatic
+### DJ Linafornia
 
-<figure><div data-aspect-ratio="3/2"><img src="/images/music-artists/compressed/rhettmatic.jpg" alt="Rhettmatic" /></div></figure>
 
-### Soulection DJs
+### The Delirians
 
-featuring Joe Kay, Andre Power, and Andres Uribe
+
+### Earth Arrow 
+
+
+### Victoria La Mala
+
 
 <div class="soulection">
 <figure><div data-aspect-ratio="738/983"><img src="/images/music-artists/compressed/andre-power.jpg" alt="Andre Power" /></div></figure>
