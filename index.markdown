@@ -177,6 +177,8 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 {% comment %}
 
+### *The Backyard Stage*
+
 ### Boogaloo Assassins
 
 
@@ -193,39 +195,20 @@ Food vendors will be onsite. _(More updates to follow.)_
 ### Victoria La Mala
 
 
-### Computer Jay and the Weird Science
+### *The Front Yard Stage*
 
-<figure><img src="/images/music-artists/compressed/computer-jay-and-the-weird-science.jpg" alt="Computer Jay and the Weird Science" /></div></figure>
+### South Soul Spinners 
 
-### DJ Puffs
+
+### Blaq Pages
 
 <figure><div data-aspect-ratio="1117/660"><img src="/images/music-artists/compressed/dj-puffs.jpg" alt="DJ Puffs" /></div></figure>
 
+### foreigner
 
 
-### Cassie Zhang
+### DJ Lez Lee
 
-<figure><div data-aspect-ratio="1065/863"><img src="/images/visual-artists/compressed/cassie-zhang.jpg" alt="Cassie Zhang" /></div></figure>
-
-
-### Cassy Carrillo
-
-<figure><div data-aspect-ratio="907/605"><img src="/images/visual-artists/compressed/cassy-carrillo.jpg" alt="Cassy Carrillo" /></div></figure>
-
-
-### H Plus
-
-<figure><div data-aspect-ratio="700/956"><img src="/images/visual-artists/compressed/h-plus.jpg" alt="H Plus" /></div></figure>
-
-
-### Jim Swill
-
-<figure><div data-aspect-ratio="1435/2135"><img src="/images/visual-artists/compressed/jim-swill.jpg" alt="Jim Swill" /></div></figure>
-
-
-### Now Art LA / James Peterson
-
-<figure><div data-aspect-ratio="1244/606"><img src="/images/visual-artists/compressed/now-art-la.jpg" alt="Now Art LA" /></div></figure>
 
 {% endcomment %}
 
