@@ -192,17 +192,9 @@ Food vendors will be onsite. _(More updates to follow.)_
 ### Victoria La Mala
 
 
-<div class="soulection">
-<figure><div data-aspect-ratio="738/983"><img src="/images/music-artists/compressed/andre-power.jpg" alt="Andre Power" /></div></figure>
-
-<figure><div data-aspect-ratio="461/821"><img src="/images/music-artists/compressed/andres-uribe.jpg" alt="Andres Uribe" /></div></figure>
-
-<figure><div data-aspect-ratio="747/900"><img src="/images/music-artists/compressed/joe-kay.jpg" alt="Joe Kay" /></div></figure>
-</div>
-
 ### Computer Jay and the Weird Science
 
-<figure><div data-aspect-ratio="864/853"><img src="/images/music-artists/compressed/computer-jay-and-the-weird-science.jpg" alt="Computer Jay and the Weird Science" /></div></figure>
+<figure><img src="/images/music-artists/compressed/computer-jay-and-the-weird-science.jpg" alt="Computer Jay and the Weird Science" /></div></figure>
 
 ### DJ Puffs
 
