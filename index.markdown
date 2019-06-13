@@ -175,42 +175,52 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 ## Featured Artists
 
-{% comment %}
 
-## *The Backyard Stage*
+### The Backyard Stage
 
-### Boogaloo Assassins
-
-
-### DJ Linafornia
-
-<figure><img src="/images/music-artists/compressed/linafornia.jpg" alt="linafornia" /></div></figure>
-
-### The Delirians
+#### Boogaloo Assassins
 
 
-### Earth Arrow 
+#### DJ Linafornia
+
+<figure><img src="/images/music-artists/compressed/linafornia.jpg" alt="DJ Linafornia" /></figure>
 
 
-### Victoria La Mala
+#### The Delirians
 
-<figure><img src="/images/music-artists/compressed/Victoria La Mala.jpg" alt="Victoria La Mala"/></div></figure>
-
-## *The Front Yard Stage*
-
-### South Soul Spinners 
+<figure><img src="/images/music-artists/compressed/the-delirians.jpg" alt="The Delirians" /></figure>
 
 
-### Blaq Pages
+#### Earth Arrow
+
+<figure><img src="/images/music-artists/compressed/earth-arrow.jpg" alt="Earth Arrow" /></figure>
 
 
-### foreigner
+#### Victoria La Mala
+
+<figure><img src="/images/music-artists/compressed/victoria-la-mala.jpg" alt="Victoria La Mala" /></figure>
 
 
-### DJ Lez Lee
+### The Front Yard Stage
+
+#### South Soul Spinners 
+
+<figure><img src="/images/music-artists/compressed/southern-soul-spinners.jpg" alt="Southern Soul Spinners" /></figure>
 
 
-{% endcomment %}
+#### Blaq Pages
+
+<figure><img src="/images/music-artists/compressed/blaq-pages.jpg" alt="Blaq Pages" /></figure>
+
+
+#### Foreigner
+
+<figure><img src="/images/music-artists/compressed/foreigner.jpg" alt="Foreigner" /></figure>
+
+
+#### DJ Lez Lee
+
+<figure><img src="/images/music-artists/compressed/dj-lez-lee.jpg" alt="DJ Lez Lee" /></figure>
 
 
 {% comment %}
