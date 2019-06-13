@@ -180,6 +180,7 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 #### Boogaloo Assassins
 
+<figure><img src="/images/music-artists/compressed/boogaloo-assassins.jpg" alt="Boogaloo Assassins" /></figure>
 
 #### DJ Linafornia
 
