@@ -175,66 +175,53 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 ## Featured Artists
 
-_To be announced_
+
+### The Backyard Stage
+
+#### Boogaloo Assassins
+
+<figure><img src="/images/music-artists/compressed/boogaloo-assassins.jpg" alt="Boogaloo Assassins" /></figure>
+
+#### DJ Linafornia
+
+<figure><img src="/images/music-artists/compressed/linafornia.jpg" alt="DJ Linafornia" /></figure>
 
 
-{% comment %}
+#### The Delirians
 
-### Quitapenas
-
-<figure><div data-aspect-ratio="1/1"><img src="/images/music-artists/compressed/quitapenas.jpg" alt="Quitapenas" /></div></figure>
-
-### Rhettmatic
-
-<figure><div data-aspect-ratio="3/2"><img src="/images/music-artists/compressed/rhettmatic.jpg" alt="Rhettmatic" /></div></figure>
-
-### Soulection DJs
-
-featuring Joe Kay, Andre Power, and Andres Uribe
-
-<div class="soulection">
-<figure><div data-aspect-ratio="738/983"><img src="/images/music-artists/compressed/andre-power.jpg" alt="Andre Power" /></div></figure>
-
-<figure><div data-aspect-ratio="461/821"><img src="/images/music-artists/compressed/andres-uribe.jpg" alt="Andres Uribe" /></div></figure>
-
-<figure><div data-aspect-ratio="747/900"><img src="/images/music-artists/compressed/joe-kay.jpg" alt="Joe Kay" /></div></figure>
-</div>
-
-### Computer Jay and the Weird Science
-
-<figure><div data-aspect-ratio="864/853"><img src="/images/music-artists/compressed/computer-jay-and-the-weird-science.jpg" alt="Computer Jay and the Weird Science" /></div></figure>
-
-### DJ Puffs
-
-<figure><div data-aspect-ratio="1117/660"><img src="/images/music-artists/compressed/dj-puffs.jpg" alt="DJ Puffs" /></div></figure>
+<figure><img src="/images/music-artists/compressed/the-delirians.jpg" alt="The Delirians" /></figure>
 
 
+#### Earth Arrow
 
-### Cassie Zhang
-
-<figure><div data-aspect-ratio="1065/863"><img src="/images/visual-artists/compressed/cassie-zhang.jpg" alt="Cassie Zhang" /></div></figure>
-
-
-### Cassy Carrillo
-
-<figure><div data-aspect-ratio="907/605"><img src="/images/visual-artists/compressed/cassy-carrillo.jpg" alt="Cassy Carrillo" /></div></figure>
+<figure><img src="/images/music-artists/compressed/earth-arrow.jpg" alt="Earth Arrow" /></figure>
 
 
-### H Plus
+#### Victoria La Mala
 
-<figure><div data-aspect-ratio="700/956"><img src="/images/visual-artists/compressed/h-plus.jpg" alt="H Plus" /></div></figure>
-
-
-### Jim Swill
-
-<figure><div data-aspect-ratio="1435/2135"><img src="/images/visual-artists/compressed/jim-swill.jpg" alt="Jim Swill" /></div></figure>
+<figure><img src="/images/music-artists/compressed/victoria-la-mala.jpg" alt="Victoria La Mala" /></figure>
 
 
-### Now Art LA / James Peterson
+### The Front Yard Stage
 
-<figure><div data-aspect-ratio="1244/606"><img src="/images/visual-artists/compressed/now-art-la.jpg" alt="Now Art LA" /></div></figure>
+#### South Soul Spinners 
 
-{% endcomment %}
+<figure><img src="/images/music-artists/compressed/southern-soul-spinners.jpg" alt="Southern Soul Spinners" /></figure>
+
+
+#### Blaq Pages
+
+<figure><img src="/images/music-artists/compressed/blaq-pages.jpg" alt="Blaq Pages" /></figure>
+
+
+#### Foreigner
+
+<figure><img src="/images/music-artists/compressed/foreigner.jpg" alt="Foreigner" /></figure>
+
+
+#### DJ Lez Lee
+
+<figure><img src="/images/music-artists/compressed/dj-lez-lee.jpg" alt="DJ Lez Lee" /></figure>
 
 
 {% comment %}
