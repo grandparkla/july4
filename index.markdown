@@ -2,12 +2,11 @@
 title: 'Grand Park + The Music Center. 4th Of July Block Party, 2019 #Go4thDTLA'
 ---
 
-<ul></ul>
+* [Safety](#safety)
+* [Artists](#featured-artists)
 
 {% comment %}
-* [Safety](#safety)
 * [Schedule](#event-schedule)
-* [Artists](#featured-artists)
 * [Map](#event-map)
 * [Transportation](#transportation)
 {% endcomment %}
