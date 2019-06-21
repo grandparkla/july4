@@ -203,7 +203,7 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 ### The Front Yard Stage
 
-#### South Soul Spinners 
+#### Southern Soul Spinners 
 
 <figure><img src="/images/music-artists/compressed/southern-soul-spinners.jpg" alt="Southern Soul Spinners" /></figure>
 
