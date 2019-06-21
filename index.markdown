@@ -1,5 +1,5 @@
 ---
-title: 'Grand Park + The Music Center. 4th Of July Block Party, 2019 #Go4thDTLA'
+title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 ---
 
 * [Safety](#safety)
