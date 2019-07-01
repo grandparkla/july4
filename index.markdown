@@ -18,9 +18,13 @@ Grand Park</em>
 
 **P.S.**
 
-Visit our info booths to sign up for our e-newsletter and get a free pair of grand park sunglasses (while supplies last) and enter for a chance to win a gift card!
+Visit our info booths to sign up for our e-newsletter and get a free pair of grand park sunglasses <small>(while supplies last)</small>.
+
+<!--
+ and enter for a chance to win a gift card!
 
 <small>(Some restrictions may apply.)</small>
+-->
 
 
 ### When
