@@ -309,7 +309,7 @@ The event will take place at Grand Park + The Music Center:<br />
 
 Street closures will begin taking effect the evening of Tuesday, July 3. All streets will reopen by 6 a.m. on Friday, July 5.
 
-See the [4th of July Community Letter](/uploads/programs/4thofjuly/4thofjuly-2019-community-letter.pdf) for more details about streets that will be closed during the event.
+See the [4th of July Community Letter](/4thofjuly-2019-community-letter.pdf) for more details about streets that will be closed during the event.
 
 <figure>
 <div>
