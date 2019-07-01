@@ -13,8 +13,10 @@ title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 
 We are so happy you are here to celebrate 4th of July at Grand Park! Whether it’s your first time or your 7th, dance your heart out, make friends and make great memories. Thank you for making this a special day!
 
-Love,<br />
-Grand Park
+<em>Love,<br />
+Grand Park</em>
+
+**P.S.**
 
 Visit our info booths to sign up for our e-newsletter and get a free pair of grand park sunglasses (while supplies last) and enter for a chance to win a gift card!
 
