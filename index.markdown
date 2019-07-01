@@ -4,11 +4,11 @@ title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 
 * [Safety](#safety)
 * [Artists](#featured-artists)
+* [Transportation](#transportation)
 
 {% comment %}
 * [Schedule](#event-schedule)
 * [Map](#event-map)
-* [Transportation](#transportation)
 {% endcomment %}
 
 **Hey Los Angeles!**, we look forward to seeing you this July 4th for the USA’s b-day, where we will make wishes and celebrate our dreams. Let’s enjoy the beautiful day, chill, munch, dance, splash, play, and top it off with fireworks under the DTLA skyline.
@@ -125,7 +125,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 
 ### Party in harmony, LA!
 
-This is a space for unity – where Angelenos and visitors from all around the world can celebrate safely together. Any bullying, discrimination, hateful acts or unsafe behaviors are not allowed in this space.   If you see something suspicious, reach out to security or staff (they will be wearing pink vests or shirts) for assistance. Let’s take care of each other, LA fam. 
+This is a space for unity – where Angelenos and visitors from all around the world can celebrate safely together. Any bullying, discrimination, hateful acts or unsafe behaviors are not allowed in this space.   If you see something suspicious, reach out to security or staff (they will be wearing pink vests or shirts) for assistance. Let’s take care of each other, LA fam.
 
 ### The Following is Also Prohibited at This Event
 
@@ -223,6 +223,12 @@ Food vendors will be onsite. _(More updates to follow.)_
 <figure><img src="/images/music-artists/compressed/dj-lez-lee.jpg" alt="DJ Lez Lee" /></figure>
 
 
+
+
+
+
+
+
 {% comment %}
 
 ## Event Schedule
@@ -292,6 +298,29 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 : **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love! 
 -->
 
+
+
+## Transportation
+
+The event will take place at Grand Park + The Music Center:<br />
+[200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
+
+## Street Closures
+
+Street closures will begin taking effect the evening of Tuesday, July 3. All streets will reopen by 6 a.m. on Friday, July 5.
+
+See the [4th of July Community Letter](/uploads/programs/4thofjuly/4thofjuly-2019-community-letter.pdf) for more details about streets that will be closed during the event.
+
+<figure>
+<div>
+<a href="(/4thofjuly-2019-community-letter.pdf">
+<img src="/images/street-closures.png" width="500" alt="Olive Street, Hill Street, Broadway, and Spring Street will be closed in the area around Grand Park (between Temple Street and 2nd Street). 1st Street and 2nd street will also be closed in the area around Grand Park (between Grand Avenue and Main Street)." />
+</a>
+</div>
+
+</figure>
+
+
 {% comment %}
 
 ## Event Map
@@ -311,6 +340,12 @@ The event will take place at Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 {% endcomment %}
+
+
+
+
+
+
 
 
 {% comment %}
