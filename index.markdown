@@ -210,9 +210,9 @@ Food vendors will be onsite. _(More updates to follow.)_
 <figure><img src="/images/music-artists/compressed/blaq-pages.jpg" alt="Blaq Pages" /></figure>
 
 
-#### Foreigner
+#### foreigner
 
-<figure><img src="/images/music-artists/compressed/foreigner.jpg" alt="Foreigner" /></figure>
+<figure><img src="/images/music-artists/compressed/foreigner.jpg" alt="foreigner" /></figure>
 
 
 #### DJ Lez Lee
