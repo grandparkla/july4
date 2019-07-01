@@ -3,13 +3,10 @@ title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 ---
 
 * [Safety](#safety)
-* [Artists](#featured-artists)
-* [Transportation](#transportation)
-
-{% comment %}
 * [Schedule](#event-schedule)
+* [Artists](#featured-artists)
 * [Map](#event-map)
-{% endcomment %}
+* [Transportation](#transportation)
 
 **Hey Los Angeles!**, we look forward to seeing you this July 4th for the USA’s b-day, where we will make wishes and celebrate our dreams. Let’s enjoy the beautiful day, chill, munch, dance, splash, play, and top it off with fireworks under the DTLA skyline.
 
@@ -224,55 +221,76 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 
 
-
-
-
-
-
-{% comment %}
-
 ## Event Schedule
 
+{% comment %}
 Doors open at <span class="time">3 p.m.</span> At <span class="time">9 p.m.</span> the fireworks show will create stunning backdrop above the Civic Center skyline. The event ends at <span class="time">9:30 p.m.</span>
 
 Experience *music* and *artists* that call L.A. home, at the two music stages:
+{% endcomment %}
 
 
-### Frontyard Stage 
+### The Frontyard Stage 
 
-#### Performance Lawn near Hill Street
+#### Grand Park’s Performance Lawn between Grand Avenue and Hill Street
 
-3:00 to 9:00 p.m.
-: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
+3:00 – 4:30 p.m.
+: Southern Soul Spinners
 
-9:15 to 9:30 p.m.
-: [Soulection DJs featuring Joe Kay, Andre Power, Andres Uribe](https://soulection.com/) 
+4:30 – 6:00 p.m.
+: Blaq Pages
 
+6:00 – 7:30 p.m.
+: foreigner
 
-### Backyard Stage
+7:30 – 9:00 p.m.
+: DJ Lez Lee
 
-#### Event Lawn near City Hall/Spring Street 
-
-3:00 to 5:00 p.m.
-: [DJ Puffs](https://soundcloud.com/kristine-puffs-ono) 
-
-5:00 to 6:00 p.m.
-: [Computer JAY and the Weird Science](https://twitter.com/computerjay) 
-
-6:00 to 8:00 p.m.
-: [Rhettmatic](https://soundcloud.com/rhettmatic) 
-
-8:00 to 9:00 p.m.
-: [QUITAPENAS](http://quitapenasmusic.com/)
+9:00 – 9:15 p.m.
+: Fireworks (from the Dorothy Chandler Pavilion)
 
 
+### The Backyard Stage
+
+#### Grand Park’s Event Lawn next to City Hall, between Broadway and Spring Street
+
+3:00 – 4:15 p.m.
+: DJ Linafornia
+
+4:15 – 5:00 p.m.
+: The Delirians
+
+5:00 – 5:30 p.m.
+: DJ Linafornia
+
+5:30 – 6:15 p.m.
+: Earth Arrow
+
+6:15 – 6:45 p.m.
+: DJ Linafornia
+
+6:45 – 7:30 p.m.
+: Victoria La Mala
+
+7:30 – 8:00 p.m.
+: DJ Linafornia
+
+8:00 – 9:00 p.m.
+: Boogaloo Assassins
+
+9:00 – 9:15 p.m.
+: Fireworks (from the Dorothy Chandler Pavilion)
+
+
+<!--
 
 ### Look Up!
 
-**9:00 p.m.**
-: **Fireworks light up the sky!**
+9:00 – 9:15 p.m.
+: Fireworks (from the Dorothy Chandler Pavilion)
 
-{% endcomment %}
+-->
+
 
 
 <!--
@@ -300,6 +318,21 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
 
 
+
+## Event Map
+
+[Downloadable Map](/july4-map.pdf) _(PDF file)_
+
+<figure class="feature map">
+<div data-aspect-ratio="1687/2587" style="background-color: black; color: white;">
+<img src="/images/map.png" width="1000" alt="Event Map" />
+</div>
+</figure>
+
+
+
+
+
 ## Transportation
 
 The event will take place at Grand Park + The Music Center:<br />
@@ -321,18 +354,8 @@ See the [4th of July Community Letter](/4thofjuly-2019-community-letter.pdf) for
 </figure>
 
 
+
 {% comment %}
-
-## Event Map
-
-[Downloadable Map](/july4-map.pdf) _(PDF file, 376KB)_
-
-<figure class="feature map">
-<div data-aspect-ratio="1687/2587" style="background-color: black; color: white;">
-<img src="/images/map.png" width="1000" alt="Event Map" />
-</div>
-</figure>
-
 
 ## Transportation
 
