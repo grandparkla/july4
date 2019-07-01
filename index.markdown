@@ -9,7 +9,7 @@ title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 * [Map](#event-map)
 * [Transportation](#transportation)
 
-Hello L.A.!
+**Hello L.A.!**
 
 We are so happy you are here to celebrate 4th of July at Grand Park! Whether it’s your first time or your 7th, dance your heart out, make friends and make great memories. Thank you for making this a special day!
 
