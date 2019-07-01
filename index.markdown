@@ -479,22 +479,20 @@ My oh my. Five years together – how awesome is that? Let’s continue to kick 
 <h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
 
 
-{% comment %}
 
 <ul class="logos">
   <li><img src="/images/logos/los-angeles.png" alt="County of Los Angeles" /></li>
   <li><img src="/images/logos/grandpark-musiccenter.png" alt="Grand Park + The Music Center" /></li>
   <li><img src="/images/logos/hildal.png" alt="Supervisor Hilda L. Solis" /></li>
-  <li><img src="/images/logos/2019/huizar.png" alt="Team Huizar, Council District 14" /></li>
+  <li><img src="/images/logos/council-district-14.png" alt="Council District 14, Los Angeles" /></li>
   <!--
   <li><img src="/images/logos/metro.png" alt="Metro" /></li>
   <li><img src="/images/logos/kaiser.png" alt="Kasier Permanente" /></li>
-	-->
   <li><img src="/images/logos/2019/macys.png" alt="Macy’s Gives" /></li>
   <li><img src="/images/logos/2019/metro-pcs.png" alt="Metro PCS" style="height: 1.45em" /></li>
+	-->
 </ul>
 
-{% endcomment %}
 
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
 
