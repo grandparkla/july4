@@ -5,13 +5,23 @@ title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 * [Safety](#safety)
 * [Schedule](#event-schedule)
 * [Artists](#featured-artists)
+* [Fun](#fun)
 * [Map](#event-map)
 * [Transportation](#transportation)
 
-**Hey Los Angeles!**, we look forward to seeing you this July 4th for the USA’s b-day, where we will make wishes and celebrate our dreams. Let’s enjoy the beautiful day, chill, munch, dance, splash, play, and top it off with fireworks under the DTLA skyline.
+Hello L.A.!
 
-[Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park + The Music Center 
-<!-- and get **free** Grand Park Sunglasses <em>(while supplies last)</em>. -->
+We are so happy you are here to celebrate 4th of July at Grand Park! Whether it’s your first time or your 7th, dance your heart out, make friends and make great memories. Thank you for making this a special day!
+
+Love,<br />
+Grand Park
+
+Visit our info booths to sign up for our e-newsletter and get a free pair of grand park sunglasses (while supplies last) and enter for a chance to win a gift card!
+
+<small>(Some restrictions may apply.)</small>
+
+<!-- [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park + The Music Center 
+and get **free** Grand Park Sunglasses <em>(while supplies last)</em>. -->
 
 ### When
 
@@ -291,6 +301,16 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 -->
 
+
+## <a id="fun"></a> Activations
+
+Fun things to do throughout the park! Check the [map](#map) for locations.
+
+* Ferris Wheel<br /><small>closes at 8:30pm. purchase tickets at booth on broadway near temple.</small>
+* Voter Registration
+* FIBA Basketball World Cup 2019 Trophy Tour
+* Häagen Dazs Ice Cream
+* Sweet Beats Mobile DJ Truck
 
 
 <!--
