@@ -3,10 +3,10 @@ title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 ---
 
 * [Safety](#safety)
-* [Schedule](#event-schedule)
-* [Artists](#featured-artists)
+* [Schedule](#schedule)
+* [Artists](#artists)
 * [Fun](#fun)
-* [Map](#event-map)
+* [Map](#map)
 * [Transportation](#transportation)
 
 **Hello L.A.!**
@@ -22,8 +22,6 @@ Visit our info booths to sign up for our e-newsletter and get a free pair of gra
 
 <small>(Some restrictions may apply.)</small>
 
-<!-- [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park + The Music Center 
-and get **free** Grand Park Sunglasses <em>(while supplies last)</em>. -->
 
 ### When
 
@@ -150,9 +148,7 @@ This is a space for unity – where Angelenos and visitors from all around the w
 * Vaping
 * Bicycles
 
-{% comment %}
 [Valet parking for bicycles](#bicycle-parking) will be available at Hill Street and West 2nd Street.
-{% endcomment %}
 
 ### Items You Can Bring
 
@@ -181,7 +177,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 Food vendors will be onsite. _(More updates to follow.)_
 
 
-## Featured Artists
+## <a id="artists"></a> Featured Artists
 
 
 ### The Backyard Stage
@@ -233,13 +229,11 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 
 
-## Event Schedule
+## <a id="schedule"></a> Event Schedule
 
-{% comment %}
 Doors open at <span class="time">3 p.m.</span> At <span class="time">9 p.m.</span> the fireworks show will create stunning backdrop above the Civic Center skyline. The event ends at <span class="time">9:30 p.m.</span>
 
 Experience *music* and *artists* that call L.A. home, at the two music stages:
-{% endcomment %}
 
 
 ### The Frontyard Stage 
@@ -341,7 +335,7 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 
 
 
-## Event Map
+## <a id="map"></a> Event Map
 
 [Downloadable Map](/july4-map.pdf) _(PDF file)_
 
@@ -376,98 +370,28 @@ See the [4th of July Community Letter](/4thofjuly-2019-community-letter.pdf) for
 </figure>
 
 
-
-{% comment %}
-
-## Transportation
-
-The event will take place at Grand Park + The Music Center:<br />
-[200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
-
-{% endcomment %}
-
-
-
-
-
-
-
-
-{% comment %}
-
-### Street Closures
-
-See the [4th of July Block Party Community Letter](/july4-community-letter.pdf) for details about streets that will be closed during the event.
-
-
-<!-- 
-<figure>
-<div data-aspect-ratio="3/2">
-<iframe src="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8" width="640" height="480"></iframe>
-</div>
-</figure>
--->
-
-<!--
-(https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
--->
-
-<figure>
-<div data-aspect-ratio-landscape="1676/987" data-aspect-ratio="987/987">
-<a href="https://www.google.com/maps/d/viewer?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054321657258626%2C-118.24870346470647&z=16" target="_blank" class="has-icon">
-<picture>
-<source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
-<source srcset="/images/street-closures-portrait.png" sizes="100vw" />
-<img src="/images/street-closures-portrait.png" width="1000" alt="" />
-</picture>
-<span class="icon">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
-<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
-L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
-c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
-<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
-c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
-C9.3,11.7,9.3,11.2,9.1,10.9z"/>
-</svg>
-</span>
-<span class="credit">Street Closures and Parking on Google Maps</span>
-</a>
-</div>
-</figure>
-
-
 ### Parking
 
 Due to street closures, **the parking area underneath Grand Park (Lot 10) will not be accessible during the event**.
 
 [The Music Center Garage](https://www.musiccenter.org/visit/Getting-Here-and-Around/Parking/)
 : <abbr title="also known as">aka</abbr> Lot 14, located at 135 North Grand Avenue. Enter via Southbound Grand Avenue from Temple Street.
-: **The Music Center Garage will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
 
-County Courthouse Garage
-: <abbr title="also known as">aka</abbr> Lot 17, located at 131 South Olive Street, will be closed to public parking.
-
-{% endcomment %}
-
-<!--
-Enter on Olive Street.
-: _(limited spaces available)_
--->
-
-
-{% comment %}
-
-[Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
+[Walt Disney Concert Hall Garage](https://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
 
 Health Services Garage
 : <abbr title="also known as">aka</abbr> Lot 29, located at 313 North Figueroa Street. Enter on Fremont Avenue.
 
 Chinatown Garage
-: <abbr title="also known as">aka</abbr> Lot 45, located at 725 North Spring street. Enter on Spring Street.
+: <abbr title="also known as">aka</abbr> Lot 45, located at 725 North Spring Street. Enter on Spring Street.
 
 [FIGat7th](http://www.figat7th.com/directions-parking-2/)
 : located at South Figueroa Street and 7th Street. Enter on 7th Street. PARK & PLAY for $5 at FIGat7th with retail store or eatery validation. The structure is open 24 hours and parking validation is valid for up to 12 hours.
+
+[LA Times Parking](https://www.google.com/maps/place/221+W+2nd+St,+Los+Angeles,+CA+90012/@34.0522233,-118.2483941,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64eadc4ee6d:0x40845fc2a2ae4142!8m2!3d34.0522233!4d-118.2462054)
+: located at 221 W. 2nd Street. Enter on 2nd Street. 
+
 
 ### Bicycle Parking
 
@@ -496,30 +420,6 @@ Or take the Gold Line to *Union Station* or the *Little Tokyo/Arts District Sta
 
 Plan your trip at [metro.net](https://www.metro.net/)
 
-{% endcomment %}
-
-<!-- 
-## Summer Season
-
-My oh my. Five years together – how awesome is that? Let’s continue to kick it in the _park for everyone_. View the [Summer Season Calendar](http://grandparkla.org/summer/).
-
-<figure class="feature" style="margin-bottom: 0;">
-<div data-aspect-ratio-landscape="1920/465" data-aspect-ratio="600/300">
-<a href="http://grandparkla.org/summer/" target="_blank">
-<img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABQQEBkSGScXFycyJh8mMi4mJiYmLj41NTU1NT5EQUFBQUFBREREREREREREREREREREREREREREREREREREREQBFRkZIBwgJhgYJjYmICY2RDYrKzZERERCNUJERERERERERERERERERERERERERERERERERERERERERERERERERP/AABEIABAAQAMBIgACEQEDEQH/xABoAAEAAwEBAAAAAAAAAAAAAAACAAEDBAUQAAICAQMBCAMAAAAAAAAAAAERAAIhEjFBAwQTIlFhcZGhweHwAQEBAQEAAAAAAAAAAAAAAAABAAMEEQEBAQEAAAAAAAAAAAAAAAAAASEi/9oADAMBAAIRAxEAPwDzACDn9RUo7CtmODzCa6U0t0DKFiDjBmbgyOm3Z6NUZHqszC1CCUGHK1PEXek/3zE8iOnZo+5i6dM+JkDcSG43Czx9H5k1jZbyGF1DU4QAHA+/eY6vKaWLTwHx+YAOMQVf/9k=" alt="" />
-
-<picture>
-<source srcset="/images/summer-320wide.jpg 320w, /images/summer-640wide.jpg 640w, /images/summer-768wide.jpg 768w, /images/summer-1024wide.jpg 1024w, /images/summer-1536wide.jpg 1536w, /images/summer-1920wide.jpg 1920w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
-<source srcset="/images/summer-600x300.jpg" sizes="100vw" />
-<img src="/images/summer-600x300.jpg" width="1000" alt="Grand Park. Free to Play. Summer #5" />
-</picture>
-</a>
-</div>
-</figure>
-
-
-<p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="http://grandparkla.org/calendar/">Full Calendar</a></p>
--->
 
 <h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
 
