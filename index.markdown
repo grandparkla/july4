@@ -184,52 +184,72 @@ Food vendors will be onsite. _(More updates to follow.)_
 ## <a id="artists"></a> Featured Artists
 
 
-### The Backyard Stage
+### The backyard stage
 
-#### Boogaloo Assassins
+featuring _Boogaloo Assassins, DJ Linafornia, The Delirians, Earth Arrow,_ and _Victoria La Mala_
 
-<figure><img src="/images/music-artists/compressed/boogaloo-assassins.jpg" alt="Boogaloo Assassins" /></figure>
+<div class="artist-group" markdown="1" style="grid-gap: 1.5em; grid-column: 2/-2;">
+  <figure style="--image-width: 1000; --image-height: 668; margin-top: 1px; margin-bottom: 1px; grid-column: span 2">
+    <div style="padding-bottom: 66.8% !important;">
+      <img src="/images/music-artists/compressed/boogaloo-assassins.jpg" alt="Boogaloo Assassins" />
+    </div>
+  </figure>
 
-#### DJ Linafornia
+  <figure style="--image-width: 1000; --image-height: 667; margin-top: 1px; margin-bottom: 1px;">
+    <div>
+      <img src="/images/music-artists/compressed/linafornia.jpg" alt="DJ Linafornia" />
+    </div>
+  </figure>
 
-<figure><img src="/images/music-artists/compressed/linafornia.jpg" alt="DJ Linafornia" /></figure>
+  <figure style="--image-width: 1080; --image-height: 1080; margin-top: 1px; margin-bottom: 1px;">
+    <div>
+      <img src="/images/music-artists/compressed/victoria-la-mala.jpg" alt="Victoria La Mala" />
+    </div>
+  </figure>
 
-
-#### The Delirians
-
-<figure><img src="/images/music-artists/compressed/the-delirians.jpg" alt="The Delirians" /></figure>
-
-
-#### Earth Arrow
-
-<figure><img src="/images/music-artists/compressed/earth-arrow.jpg" alt="Earth Arrow" /></figure>
-
-
-#### Victoria La Mala
-
-<figure><img src="/images/music-artists/compressed/victoria-la-mala.jpg" alt="Victoria La Mala" /></figure>
-
+  <figure style="--image-width: 1548; --image-height: 1024; margin-top: 1px; margin-bottom: 1px; grid-column: span 2">
+    <div style="padding-bottom: 66.8% !important;">
+      <img src="/images/music-artists/compressed/the-delirians.jpg" alt="The Delirians" />
+    </div>
+  </figure>
+  
+  <figure style="--image-width: 2048; --image-height: 1365; margin-top: 1px; margin-bottom: 1px; grid-column: span 2">
+    <div style="padding-bottom: 66.8% !important;">
+      <img src="/images/music-artists/compressed/earth-arrow.jpg" alt="Earth Arrow" />
+    </div>
+  </figure>
+</div>
 
 ### The Front Yard Stage
 
-#### Southern Soul Spinners 
+featuring _Southern Soul Spinners, Blaq Pages, Foreigner,_ and _DJ Lez Lee_
 
-<figure><img src="/images/music-artists/compressed/southern-soul-spinners.jpg" alt="Southern Soul Spinners" /></figure>
+<div class="artist-group" markdown="1" style="grid-gap: 1.5em; grid-column: 2/-2;">
+  <figure style="--image-width: 2568; --image-height: 2500; margin-top: 1px; margin-bottom: 1px;">
+    <div>
+      <img src="/images/music-artists/compressed/southern-soul-spinners.jpg" alt="Southern Soul Spinners" />
+    </div>
+  </figure>
 
+  <figure style="--image-width: 1000; --image-height: 667; margin-top: 1px; margin-bottom: 1px;">
+    <div>
+      <img src="/images/music-artists/compressed/blaq-pages.jpg" alt="Blaq Pages" />
+    </div>
+  </figure>
 
-#### Blaq Pages
+  <figure style="--image-width: 1000; --image-height: 1500; margin-top: 1px; margin-bottom: 1px;">
+    <div>
+      <img src="/images/music-artists/compressed/foreigner.jpg" alt="Foreigner" />
+    </div>
+  </figure>
 
-<figure><img src="/images/music-artists/compressed/blaq-pages.jpg" alt="Blaq Pages" /></figure>
+  <figure style="--image-width: 1000; --image-height: 667; margin-top: 1px; margin-bottom: 1px;">
+    <div>
+      <img src="/images/music-artists/compressed/dj-lez-lee.jpg" alt="DJ Lez Lee" />
+    </div>
+  </figure>
+</div>
 
-
-#### foreigner
-
-<figure><img src="/images/music-artists/compressed/foreigner.jpg" alt="foreigner" /></figure>
-
-
-#### DJ Lez Lee
-
-<figure><img src="/images/music-artists/compressed/dj-lez-lee.jpg" alt="DJ Lez Lee" /></figure>
 
 
 

@@ -480,7 +480,8 @@
     width: 100%;
   }
   figure > div[data-aspect-ratio] a,
-  figure > div[data-aspect-ratio] img {
+  figure > div[data-aspect-ratio] img,
+  figure[style*="--image-width"][style*="--image-height"] img {
     position: absolute;
     top: 0;
     left: 0;
@@ -511,6 +512,15 @@
     height: 100%;
   }
 
+  figure[style*="--image-width"][style*="--image-height"] > div {
+    position: relative;
+    padding-bottom: calc(var(--image-height)/var(--image-width) * 100%); 
+  }
+
+  figure > div[data-aspect-ratio="451/676"] {
+    padding-bottom: 149.88913525%;
+  }
+
   figure > div[data-aspect-ratio="1280/720"] {
     padding-bottom: 56.25%;
   }
@@ -521,23 +531,17 @@
   }
 
   /* NYELA Map */
-  figure > div[data-aspect-ratio="2048/2506"] {
-    padding-bottom: 122.36328125%; 
+  figure > div[data-aspect-ratio="2048/3140"] {
+    padding-bottom: 153.3203125%; 
   }
 
   /* July 4th Road Closures */
   figure > div[data-aspect-ratio="853/940"] {
     padding-bottom: 110.1992966%;
   }
-  figure > div[data-aspect-ratio="987/987"] {
-    padding-bottom: 100%;
-  }
   @media (min-aspect-ratio: 1/1) {
     figure > div[data-aspect-ratio-landscape="1678/940"] {
       padding-bottom: 56.01907032%;
-    }
-    figure > div[data-aspect-ratio-landscape="1676/987"] {
-      padding-bottom: 58.8902148%;
     }
   }
 
@@ -573,14 +577,10 @@
   figure > div[data-aspect-ratio="2/3"] {
     padding-bottom: 150%;
   }
-  figure > div[data-aspect-ratio="1/2"] {
-    padding-bottom: 200%;
-  }
   @supports (object-fit: cover) {
     .featured-artists figure > div[data-aspect-ratio="1/1"] img,
     .featured-artists figure > div[data-aspect-ratio="3/2"] img,
-    .featured-artists figure > div[data-aspect-ratio="2/3"] img,
-    .featured-artists figure > div[data-aspect-ratio="1/2"] img, {
+    .featured-artists figure > div[data-aspect-ratio="2/3"] img {
       height: 100%;
       object-fit: cover;
     }
@@ -595,42 +595,6 @@
   figure > div[data-aspect-ratio="5312/2988"] {
     padding-bottom: 56.25%;
   }
-  figure > div[data-aspect-ratio="1117/660"] {
-    padding-bottom: 59.08683975%;
-  }
-  figure > div[data-aspect-ratio="700/956"] {
-    padding-bottom: 136.57142857%;
-  }
-  figure > div[data-aspect-ratio="1435/2135"] {
-    padding-bottom: 148.7804878%;
-  }
-  figure > div[data-aspect-ratio="1244/606"] {
-    padding-bottom: 48.71382637%;
-  }
-  figure > div[data-aspect-ratio="864/853"] {
-    padding-bottom: 98.72685185%;
-  }
-  figure > div[data-aspect-ratio="461/821"] {
-    padding-bottom: 178.09110629%;
-  }
-  figure > div[data-aspect-ratio="907/605"] {
-    padding-bottom: 66.70341786%;
-  }
-  figure > div[data-aspect-ratio="1065/863"] {
-    padding-bottom: 81.03286385%;
-  }
-  figure > div[data-aspect-ratio="738/983"] {
-    padding-bottom: 133.19783198%;
-  }
-  figure > div[data-aspect-ratio="747/900"] {
-    padding-bottom: 120.48192771%;
-  }
-
-
-
-
-
-
 
 
 
@@ -1127,6 +1091,7 @@
   */
 
 
+
   /* =Featured Artists
   ----------------------------------------------- */
 
@@ -1145,6 +1110,7 @@
   }
 
   @media (min-width: 45.8em) {
+    /*
     .all-star-band {
       width: 40em;
       max-width: 100%;
@@ -1160,6 +1126,7 @@
       margin-top: 0;
       margin-bottom: 0;
     }
+    .all-star-band figure:nth-child(1),
     .all-star-band figure:nth-child(2),
     .all-star-band figure:nth-child(3),
     .all-star-band figure:nth-child(4),
@@ -1186,30 +1153,47 @@
     .beat-junkies figure:nth-child(3) {
       clear: both;
     }
+    */
+    
+    .featured-artists > figure {
+      margin-top: 1.45em;
+      margin-bottom: calc(1.45em * 4);
+    }
 
-
-    .soulection {
-      width: 40em;
-      max-width: 100%;
+    .artist-group {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      margin-top: 1.45em;
+      margin-bottom: calc(1.45em * 4);
+      max-width: 40em;
       margin-left: auto;
       margin-right: auto;
     }
-    .soulection figure:nth-child(1),
-    .soulection figure:nth-child(2),
-    .soulection figure:nth-child(3) {
-      width: 50%;
-      float: left;
-      margin-top: 0;
-      margin-bottom: 0;
+    .artist-group > figure {
+      width: 100%;
+      margin: 0;
     }
-    .soulection::after {
-      content: "";
-      display: table;
-      clear: both;
+    .artist-group > figure > div {
+      padding-bottom: 150% !important;
     }
-    .soulection figure:nth-child(2) {
-      float: right;
+    .artist-group > figure > div img {
+      object-fit: cover;
+      object-position: center;
+      height: 100% !important;
     }
+    .artist-group > figure:nth-child(2)[style*="--image-width: 1999; --image-height: 1336;"] {
+      grid-column: 1/-1;
+      grid-row: 2;
+    }
+    .artist-group > figure:nth-child(2)[style*="--image-width: 1999; --image-height: 1336;"] div {
+      padding-bottom: 75% !important
+    }
+    .artist-group > figure[style*="--image-focus: left;"] img {
+      object-position: left;
+    }
+    
+
+
 
     .featured-artists ul {
       display: flex;
@@ -1234,4 +1218,51 @@
     }
   }
 
+
+  /* =Special Notice
+  ----------------------------------------------- */
+  .special-notice {
+    padding: 1px 1.45em 1.45em;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+    background-color: hsl(254.4, 71.7%, 19.4%); /* @purple */
+    color: white;
+  }
+  @media (min-width: 40em) {
+    .special-notice {
+      padding: 1px 2.9em 2.9em;
+      margin-left: -2.9em;
+      margin-right: -2.9em;
+    }
+  }
+  .special-notice h1 {
+    color: #ECB0BC;
+  }
+  .special-notice a,
+  .special-notice a:hover,
+  .special-notice a:active,
+  .special-notice a:focus {
+    color: inherit;
+  }
+
+
+  /* =My Dream LA
+  ----------------------------------------------- */
+  figure.my-dream-la > div[data-aspect-ratio] a.has-icon::before {
+    content: "";
+    background-color: hsla(360, 0%, 0%, 0.1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  /* img[src*="images/my-dream-la"] {
+    height: 20em;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    border: 2px solid;
+  } */
 
