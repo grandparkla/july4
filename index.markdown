@@ -363,7 +363,7 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 Fun things to do throughout the park! Check the [map](#map) for locations.
 
-* Ferris Wheel<br /><small>Closes at 8:30pm. Purchase tickets at booth on Broadway near Temple.</small>
+* Ferris Wheel<br /><small>Closes at 8:30pm. Ticket prices are 1 for $3, 2 for $5. Purchase tickets at booth on Broadway near Temple.</small>
 * Voter Registration
 * FIBA Basketball World Cup 2019 Trophy Tour
 * Häagen-Dazs Ice Cream
@@ -417,7 +417,7 @@ The event will take place at Grand Park + The Music Center:<br />
 
 ## Street Closures
 
-Street closures will begin taking effect the evening of Tuesday, July 3. All streets will reopen by 6 a.m. on Friday, July 5.
+Street closures will begin taking effect the evening of Wednesday, July 3. All streets will reopen by 6 a.m. on Friday, July 5.
 
 See the [4th of July Community Letter](/4thofjuly-2019-community-letter.pdf) for more details about streets that will be closed during the event.
 
