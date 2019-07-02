@@ -662,6 +662,8 @@
     color: white;
     background-color: rgb(140, 197, 65); /* @green */
     color: rgb(41, 96, 46); /* @darkgreen */
+    background-color: rgb(125, 210, 242); /* @blue */
+    color: rgb(19, 127, 166); /* @darkblue */
     text-decoration: none;
     border-radius: 0.25em;
     transition: background-color 0.2s, color 0.2s;
@@ -672,6 +674,7 @@
   body > ul:first-of-type a[href]:focus {
     background-color: rgb(235, 12, 128); /* @pink */
     background-color: rgb(90, 150, 55); /* @mediumgreen */
+    background-color: rgb(19, 177, 216); /* @mediumblue */
     color: white;
     text-decoration: none;
   }
@@ -1225,7 +1228,7 @@
     padding: 1px 1.45em 1.45em;
     margin-left: -1.45em;
     margin-right: -1.45em;
-    background-color: hsl(254.4, 71.7%, 19.4%); /* @purple */
+    background-color: hsl(245, 49%, 29%);
     color: white;
   }
   @media (min-width: 40em) {
@@ -1236,7 +1239,7 @@
     }
   }
   .special-notice h1 {
-    color: #ECB0BC;
+    color: rgb(125, 210, 242); /* @blue */
   }
   .special-notice a,
   .special-notice a:hover,

@@ -2,6 +2,14 @@
 title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 ---
 
+<section class="special-notice" role="status" markdown="1">
+
+# Announcements
+
+Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates about Thursday’s event!
+
+</section>
+
 * [Safety](#safety)
 * [Schedule](#schedule)
 * [Artists](#artists)
