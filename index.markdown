@@ -211,9 +211,9 @@ Food vendors will be onsite. _(More updates to follow.)_
 
 ### The Backyard Stage
 
-on Spring Street, in front of City Hall
+#### Grand Park’s Event Lawn next to City Hall, between Broadway and Spring Street
 
-featuring _Boogaloo Assassins, Victoria La Mala, The Delirians, Earth Arrow_ and _DJ Linafornia_
+Featuring _Boogaloo Assassins, Victoria La Mala, The Delirians, Earth Arrow_ and _DJ Linafornia_
 
 <div class="artist-group" markdown="1" style="grid-gap: 1.5em; grid-column: 2/-2;">
   <figure style="--image-width: 1000; --image-height: 668; margin-top: 1px; margin-bottom: 1px; grid-column: span 2">
@@ -249,9 +249,9 @@ featuring _Boogaloo Assassins, Victoria La Mala, The Delirians, Earth Arrow_ and
 
 ### The Front Yard Stage
 
-near Hill Street
+#### Grand Park’s Performance Lawn between Grand Avenue and Hill Street
 
-featuring _DJ Lez Lee, Blaq Pages, foreigner,_ and _Southern Soul Spinners_
+Featuring _DJ Lez Lee, Blaq Pages, foreigner,_ and _Southern Soul Spinners_
 
 <div class="artist-group" markdown="1" style="grid-gap: 1.5em; grid-column: 2/-2;">
   <figure style="--image-width: 1000; --image-height: 667; margin-top: 1px; margin-bottom: 1px;">
@@ -289,26 +289,6 @@ Doors open at <span class="time">3 p.m.</span> At <span class="time">9 p.m.</spa
 Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 
-### The Frontyard Stage 
-
-#### Grand Park’s Performance Lawn between Grand Avenue and Hill Street
-
-3:00 – 4:30 p.m.
-: Southern Soul Spinners
-
-4:30 – 6:00 p.m.
-: Blaq Pages
-
-6:00 – 7:30 p.m.
-: foreigner
-
-7:30 – 9:00 p.m.
-: DJ Lez Lee
-
-9:00 – 9:15 p.m.
-: Fireworks (from the Dorothy Chandler Pavilion)
-
-
 ### The Backyard Stage
 
 #### Grand Park’s Event Lawn next to City Hall, between Broadway and Spring Street
@@ -341,6 +321,26 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 : Fireworks (from the Dorothy Chandler Pavilion)
 
 
+### The Frontyard Stage 
+
+#### Grand Park’s Performance Lawn between Grand Avenue and Hill Street
+
+3:00 – 4:30 p.m.
+: Southern Soul Spinners
+
+4:30 – 6:00 p.m.
+: Blaq Pages
+
+6:00 – 7:30 p.m.
+: foreigner
+
+7:30 – 9:00 p.m.
+: DJ Lez Lee
+
+9:00 – 9:15 p.m.
+: Fireworks (from the Dorothy Chandler Pavilion)
+
+
 <!--
 
 ### Look Up!
@@ -355,7 +355,7 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 
 Fun things to do throughout the park! Check the [map](#map) for locations.
 
-* Ferris Wheel<br /><small>closes at 8:30pm. purchase tickets at booth on broadway near temple.</small>
+* Ferris Wheel<br /><small>Closes at 8:30pm. Purchase tickets at booth on Broadway near Temple.</small>
 * Voter Registration
 * FIBA Basketball World Cup 2019 Trophy Tour
 * Häagen-Dazs Ice Cream
