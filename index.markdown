@@ -45,7 +45,31 @@ July 4, 2019
 Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
+<figure>
+<div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
+<a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" class="has-icon">
+<!-- Jim’s Google Maps API key -->
+<picture>
+<source srcset="/images/grand-park-on-google-maps-1280x640.png 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
+<source srcset="/images/grand-park-on-google-maps-1280x1280.png 1280w" sizes="100vw" />
+<img src="/images/grand-park-on-google-maps-1280x1280.png" width="1000" alt="" />
+</picture>
+<span class="icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+</svg>
+</span>
+<span class="credit">Grand Park on Google Maps</span>
+</a>
+</div>
+</figure>
 
+{% comment %}
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" target="_blank" class="has-icon">
@@ -69,6 +93,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
+{% endcomment %}
 
 ### Cost
 
@@ -329,7 +354,7 @@ Fun things to do throughout the park! Check the [map](#map) for locations.
 * Ferris Wheel<br /><small>closes at 8:30pm. purchase tickets at booth on broadway near temple.</small>
 * Voter Registration
 * FIBA Basketball World Cup 2019 Trophy Tour
-* Häagen Dazs Ice Cream
+* Häagen-Dazs Ice Cream
 * Sweet Beats Mobile DJ Truck
 
 
