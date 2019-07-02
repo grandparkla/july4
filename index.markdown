@@ -209,9 +209,11 @@ Food vendors will be onsite. _(More updates to follow.)_
 ## <a id="artists"></a> Featured Artists
 
 
-### The backyard stage
+### The Backyard Stage
 
-featuring _Boogaloo Assassins, DJ Linafornia, The Delirians, Earth Arrow,_ and _Victoria La Mala_
+on Spring Street, in front of City Hall
+
+featuring _Boogaloo Assassins, Victoria La Mala, The Delirians, Earth Arrow_ and _DJ Linafornia_
 
 <div class="artist-group" markdown="1" style="grid-gap: 1.5em; grid-column: 2/-2;">
   <figure style="--image-width: 1000; --image-height: 668; margin-top: 1px; margin-bottom: 1px; grid-column: span 2">
@@ -220,15 +222,15 @@ featuring _Boogaloo Assassins, DJ Linafornia, The Delirians, Earth Arrow,_ and _
     </div>
   </figure>
 
-  <figure style="--image-width: 1000; --image-height: 667; margin-top: 1px; margin-bottom: 1px;">
-    <div>
-      <img src="/images/music-artists/compressed/linafornia.jpg" alt="DJ Linafornia" />
-    </div>
-  </figure>
-
   <figure style="--image-width: 1080; --image-height: 1080; margin-top: 1px; margin-bottom: 1px;">
     <div>
       <img src="/images/music-artists/compressed/victoria-la-mala.jpg" alt="Victoria La Mala" />
+    </div>
+  </figure>
+
+  <figure style="--image-width: 1000; --image-height: 667; margin-top: 1px; margin-bottom: 1px;">
+    <div>
+      <img src="/images/music-artists/compressed/linafornia.jpg" alt="DJ Linafornia" />
     </div>
   </figure>
 
@@ -247,12 +249,14 @@ featuring _Boogaloo Assassins, DJ Linafornia, The Delirians, Earth Arrow,_ and _
 
 ### The Front Yard Stage
 
-featuring _Southern Soul Spinners, Blaq Pages, Foreigner,_ and _DJ Lez Lee_
+near Hill Street
+
+featuring _DJ Lez Lee, Blaq Pages, foreigner,_ and _Southern Soul Spinners_
 
 <div class="artist-group" markdown="1" style="grid-gap: 1.5em; grid-column: 2/-2;">
-  <figure style="--image-width: 2568; --image-height: 2500; margin-top: 1px; margin-bottom: 1px;">
+  <figure style="--image-width: 1000; --image-height: 667; margin-top: 1px; margin-bottom: 1px;">
     <div>
-      <img src="/images/music-artists/compressed/southern-soul-spinners.jpg" alt="Southern Soul Spinners" />
+      <img src="/images/music-artists/compressed/dj-lez-lee.jpg" alt="DJ Lez Lee" />
     </div>
   </figure>
 
@@ -268,9 +272,9 @@ featuring _Southern Soul Spinners, Blaq Pages, Foreigner,_ and _DJ Lez Lee_
     </div>
   </figure>
 
-  <figure style="--image-width: 1000; --image-height: 667; margin-top: 1px; margin-bottom: 1px;">
+  <figure style="--image-width: 2568; --image-height: 2500; margin-top: 1px; margin-bottom: 1px;">
     <div>
-      <img src="/images/music-artists/compressed/dj-lez-lee.jpg" alt="DJ Lez Lee" />
+      <img src="/images/music-artists/compressed/southern-soul-spinners.jpg" alt="Southern Soul Spinners" />
     </div>
   </figure>
 </div>
