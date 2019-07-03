@@ -211,7 +211,32 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ### Food for Sale
 
-Food vendors will be onsite. _(More updates to follow.)_
+A variety of food trucks will be at the event, including…
+
+* [Roni Macaroni](https://www.ronimacaronifoodtruck.com/)
+* [Inglorious Funnels](https://twitter.com/ingloriousfunns)
+* [The Beach Bar Italian Ice](https://www.facebook.com/TheBeachBarItalianIce/)
+* [Atomic Cafe](https://atomiccafemobile.com/)
+* [Merci Clement](https://www.yelp.com/biz/merci-clement-truck-los-angeles)
+* [Dulce Europa Shaved Ice](https://www.instagram.com/dulceeuropashavedice/)
+* [District Burger](https://www.facebook.com/districtburgerla/)
+* [Boba Ni Taco](https://www.yelp.com/biz/boba-ni-taco-truck-rosemead-2)
+* [Nomad Ice Pops](http://nomadicepops.com/)
+* [Comet Food truck](https://www.facebook.com/cometbbq/)
+* [BrewWings](https://brewwing.com/)
+* [Dreamy creations](https://www.dreamycreations.com/)
+* [Oaxaca on wheels](https://www.oaxacaonwheelsfoodtruck.com)
+* [African Chop](https://www.yelp.com/biz/african-chop-los-angeles)
+* [India Jones Chow Truck](http://indiajoneschowtruck.com)
+* [VCHOS](http://vchostruck.com)
+* [Churro la Espanola](https://www.yelp.com/biz/churros-la-espanola-whittier)
+* Los Cebollines FT
+* [Daddy Best Froyo](https://www.yelp.com/biz/daddys-best-froyo-truck-el-monte)
+* [The Surfer Taco](http://thesurfertaco.com)
+* [Daydrinkers](https://www.daydrinkerstruck.com)
+* [Shrimp and Taco](https://roaminghunger.com/the-shrimp-taco-stop/)
+* [Elabrew Coffee](http://www.elabrewcoffee.com)
+* [Jackfruit Cafe](https://jackfruitcafe.com)
 
 
 ## <a id="artists"></a> Featured Artists
@@ -359,12 +384,12 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 -->
 
 
-## <a id="fun"></a> Activations
+## <a id="fun"></a> Fun things to do throughout the event!
 
-Fun things to do throughout the park! Check the [map](#map) for locations.
+Check the [map](#map) for locations.
 
-* Ferris Wheel<br /><small>Closes at 8:30pm. Ticket prices are 1 for $3, 2 for $5. Purchase tickets at booth on Broadway near Temple.</small>
-* Voter Registration
+* Ferris Wheel<br /><small>Closes at 8:30pm. Ticket prices are 1 for $3, 2 for $5. Purchase tickets at booth on Broadway near Temple. Minimum height to ride is 36 inches.</small>
+* Voter Registration<br /><small>The Los Angeles County has a new vote model, our Ballot Marking Device! Visit their booth where you may try out the new vote model.</small>
 * FIBA Basketball World Cup 2019 Trophy Tour
 * Häagen-Dazs Ice Cream
 * Sweet Beats Mobile DJ Truck
