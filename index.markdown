@@ -6,9 +6,11 @@ title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 
 # Announcements
 
-Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates about Thursday’s event!
+2020 Announcements Coming Soon
 
 </section>
+
+<!--
 
 * [Safety](#safety)
 * [Schedule](#schedule)
@@ -28,11 +30,11 @@ Grand Park</em>
 
 Visit our info booths to sign up for our e-newsletter and get a free pair of Grand Park sunglasses <small>(while supplies last)</small>.
 
-<!--
+{% comment %}
  and enter for a chance to win a gift card!
 
 <small>(Some restrictions may apply.)</small>
--->
+{% endcomment %}
 
 
 ### When
@@ -56,7 +58,7 @@ Grand Park + The Music Center:<br />
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" class="has-icon">
-<!-- Jim’s Google Maps API key -->
+{% comment %} Jim’s Google Maps API key {% endcomment %}
 <picture>
 <source srcset="/images/grand-park-on-google-maps-1280x640.png 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="/images/grand-park-on-google-maps-1280x1280.png 1280w" sizes="100vw" />
@@ -81,7 +83,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" target="_blank" class="has-icon">
-<!-- Jim’s Google Maps API key -->
+{% comment %} Jim’s Google Maps API key {% endcomment %}
 <picture>
 <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" />
@@ -113,9 +115,9 @@ This is a **free** event. There’s no cost to attend.
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
 <a href="https://vimeo.com/82051161" target="_blank" class="has-icon">
-<!--
+{% comment %}
 <img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="" />
--->
+{% endcomment %}
 <img src="/images/highlights-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
@@ -374,14 +376,14 @@ Experience *music* and *artists* that call L.A. home, at the two music stages:
 : Fireworks (from the Dorothy Chandler Pavilion)
 
 
-<!--
+{% comment %}
 
 ### Look Up!
 
 9:00 – 9:15 p.m.
 : Fireworks (from the Dorothy Chandler Pavilion)
 
--->
+{% endcomment %}
 
 
 ## <a id="fun"></a> Fun things to do throughout the event!
@@ -395,7 +397,7 @@ Check the [map](#map) for locations.
 * Sweet Beats Mobile DJ Truck
 
 
-<!--
+{% comment %}
 ## Kids' Play Zones
 
 There will be a dedicated play spaces on the event lawn for children ages 4-14.
@@ -416,7 +418,7 @@ There will be a dedicated play spaces on the event lawn for children ages 4-14.
 : **Face Painting:** Choose from designs made exclusively for 4th of July!
 : **The Love Bus:** Step aboard the bus and decorate it with whatever you love!
 : **Crafts:** Create your own colorful bracelet symbolizing  everything you love: Community, Family, and of course, Peace and love! 
--->
+{% endcomment %}
 
 
 
@@ -516,14 +518,18 @@ Plan your trip at [metro.net](https://www.metro.net/)
   <li><img src="/images/logos/grandpark-musiccenter.png" alt="Grand Park + The Music Center" /></li>
   <li><img src="/images/logos/hildal.png" alt="Supervisor Hilda L. Solis" /></li>
   <li><img src="/images/logos/council-district-14.png" alt="Council District 14, Los Angeles" /></li>
-  <!--
+  {% comment %}
   <li><img src="/images/logos/metro.png" alt="Metro" /></li>
   <li><img src="/images/logos/kaiser.png" alt="Kasier Permanente" /></li>
   <li><img src="/images/logos/2019/macys.png" alt="Macy’s Gives" /></li>
   <li><img src="/images/logos/2019/metro-pcs.png" alt="Metro PCS" style="height: 1.45em" /></li>
-	-->
+	{% endcomment %}
 </ul>
 
+-->
+
+{% comment %} Temporary shim {% endcomment %}
+<ul></ul>
 
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
 
