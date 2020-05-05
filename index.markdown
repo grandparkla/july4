@@ -528,6 +528,9 @@ Plan your trip at [metro.net](https://www.metro.net/)
 
 -->
 
+{% comment %} Temporary shim {% endcomment %}
+<ul></ul>
+
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
 
 <ul class="social-links">
