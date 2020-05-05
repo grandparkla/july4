@@ -6,9 +6,11 @@ title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 
 # Announcements
 
-Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates about Thursday’s event!
+2020 Announcements Coming Soon
 
 </section>
+
+<!--
 
 * [Safety](#safety)
 * [Schedule](#schedule)
@@ -524,6 +526,7 @@ Plan your trip at [metro.net](https://www.metro.net/)
 	{% endcomment %}
 </ul>
 
+-->
 
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
 
