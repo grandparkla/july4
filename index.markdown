@@ -6,7 +6,14 @@ title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
 
 # Announcements
 
-2020 Announcements Coming Soon
+EIGHTH ANNUAL GRAND PARK + THE MUSIC CENTER'S 4TH OF JULY BLOCK PARTY TO GO VIRTUAL WITH PERFORMANCES AND FAMILY FUN SO ANGELENOS
+CAN JOIN TOGETHER TO CELEBRATE SAFELY
+
+Grand Park Will Be Closed to Public Gatherings and Picnics On July 4th 
+
+WATCH ON:  July 4, 2020 (Time TBA) on Grand Park’s Digital Streaming Platforms 
+
+Stay tuned for more details!
 
 </section>
 
