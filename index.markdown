@@ -9,9 +9,8 @@ title: '4th of July Block Party, 2020 / Grand Park + The Music Center'
 EIGHTH ANNUAL GRAND PARK + THE MUSIC CENTER'S 4TH OF JULY BLOCK PARTY TO GO VIRTUAL WITH PERFORMANCES AND FAMILY FUN SO ANGELENOS
 CAN JOIN TOGETHER TO CELEBRATE SAFELY
 
-Grand Park Will Be Closed to Public Gatherings and Picnics On July 4th 
 
-WATCH ON:  July 4, 2020 (Time TBA) on Grand Park’s Digital Streaming Platforms 
+WATCH ON:  July 4, 2020 7:00 PM to 8:00 PM Pacific on KABC Channel 7, and 8:00 PM to 10:00 PM Pacific on Grand Park’s Digital Streaming Platforms 
 
 Stay tuned for more details!
 
