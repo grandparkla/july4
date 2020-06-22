@@ -1,5 +1,5 @@
 ---
-title: '4th Of July Block Party, 2020 / Grand Park + The Music Center'
+title: '4th of July Block Party, 2020 / Grand Park + The Music Center'
 ---
 
 <section class="special-notice" role="status" markdown="1">
@@ -128,10 +128,10 @@ This is a **free** event. There’s no cost to attend.
 <img src="/images/highlights-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
-<title>Video of Grand Park and The Music Center’s 4th Of July Block Party</title>
+<title>Video of Grand Park and The Music Center’s 4th of July Block Party</title>
 <switch>
 <polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
-<foreignobject>Video of Grand Park and The Music Center’s 4th Of July Block Party</foreignobject>
+<foreignobject>Video of Grand Park and The Music Center’s 4th of July Block Party</foreignobject>
 </switch>
 </svg>
 </span>
