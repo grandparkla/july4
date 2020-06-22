@@ -1228,8 +1228,8 @@
     padding: 1px 1.45em 1.45em;
     margin-left: -1.45em;
     margin-right: -1.45em;
-    background-color: hsl(245, 49%, 29%);
-    color: white;
+    background-color: hsl(60, 100%, 64%);
+    color: #282828;
   }
   @media (min-width: 40em) {
     .special-notice {
@@ -1239,7 +1239,7 @@
     }
   }
   .special-notice h1 {
-    color: rgb(125, 210, 242); /* @blue */
+    color: rgb(40, 40, 40); /* @blue */
   }
   .special-notice a,
   .special-notice a:hover,

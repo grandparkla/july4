@@ -1,5 +1,5 @@
 ---
-title: '4th Of July Block Party, 2019 / Grand Park + The Music Center'
+title: '4th Of July Block Party, 2020 / Grand Park + The Music Center'
 ---
 
 <section class="special-notice" role="status" markdown="1">
@@ -515,17 +515,21 @@ Or take the Gold Line to *Union Station* or the *Little Tokyo/Arts District Sta
 
 Plan your trip at [metro.net](https://www.metro.net/)
 
+-->
+
+
 
 <h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
 
 
 
 <ul class="logos">
+  <li><img src="/images/logos/abc7.png" alt="ABC7, Los Angeles and Southern California News" /></li>
   <li><img src="/images/logos/los-angeles.png" alt="County of Los Angeles" /></li>
-  <li><img src="/images/logos/grandpark-musiccenter.png" alt="Grand Park + The Music Center" /></li>
   <li><img src="/images/logos/hildal.png" alt="Supervisor Hilda L. Solis" /></li>
-  <li><img src="/images/logos/council-district-14.png" alt="Council District 14, Los Angeles" /></li>
+  <li><img src="/images/logos/grandpark-musiccenter.png" alt="Grand Park + The Music Center" /></li>
   {% comment %}
+  <li><img src="/images/logos/council-district-14.png" alt="Council District 14, Los Angeles" /></li>
   <li><img src="/images/logos/metro.png" alt="Metro" /></li>
   <li><img src="/images/logos/kaiser.png" alt="Kasier Permanente" /></li>
   <li><img src="/images/logos/2019/macys.png" alt="Macy’s Gives" /></li>
@@ -533,7 +537,6 @@ Plan your trip at [metro.net](https://www.metro.net/)
 	{% endcomment %}
 </ul>
 
--->
 
 {% comment %} Temporary shim {% endcomment %}
 <ul></ul>
