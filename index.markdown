@@ -19,6 +19,7 @@ Stay tuned for more details!
 ## Watch live here on July 4th!
 
 <figure class="feature">
+<figure class="feature" style="max-width: 40rem; margin-left: auto; margin-right: auto;">
 <div data-aspect-ratio="1280/720">
 <a href="https://www.youtube.com/watch?v=kKnFKoUROsA" target="_blank" class="has-icon">
 <img src="https://i.ytimg.com/vi/kKnFKoUROsA/maxresdefault.jpg" width="1000" alt="" />
@@ -39,6 +40,7 @@ Stay tuned for more details!
 ## In the meantime, here's our preview!
 
 <figure class="feature">
+<figure class="feature" style="max-width: 40rem; margin-left: auto; margin-right: auto;">
 <div data-aspect-ratio="1280/720">
 <a href="https://www.youtube.com/watch?v=KZ4n0lB8kJ8" target="_blank" class="has-icon">
 <img src="https://i.ytimg.com/vi/KZ4n0lB8kJ8/maxresdefault.jpg" width="1000" alt="" />
