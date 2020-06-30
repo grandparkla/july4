@@ -16,6 +16,46 @@ Stay tuned for more details!
 
 </section>
 
+## Watch live here on July 4th!
+
+<figure class="feature">
+<div data-aspect-ratio="1280/720">
+<a href="https://www.youtube.com/watch?v=kKnFKoUROsA" target="_blank" class="has-icon">
+<img src="https://i.ytimg.com/vi/kKnFKoUROsA/maxresdefault.jpg" width="1000" alt="" />
+<span class="icon play">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34" aria-label="Video of Grand Park and The Music Center’s 4th of July Block Party">
+<title>Video of Grand Park and The Music Center’s 4th of July Block Party</title>
+<switch>
+<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<foreignobject>Video of Grand Park and The Music Center’s 4th of July Block Party</foreignobject>
+</switch>
+</svg>
+</span>
+<span class="credit">Grand Park on YouTube</span>
+</a>
+</div>
+</figure>
+
+## In the meantime, here's our preview!
+
+<figure class="feature">
+<div data-aspect-ratio="1280/720">
+<a href="https://www.youtube.com/watch?v=KZ4n0lB8kJ8" target="_blank" class="has-icon">
+<img src="https://i.ytimg.com/vi/KZ4n0lB8kJ8/maxresdefault.jpg" width="1000" alt="" />
+<span class="icon play">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34" aria-label="Video of Grand Park and The Music Center’s 4th of July Block Party">
+<title>Video of Grand Park and The Music Center’s 4th of July Block Party</title>
+<switch>
+<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<foreignobject>Video of Grand Park and The Music Center’s 4th of July Block Party</foreignobject>
+</switch>
+</svg>
+</span>
+<span class="credit">Grand Park on YouTube</span>
+</a>
+</div>
+</figure>
+
 <!--
 
 * [Safety](#safety)
