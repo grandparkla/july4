@@ -6,10 +6,9 @@ title: '4th of July Block Party, 2020 / Grand Park + The Music Center'
 
 # Announcements
 
-EIGHTH ANNUAL GRAND PARK + THE MUSIC CENTER'S 4TH OF JULY BLOCK PARTY GOES VIRTUAL WITH PERFORMANCES AND FAMILY FUN SO ANGELENOS
-CAN JOIN TOGETHER TO CELEBRATE SAFELY
+GRAND PARK + THE MUSIC CENTER'S 4TH OF JULY BLOCK PARTY: HOME EDITION TO BE BROADCAST ON ABC7/KABC-TV LOS ANGELES WITH CONTINUED PROGRAMMING STREAMED VIA GRAND PARK’S AND THE MUSIC CENTER’S DIGITAL PLATFORMS
 
-Please note: There is no show onsite at the park. 
+Please note: There is no show onsite at the park. There is no fireworks show at the park. The show is on TV and online!
 
 </section>
 
@@ -62,33 +61,33 @@ Please note: There is no show onsite at the park.
 
 ## Featuring
 
-* [D Smoke](https://twitter.com/DSmoke7)
-* [Amindi](https://www.instagram.com/amindi/)
-* [Ginger Root](https://www.instagram.com/gingerrootmusic/)
-* [San Cha](https://www.instagram.com/__san_cha__/)
+[D Smoke](https://twitter.com/DSmoke7)<br>
+[Amindi](https://www.instagram.com/amindi/)<br>
+[Ginger Root](https://www.instagram.com/gingerrootmusic/)<br>
+[San Cha](https://www.instagram.com/__san_cha__/)<br>
 
-* [143 Worldwide](https://www.instagram.com/143worldwide/)
-* Aedan McDaniels
-* [Brian B+ Cross](https://www.instagram.com/bpleasel/)
-* [Cerda Vega](https://www.instagram.com/cerdavegatacos/)
-* [Chinese American Museum](www.camla.org)
-* [Cumbiatón](https://www.instagram.com/cumbiaton_la/)
-* [Danny Trejo](https://www.instagram.com/trejostacos/)
-* [Ernesto Yerena](https://www.instagram.com/ernestoyerena/)
-* [Estevan Oriol](https://www.estevanoriol.com/)
-* [Filipino AF](https://www.instagram.com/filipinoafshow/)
-* [Jitlada Thai: Chef Jazz and Chef Sugar](http://jitladala.com/)
-* [Jules Muck](http://julesmuck.com/)
-* [Luis J. Rodriguez](https://www.luisjrodriguez.com/)
-* [Mikey Alfred](https://www.instagram.com/illegalciv)
-* [The Park's Finest: Johneric and Christine Araquel Concordia](https://www.theparksfinest.com/)
-* [Patrick Martinez](http://www.patrickmartinez.com/)
-* [Sérgio Mielniczenko](http://www.brazilianhour.org/)
-* [Shepard Fairey](https://obeygiant.com/)
-* [Susan Feniger](http://www.bordergrill.com/about/history/)
-* [Thalma de Frietas](https://www.thalmadefreitas.com/bio)
-* [Todo Verde: Chef Jocelyn Ramirez](https://www.todoverde.org/about)
-* [Zoie Brogdon](https://www.facebook.com/zozonoellebrogdon/)
+[143 Worldwide](https://www.instagram.com/143worldwide/)<br>
+Aedan McDaniels<br>
+[Brian B+ Cross](https://www.instagram.com/bpleasel/)<br>
+[Cerda Vega](https://www.instagram.com/cerdavegatacos/)<br>
+[Chinese American Museum](www.camla.org)<br>
+[Cumbiatón](https://www.instagram.com/cumbiaton_la/)<br>
+[Danny Trejo](https://www.instagram.com/trejostacos/)<br>
+[Ernesto Yerena](https://www.instagram.com/ernestoyerena/)<br>
+[Estevan Oriol](https://www.estevanoriol.com/)<br>
+[Filipino AF](https://www.instagram.com/filipinoafshow/)<br>
+[Jitlada Thai: Chef Jazz and Chef Sugar](http://jitladala.com/)<br>
+[Jules Muck](http://julesmuck.com/)<br>
+[Luis J. Rodriguez](https://www.luisjrodriguez.com/)<br>
+[Mikey Alfred](https://www.instagram.com/illegalciv)<br>
+[The Park's Finest: Johneric and Christine Araquel Concordia](https://www.theparksfinest.com/)<br>
+[Patrick Martinez](http://www.patrickmartinez.com/)<br>
+[Sérgio Mielniczenko](http://www.brazilianhour.org/)<br>
+[Shepard Fairey](https://obeygiant.com/)<br>
+[Susan Feniger](http://www.bordergrill.com/about/history/)<br>
+[Thalma de Frietas](https://www.thalmadefreitas.com/bio)<br>
+[Todo Verde: Chef Jocelyn Ramirez](https://www.todoverde.org/about)<br>
+[Zoie Brogdon](https://www.facebook.com/zozonoellebrogdon/)<br>
 
 
 
