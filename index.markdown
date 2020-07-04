@@ -4,7 +4,6 @@ title: '4th of July Block Party, 2020 / Grand Park + The Music Center'
 
 <section class="special-notice" role="status" markdown="1">
 
-# Announcements
 
 GRAND PARK + THE MUSIC CENTER'S 4TH OF JULY BLOCK PARTY: HOME EDITION TO BE BROADCAST ON ABC7/KABC-TV LOS ANGELES WITH CONTINUED PROGRAMMING STREAMED VIA GRAND PARK’S AND THE MUSIC CENTER’S DIGITAL PLATFORMS
 
