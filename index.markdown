@@ -6,10 +6,10 @@ title: '4th of July Block Party, 2020 / Grand Park + The Music Center'
 
 # Announcements
 
-EIGHTH ANNUAL GRAND PARK + THE MUSIC CENTER'S 4TH OF JULY BLOCK PARTY TO GO VIRTUAL WITH PERFORMANCES AND FAMILY FUN SO ANGELENOS
+EIGHTH ANNUAL GRAND PARK + THE MUSIC CENTER'S 4TH OF JULY BLOCK PARTY GOES VIRTUAL WITH PERFORMANCES AND FAMILY FUN SO ANGELENOS
 CAN JOIN TOGETHER TO CELEBRATE SAFELY
 
-Please note: There is no show onsite at the park! 
+Please note: There is no show onsite at the park. 
 
 </section>
 
