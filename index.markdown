@@ -9,7 +9,7 @@ title: '4th of July Block Party, 2020 / Grand Park + The Music Center'
 EIGHTH ANNUAL GRAND PARK + THE MUSIC CENTER'S 4TH OF JULY BLOCK PARTY TO GO VIRTUAL WITH PERFORMANCES AND FAMILY FUN SO ANGELENOS
 CAN JOIN TOGETHER TO CELEBRATE SAFELY
 
-Stay tuned for more details!
+Please note: There is no show onsite at the park! 
 
 </section>
 
@@ -59,6 +59,39 @@ Stay tuned for more details!
 </a>
 </div>
 </figure>
+
+## Featuring
+
+* [D Smoke](https://twitter.com/DSmoke7)
+* [Amindi](https://www.instagram.com/amindi/)
+* [Ginger Root](https://www.instagram.com/gingerrootmusic/)
+* [San Cha](https://www.instagram.com/__san_cha__/)
+
+* [143 Worldwide](https://www.instagram.com/143worldwide/)
+* Aedan McDaniels
+* [Brian B+ Cross](https://www.instagram.com/bpleasel/)
+* [Cerda Vega](https://www.instagram.com/cerdavegatacos/)
+* [Chinese American Museum](www.camla.org)
+* [Cumbiatón](https://www.instagram.com/cumbiaton_la/)
+* [Danny Trejo](https://www.instagram.com/trejostacos/)
+* [Ernesto Yerena](https://www.instagram.com/ernestoyerena/)
+* [Estevan Oriol](https://www.estevanoriol.com/)
+* [Filipino AF](https://www.instagram.com/filipinoafshow/)
+* [Jitlada Thai: Chef Jazz and Chef Sugar](http://jitladala.com/)
+* [Jules Muck](http://julesmuck.com/)
+* [Luis J. Rodriguez](https://www.luisjrodriguez.com/)
+* [Mikey Alfred](https://www.instagram.com/illegalciv)
+* [The Park's Finest: Johneric and Christine Araquel Concordia](https://www.theparksfinest.com/)
+* [Patrick Martinez](http://www.patrickmartinez.com/)
+* [Sérgio Mielniczenko](http://www.brazilianhour.org/)
+* [Shepard Fairey](https://obeygiant.com/)
+* [Susan Feniger](http://www.bordergrill.com/about/history/)
+* [Thalma de Frietas](https://www.thalmadefreitas.com/bio)
+* [Todo Verde: Chef Jocelyn Ramirez](https://www.todoverde.org/about)
+* [Zoie Brogdon](https://www.facebook.com/zozonoellebrogdon/)
+
+
+
 
 <!--
 
