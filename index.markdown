@@ -72,7 +72,7 @@ Please note: There is no show onsite at the park. There is no fireworks show at 
 Aedan McDaniels<br>
 [Brian B+ Cross](https://www.instagram.com/bpleasel/)<br>
 [Cerda Vega](https://www.instagram.com/cerdavegatacos/)<br>
-[Chinese American Museum](www.camla.org)<br>
+[Chinese American Museum](http://camla.org/)<br>
 [Cumbiatón](https://www.instagram.com/cumbiaton_la/)<br>
 [Danny Trejo](https://www.instagram.com/trejostacos/)<br>
 [Ernesto Yerena](https://www.instagram.com/ernestoyerena/)<br>
